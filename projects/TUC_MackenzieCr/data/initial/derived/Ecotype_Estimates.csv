@@ -1,0 +1,121 @@
+"Expert","Biodiversity","Estimate","Counterfactual","Action","Rating","Comments"
+1,"Freshwater","LOWEST",NA,NA,"1",NA
+1,"Freshwater","HIGHEST",NA,NA,NA,NA
+1,"Freshwater","BEST GUESS",NA,NA,NA,NA
+1,"Wetland","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Wetland","HIGHEST","80","90",NA,NA
+1,"Wetland","BEST GUESS","75","85",NA,NA
+1,"Coniferous Forest","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Coniferous Forest","HIGHEST","80","90",NA,NA
+1,"Coniferous Forest","BEST GUESS","75","85",NA,NA
+1,"Mixed Forest","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Mixed Forest","HIGHEST","80","90",NA,NA
+1,"Mixed Forest","BEST GUESS","75","85",NA,NA
+2,"Freshwater","LOWEST","25","50","4","Assuming that OHV users use the new infrasturcture, the new crossings should result in improvements to the local and downstream freshwater habitat."
+2,"Freshwater","HIGHEST","75","85",NA,NA
+2,"Freshwater","BEST GUESS","50","75",NA,NA
+2,"Wetland","LOWEST","25","50","4","Assuming that OHV users use the new infrasturcture, the new crossings should result in improvements to the local and downstream wetland habitat."
+2,"Wetland","HIGHEST","75","85",NA,NA
+2,"Wetland","BEST GUESS","50","75",NA,NA
+2,"Coniferous Forest","LOWEST","75","75","4","I don't suspect updating crossing infrastrucure will have long-term impacts on this ecotype."
+2,"Coniferous Forest","HIGHEST","100","100",NA,NA
+2,"Coniferous Forest","BEST GUESS","85","85",NA,NA
+2,"Mixed Forest","LOWEST","75","75","4","I don't suspect updating crossing infrastrucure will have long-term impacts on this ecotype."
+2,"Mixed Forest","HIGHEST","100","100",NA,NA
+2,"Mixed Forest","BEST GUESS","85","85",NA,NA
+3,"Freshwater","LOWEST","30","40","5",NA
+3,"Freshwater","HIGHEST","60","85",NA,NA
+3,"Freshwater","BEST GUESS","50","75",NA,NA
+3,"Wetland","LOWEST",NA,NA,"X",NA
+3,"Wetland","HIGHEST",NA,NA,NA,NA
+3,"Wetland","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater","LOWEST","25","50","8","If the Bull Trout are lost, the functioning of this ecotype is lost. Bulls are the only fish here."
+4,"Freshwater","HIGHEST","75","85",NA,NA
+4,"Freshwater","BEST GUESS","50","75",NA,NA
+4,"Wetland","LOWEST",NA,NA,"4",NA
+4,"Wetland","HIGHEST",NA,NA,NA,NA
+4,"Wetland","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater","LOWEST","50","50","modest (but on prairie)","As it is the focus of the project I think the river will benefit most. As with my previous notes I think there are many variables that are not controllable. I think this project is a positive one, and one that I am supportive of but I am cautiously optimistic."
+5,"Freshwater","HIGHEST","90","100",NA,NA
+5,"Freshwater","BEST GUESS","70","90",NA,NA
+5,"Wetland","LOWEST","50","50","modest (but on prairie)","Wetlands should benefit from reduced turbidity. "
+5,"Wetland","HIGHEST","90","100",NA,NA
+5,"Wetland","BEST GUESS","70","90",NA,NA
+5,"Coniferous Forest","LOWEST",NA,NA,"low","It seems unlikely to me that this project will have a decernable impact to these systems at this scale"
+5,"Coniferous Forest","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest","LOWEST",NA,NA,"low","It seems unlikely to me that this project will have a decernable impact to these systems at this scale"
+5,"Mixed Forest","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest","BEST GUESS",NA,NA,NA,NA
+6,"Freshwater","LOWEST","25","75","good","depending on how much damage has been done, it might be too late, or 20 years of recovery, after restoration may not be enough to ensure persistence of sufficiently good condition"
+6,"Freshwater","HIGHEST","85","100",NA,NA
+6,"Freshwater","BEST GUESS","65","85",NA,NA
+6,"Wetland","LOWEST","50","75","good","depending on how much damage has been done, it might be too late, or 20 years of recovery, after restoration may not be enough to ensure persistence of sufficiently good condition"
+6,"Wetland","HIGHEST","95","100",NA,NA
+6,"Wetland","BEST GUESS","85","85",NA,NA
+6,"Coniferous Forest","LOWEST","65","85","moderate",NA
+6,"Coniferous Forest","HIGHEST","95","100",NA,NA
+6,"Coniferous Forest","BEST GUESS","75","90",NA,NA
+6,"Mixed Forest","LOWEST","65","85","good",NA
+6,"Mixed Forest","HIGHEST","95","100",NA,NA
+6,"Mixed Forest","BEST GUESS","75","90",NA,NA
+7,"Freshwater","LOWEST","99","99","7","Freshwater will continue to persist in the Mackenzie Creek drainage regardless of project implementation. However, the quality of the freshwater will improve with project implementation."
+7,"Freshwater","HIGHEST","99","100",NA,NA
+7,"Freshwater","BEST GUESS","99","100",NA,NA
+7,"Wetland","LOWEST","40","99","7","The distribution of wetlands in the project area is mostly along the creek as riparian vegetation. Wetlands will likely continue to persist regardless of project implementation; however, will likely become degraded without mitigation. Wetlands should continue to persist in good health with project implementation."
+7,"Wetland","HIGHEST","85","100",NA,NA
+7,"Wetland","BEST GUESS","80","100",NA,NA
+7,"Coniferous Forest","LOWEST","70","95","7","Impacts of OHV use are likely mainly on existing trails but the counterfactual scenario will continue to degrade existing coniferous forests. Project implementation will result in peristence of coniferous forest in the project area."
+7,"Coniferous Forest","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest","BEST GUESS","99","100",NA,NA
+7,"Mixed Forest","LOWEST","40","90","7","Limited distribution of mixed forests in the project area. Unmitigated use of the existing trails and the creek bed by OHV traffic will degrade existing forest. Project implementation should ensure persistence of any existing mixed forest."
+7,"Mixed Forest","HIGHEST","90","100",NA,NA
+7,"Mixed Forest","BEST GUESS","75","99",NA,NA
+8,"Freshwater","LOWEST","15","50","3","This ecotype is most likely to be negatively affected in the counterfactual scenario and benefit from the proposed action."
+8,"Freshwater","HIGHEST","50","85",NA,NA
+8,"Freshwater","BEST GUESS","25","75",NA,NA
+8,"Wetland","LOWEST","15","50","3","This ecotype might also be negatively affected in the counterfactual scenario and benefit from the proposed action."
+8,"Wetland","HIGHEST","50","85",NA,NA
+8,"Wetland","BEST GUESS","25","75",NA,NA
+8,"Coniferous Forest","LOWEST","15","50","5","Reducing offroad vehicle activity near the creek will probably reduce the probability of manmade fires started by poorly cleaned vehicles, along with the spread of invasive plant seeds carried into forest trails on ATVs."
+8,"Coniferous Forest","HIGHEST","50","85",NA,NA
+8,"Coniferous Forest","BEST GUESS","25","75",NA,NA
+8,"Mixed Forest","LOWEST","15","50","5","Reducing offroad vehicle activity near the creek will probably reduce the probability of manmade fires started by poorly cleaned vehicles, along with the spread of invasive plant seeds carried into forest trails on ATVs."
+8,"Mixed Forest","HIGHEST","50","85",NA,NA
+8,"Mixed Forest","BEST GUESS","25","75",NA,NA
+9,"Freshwater","LOWEST","50","50",NA,"Freshwater ecotype - I am uncertain how changes to patterns of seasonal precipitation, snowfall accumulation, watershed storage over the next 20 years might result in changes to upper headwater systems and whether any of these would result in measurable change to the mapped area of freshwater ecotype present in the project area."
+9,"Freshwater","HIGHEST","100","100",NA,NA
+9,"Freshwater","BEST GUESS","90","90",NA,NA
+9,"Wetland","LOWEST","50","50",NA,"Wetland ecotype - I am uncertain how changes to patterns of seasonal precipitation, snowfall accumulation, watershed storage over the next 20 years might result in changes to upper headwater systems and whether any of these would result in measurable change to the mapped area of wetland (riparian) ecotype present in the project area."
+9,"Wetland","HIGHEST","100","100",NA,NA
+9,"Wetland","BEST GUESS","90","90",NA,NA
+9,"Coniferous Forest","LOWEST","50","50",NA,"Coniferous forest - I am uncertain how changes to patterns of seasonal precipitation, snowfall accumulation, fire disturbance may result in measurable effects to mapped area of coniferous forest ecotype."
+9,"Coniferous Forest","HIGHEST","100","100",NA,NA
+9,"Coniferous Forest","BEST GUESS","90","90",NA,NA
+9,"Mixed Forest","LOWEST","50","50",NA,"Mixed forest - I am uncertain how changes to patterns of seasonal precipitation, snowfall accumulation, fire disturbance may result in measurable effects to mapped area of mixed forest ecotype."
+9,"Mixed Forest","HIGHEST","100","100",NA,NA
+9,"Mixed Forest","BEST GUESS","90","90",NA,NA
+10,"Freshwater","LOWEST","40","60","5",NA
+10,"Freshwater","HIGHEST","60","90",NA,NA
+10,"Freshwater","BEST GUESS","55","80",NA,NA
+10,"Wetland","LOWEST","40","60","5",NA
+10,"Wetland","HIGHEST","60","90",NA,NA
+10,"Wetland","BEST GUESS","55","80",NA,NA
+10,"Coniferous Forest","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest","BEST GUESS",NA,NA,NA,NA

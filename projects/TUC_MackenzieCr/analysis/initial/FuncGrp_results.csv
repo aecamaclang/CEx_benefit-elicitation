@@ -1,0 +1,145 @@
+"Ecotype","Taxa","FuncGroup","Estimate","Persistence_Counterfactual","Benefit","Persistence_WithAction","ExpBenefit","ExpPersistence_WithAction","Freq"
+"Freshwater","Fish","Large predators","LOWEST",24.1666666666667,20.8333333333333,45,15.5208333333333,39.6875,6
+"Freshwater","Fish","Large predators","HIGHEST",66.6666666666667,22.5,89.1666666666667,16.7625,83.4291666666667,6
+"Freshwater","Fish","Large predators","BEST GUESS",38.3333333333333,33.3333333333333,71.6666666666667,24.8333333333333,63.1666666666667,6
+"Freshwater","Fish","Small-medium predators","LOWEST",32.5,22.5,55,16.7625,49.2625,5
+"Freshwater","Fish","Small-medium predators","HIGHEST",75,16.25,91.25,12.10625,87.10625,5
+"Freshwater","Fish","Small-medium predators","BEST GUESS",52.5,26.25,78.75,19.55625,72.05625,5
+"Freshwater","Reptiles and amphibians","Snakes and lizards","LOWEST",56.25,5,61.25,3.725,59.975,4
+"Freshwater","Reptiles and amphibians","Snakes and lizards","HIGHEST",80,8.75,88.75,6.51875,86.51875,4
+"Freshwater","Reptiles and amphibians","Snakes and lizards","BEST GUESS",68.75,11.25,80,8.38125,77.13125,4
+"Freshwater","Reptiles and amphibians","Frogs","LOWEST",50,11.25,61.25,8.38125,58.38125,4
+"Freshwater","Reptiles and amphibians","Frogs","HIGHEST",78.75,10,88.75,7.45,86.2,4
+"Freshwater","Reptiles and amphibians","Frogs","BEST GUESS",62.5,17.5,80,13.0375,75.5375,4
+"Freshwater","Reptiles and amphibians","Salamanders","LOWEST",50,14,64,10.43,60.43,5
+"Freshwater","Reptiles and amphibians","Salamanders","HIGHEST",78,12,90,8.94,86.94,5
+"Freshwater","Reptiles and amphibians","Salamanders","BEST GUESS",62,19,81,14.155,76.155,5
+"Freshwater","Birds","Carnivore","LOWEST",35,28.75,63.75,21.41875,56.41875,4
+"Freshwater","Birds","Carnivore","HIGHEST",72.5,18.75,91.25,13.96875,86.46875,4
+"Freshwater","Birds","Carnivore","BEST GUESS",58.75,25,83.75,18.625,77.375,4
+"Freshwater","Birds","Omnivore","LOWEST",42.5,10,52.5,7.45,49.95,4
+"Freshwater","Birds","Omnivore","HIGHEST",67.5,16.25,83.75,12.10625,79.60625,4
+"Freshwater","Birds","Omnivore","BEST GUESS",53.75,18.75,72.5,13.96875,67.71875,4
+"Freshwater","Birds","Insectivore/invertivore","LOWEST",35,25,60,18.625,53.625,3
+"Freshwater","Birds","Insectivore/invertivore","HIGHEST",66.6666666666667,21.6666666666667,88.3333333333333,16.1416666666667,82.8083333333333,3
+"Freshwater","Birds","Insectivore/invertivore","BEST GUESS",53.3333333333333,26.6666666666667,80,19.8666666666667,73.2,3
+"Freshwater","Birds","Herbivore/granivore","LOWEST",35,5,40,3.725,38.725,4
+"Freshwater","Birds","Herbivore/granivore","HIGHEST",65,5,70,3.725,68.725,4
+"Freshwater","Birds","Herbivore/granivore","BEST GUESS",46.25,11.25,57.5,8.38125,54.63125,4
+"Freshwater","Mammals","Carnivore, omnivore","LOWEST",41.6666666666667,18.3333333333333,60,13.6583333333333,55.325,3
+"Freshwater","Mammals","Carnivore, omnivore","HIGHEST",76.6666666666667,11.6666666666667,88.3333333333333,8.69166666666667,85.3583333333333,3
+"Freshwater","Mammals","Carnivore, omnivore","BEST GUESS",63.3333333333333,20,83.3333333333333,14.9,78.2333333333333,3
+"Freshwater","Mammals","Herbivore","LOWEST",47.5,18.75,66.25,13.96875,61.46875,4
+"Freshwater","Mammals","Herbivore","HIGHEST",80,11.25,91.25,8.38125,88.38125,4
+"Freshwater","Mammals","Herbivore","BEST GUESS",66.25,20,86.25,14.9,81.15,4
+"Freshwater","Vascular plants","Herbaceous","LOWEST",47.5,17.5,65,13.0375,60.5375,2
+"Freshwater","Vascular plants","Herbaceous","HIGHEST",77.5,7.5,85,5.5875,83.0875,2
+"Freshwater","Vascular plants","Herbaceous","BEST GUESS",62.5,17.5,80,13.0375,75.5375,2
+"Freshwater","Vascular plants","Woody","LOWEST",57.5,16.25,73.75,12.10625,69.60625,4
+"Freshwater","Vascular plants","Woody","HIGHEST",88.75,3.75,92.5,2.79375,91.54375,4
+"Freshwater","Vascular plants","Woody","BEST GUESS",75,15,90,11.175,86.175,4
+"Wetland","Fish","Large predators","LOWEST",21.6666666666667,28.3333333333333,50,21.1083333333333,42.775,3
+"Wetland","Fish","Large predators","HIGHEST",66.6666666666667,16.6666666666667,83.3333333333333,12.4166666666667,79.0833333333333,3
+"Wetland","Fish","Large predators","BEST GUESS",41.6666666666667,33.3333333333333,75,24.8333333333333,66.5,3
+"Wetland","Fish","Small-medium predators","LOWEST",20,30,50,22.35,42.35,3
+"Wetland","Fish","Small-medium predators","HIGHEST",62.5,20,82.5,14.9,77.4,3
+"Wetland","Fish","Small-medium predators","BEST GUESS",37.5,37.5,75,27.9375,65.4375,3
+"Wetland","Reptiles and amphibians","Snakes and lizards","LOWEST",53.75,7.5,61.25,5.5875,59.3375,4
+"Wetland","Reptiles and amphibians","Snakes and lizards","HIGHEST",80,8.75,88.75,6.51875,86.51875,4
+"Wetland","Reptiles and amphibians","Snakes and lizards","BEST GUESS",68.75,11.25,80,8.38125,77.13125,4
+"Wetland","Reptiles and amphibians","Frogs","LOWEST",48,18,66,13.41,61.41,5
+"Wetland","Reptiles and amphibians","Frogs","HIGHEST",83,8,91,5.96,88.96,5
+"Wetland","Reptiles and amphibians","Frogs","BEST GUESS",65,19,84,14.155,79.155,5
+"Wetland","Reptiles and amphibians","Salamanders","LOWEST",48,15,63,11.175,59.175,5
+"Wetland","Reptiles and amphibians","Salamanders","HIGHEST",79,12,91,8.94,87.94,5
+"Wetland","Reptiles and amphibians","Salamanders","BEST GUESS",63,18,81,13.41,76.41,5
+"Wetland","Birds","Carnivore","LOWEST",43.75,17.5,61.25,13.0375,56.7875,4
+"Wetland","Birds","Carnivore","HIGHEST",77.5,13.75,91.25,10.24375,87.74375,4
+"Wetland","Birds","Carnivore","BEST GUESS",61.25,20,81.25,14.9,76.15,4
+"Wetland","Birds","Omnivore","LOWEST",41.6666666666667,13.3333333333333,55,9.93333333333333,51.6,3
+"Wetland","Birds","Omnivore","HIGHEST",73.3333333333333,11.6666666666667,85,8.69166666666667,82.025,3
+"Wetland","Birds","Omnivore","BEST GUESS",58.3333333333333,16.6666666666667,75,12.4166666666667,70.75,3
+"Wetland","Birds","Insectivore/invertivore","LOWEST",46.25,18.75,65,13.96875,60.21875,4
+"Wetland","Birds","Insectivore/invertivore","HIGHEST",77.5,13.75,91.25,10.24375,87.74375,4
+"Wetland","Birds","Insectivore/invertivore","BEST GUESS",61.25,22.5,83.75,16.7625,78.0125,4
+"Wetland","Birds","Herbivore/granivore","LOWEST",42.5,10,52.5,7.45,49.95,4
+"Wetland","Birds","Herbivore/granivore","HIGHEST",67.5,16.25,83.75,12.10625,79.60625,4
+"Wetland","Birds","Herbivore/granivore","BEST GUESS",53.75,18.75,72.5,13.96875,67.71875,4
+"Wetland","Mammals","Carnivore, omnivore","LOWEST",41.6666666666667,18.3333333333333,60,13.6583333333333,55.325,3
+"Wetland","Mammals","Carnivore, omnivore","HIGHEST",76.6666666666667,11.6666666666667,88.3333333333333,8.69166666666667,85.3583333333333,3
+"Wetland","Mammals","Carnivore, omnivore","BEST GUESS",63.3333333333333,20,83.3333333333333,14.9,78.2333333333333,3
+"Wetland","Mammals","Herbivore","LOWEST",52.5,16.25,68.75,12.10625,64.60625,4
+"Wetland","Mammals","Herbivore","HIGHEST",82.5,8.75,91.25,6.51875,89.01875,4
+"Wetland","Mammals","Herbivore","BEST GUESS",66.25,21.25,87.5,15.83125,82.08125,4
+"Wetland","Vascular plants","Herbaceous","LOWEST",47.5,17.5,65,13.0375,60.5375,2
+"Wetland","Vascular plants","Herbaceous","HIGHEST",77.5,7.5,85,5.5875,83.0875,2
+"Wetland","Vascular plants","Herbaceous","BEST GUESS",62.5,17.5,80,13.0375,75.5375,2
+"Wetland","Vascular plants","Woody","LOWEST",55,18.3333333333333,73.3333333333333,13.6583333333333,68.6583333333333,3
+"Wetland","Vascular plants","Woody","HIGHEST",85,5,90,3.725,88.725,3
+"Wetland","Vascular plants","Woody","BEST GUESS",73.3333333333333,13.3333333333333,86.6666666666667,9.93333333333333,83.2666666666667,3
+"Coniferous Forest","Reptiles and amphibians","Snakes and lizards","LOWEST",53.75,5,58.75,3.725,57.475,4
+"Coniferous Forest","Reptiles and amphibians","Snakes and lizards","HIGHEST",77.5,11.25,88.75,8.38125,85.88125,4
+"Coniferous Forest","Reptiles and amphibians","Snakes and lizards","BEST GUESS",66.25,13.75,80,10.24375,76.49375,4
+"Coniferous Forest","Reptiles and amphibians","Frogs","LOWEST",50,16,66,11.92,61.92,5
+"Coniferous Forest","Reptiles and amphibians","Frogs","HIGHEST",79,12,91,8.94,87.94,5
+"Coniferous Forest","Reptiles and amphibians","Frogs","BEST GUESS",69,15,84,11.175,80.175,5
+"Coniferous Forest","Reptiles and amphibians","Salamanders","LOWEST",49,11,60,8.195,57.195,5
+"Coniferous Forest","Reptiles and amphibians","Salamanders","HIGHEST",79,11,90,8.195,87.195,5
+"Coniferous Forest","Reptiles and amphibians","Salamanders","BEST GUESS",63,12,75,8.94,71.94,5
+"Coniferous Forest","Birds","Carnivore","LOWEST",48.3333333333333,6.66666666666667,55,4.96666666666667,53.3,3
+"Coniferous Forest","Birds","Carnivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Coniferous Forest","Birds","Carnivore","BEST GUESS",63.3333333333333,11.6666666666667,75,8.69166666666667,72.025,3
+"Coniferous Forest","Birds","Omnivore","LOWEST",48.3333333333333,6.66666666666667,55,4.96666666666667,53.3,3
+"Coniferous Forest","Birds","Omnivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Coniferous Forest","Birds","Omnivore","BEST GUESS",63.3333333333333,11.6666666666667,75,8.69166666666667,72.025,3
+"Coniferous Forest","Birds","Insectivore/invertivore","LOWEST",48.3333333333333,6.66666666666667,55,4.96666666666667,53.3,3
+"Coniferous Forest","Birds","Insectivore/invertivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Coniferous Forest","Birds","Insectivore/invertivore","BEST GUESS",63.3333333333333,11.6666666666667,75,8.69166666666667,72.025,3
+"Coniferous Forest","Birds","Herbivore/granivore","LOWEST",48.3333333333333,6.66666666666667,55,4.96666666666667,53.3,3
+"Coniferous Forest","Birds","Herbivore/granivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Coniferous Forest","Birds","Herbivore/granivore","BEST GUESS",63.3333333333333,11.6666666666667,75,8.69166666666667,72.025,3
+"Coniferous Forest","Mammals","Carnivore, omnivore","LOWEST",48.3333333333333,15,63.3333333333333,11.175,59.5083333333333,3
+"Coniferous Forest","Mammals","Carnivore, omnivore","HIGHEST",76.6666666666667,11.6666666666667,88.3333333333333,8.69166666666667,85.3583333333333,3
+"Coniferous Forest","Mammals","Carnivore, omnivore","BEST GUESS",63.3333333333333,20,83.3333333333333,14.9,78.2333333333333,3
+"Coniferous Forest","Mammals","Herbivore","LOWEST",62.5,12.5,75,9.3125,71.8125,4
+"Coniferous Forest","Mammals","Herbivore","HIGHEST",82.5,8.75,91.25,6.51875,89.01875,4
+"Coniferous Forest","Mammals","Herbivore","BEST GUESS",75,12.5,87.5,9.3125,84.3125,4
+"Coniferous Forest","Vascular plants","Herbaceous","LOWEST",68.75,13.75,82.5,10.24375,78.99375,4
+"Coniferous Forest","Vascular plants","Herbaceous","HIGHEST",88.75,3.75,92.5,2.79375,91.54375,4
+"Coniferous Forest","Vascular plants","Herbaceous","BEST GUESS",78.75,11.25,90,8.38125,87.13125,4
+"Coniferous Forest","Vascular plants","Woody","LOWEST",66.25,13.75,80,10.24375,76.49375,4
+"Coniferous Forest","Vascular plants","Woody","HIGHEST",90,2.5,92.5,1.8625,91.8625,4
+"Coniferous Forest","Vascular plants","Woody","BEST GUESS",80,10,90,7.45,87.45,4
+"Mixed Forest","Reptiles and amphibians","Snakes and lizards","LOWEST",58.75,2.5,61.25,1.8625,60.6125,4
+"Mixed Forest","Reptiles and amphibians","Snakes and lizards","HIGHEST",82.5,6.25,88.75,4.65625,87.15625,4
+"Mixed Forest","Reptiles and amphibians","Snakes and lizards","BEST GUESS",71.25,8.75,80,6.51875,77.76875,4
+"Mixed Forest","Reptiles and amphibians","Frogs","LOWEST",57,11,68,8.195,65.195,5
+"Mixed Forest","Reptiles and amphibians","Frogs","HIGHEST",86,5,91,3.725,89.725,5
+"Mixed Forest","Reptiles and amphibians","Frogs","BEST GUESS",72,12,84,8.94,80.94,5
+"Mixed Forest","Reptiles and amphibians","Salamanders","LOWEST",53,13,66,9.685,62.685,5
+"Mixed Forest","Reptiles and amphibians","Salamanders","HIGHEST",79,11,90,8.195,87.195,5
+"Mixed Forest","Reptiles and amphibians","Salamanders","BEST GUESS",67,14,81,10.43,77.43,5
+"Mixed Forest","Birds","Carnivore","LOWEST",48.3333333333333,6.66666666666667,55,4.96666666666667,53.3,3
+"Mixed Forest","Birds","Carnivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Mixed Forest","Birds","Carnivore","BEST GUESS",63.3333333333333,11.6666666666667,75,8.69166666666667,72.025,3
+"Mixed Forest","Birds","Omnivore","LOWEST",48.3333333333333,8.33333333333333,56.6666666666667,6.20833333333333,54.5416666666667,3
+"Mixed Forest","Birds","Omnivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Mixed Forest","Birds","Omnivore","BEST GUESS",66.3333333333333,8.66666666666667,75,6.45666666666667,72.79,3
+"Mixed Forest","Birds","Insectivore/invertivore","LOWEST",45,8.33333333333333,53.3333333333333,6.20833333333333,51.2083333333333,3
+"Mixed Forest","Birds","Insectivore/invertivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Mixed Forest","Birds","Insectivore/invertivore","BEST GUESS",63.3333333333333,11.6666666666667,75,8.69166666666667,72.025,3
+"Mixed Forest","Birds","Herbivore/granivore","LOWEST",48.3333333333333,6.66666666666667,55,4.96666666666667,53.3,3
+"Mixed Forest","Birds","Herbivore/granivore","HIGHEST",76.6666666666667,8.33333333333333,85,6.20833333333333,82.875,3
+"Mixed Forest","Birds","Herbivore/granivore","BEST GUESS",63.3333333333333,11.6666666666667,75,8.69166666666667,72.025,3
+"Mixed Forest","Mammals","Carnivore, omnivore","LOWEST",48.3333333333333,15,63.3333333333333,11.175,59.5083333333333,3
+"Mixed Forest","Mammals","Carnivore, omnivore","HIGHEST",76.6666666666667,11.6666666666667,88.3333333333333,8.69166666666667,85.3583333333333,3
+"Mixed Forest","Mammals","Carnivore, omnivore","BEST GUESS",63.3333333333333,20,83.3333333333333,14.9,78.2333333333333,3
+"Mixed Forest","Mammals","Herbivore","LOWEST",62.5,12.5,75,9.3125,71.8125,4
+"Mixed Forest","Mammals","Herbivore","HIGHEST",82.5,8.75,91.25,6.51875,89.01875,4
+"Mixed Forest","Mammals","Herbivore","BEST GUESS",75,12.5,87.5,9.3125,84.3125,4
+"Mixed Forest","Vascular plants","Herbaceous","LOWEST",68.75,13.75,82.5,10.24375,78.99375,4
+"Mixed Forest","Vascular plants","Herbaceous","HIGHEST",88.75,3.75,92.5,2.79375,91.54375,4
+"Mixed Forest","Vascular plants","Herbaceous","BEST GUESS",78.75,11.25,90,8.38125,87.13125,4
+"Mixed Forest","Vascular plants","Woody","LOWEST",68.75,11.25,80,8.38125,77.13125,4
+"Mixed Forest","Vascular plants","Woody","HIGHEST",90,2.5,92.5,1.8625,91.8625,4
+"Mixed Forest","Vascular plants","Woody","BEST GUESS",81.25,8.75,90,6.51875,87.76875,4

@@ -1,0 +1,241 @@
+"Expert","Biodiversity","Estimate","Scenario","Value"
+"1","Freshwater","LOWEST","Counterfactual",NA
+"1","Freshwater","HIGHEST","Counterfactual",NA
+"1","Freshwater","BEST GUESS","Counterfactual",NA
+"1","Wetland","LOWEST","Counterfactual",70
+"1","Wetland","HIGHEST","Counterfactual",80
+"1","Wetland","BEST GUESS","Counterfactual",75
+"1","Coniferous Forest","LOWEST","Counterfactual",70
+"1","Coniferous Forest","HIGHEST","Counterfactual",80
+"1","Coniferous Forest","BEST GUESS","Counterfactual",75
+"1","Mixed Forest","LOWEST","Counterfactual",70
+"1","Mixed Forest","HIGHEST","Counterfactual",80
+"1","Mixed Forest","BEST GUESS","Counterfactual",75
+"2","Freshwater","LOWEST","Counterfactual",25
+"2","Freshwater","HIGHEST","Counterfactual",75
+"2","Freshwater","BEST GUESS","Counterfactual",50
+"2","Wetland","LOWEST","Counterfactual",25
+"2","Wetland","HIGHEST","Counterfactual",75
+"2","Wetland","BEST GUESS","Counterfactual",50
+"2","Coniferous Forest","LOWEST","Counterfactual",75
+"2","Coniferous Forest","HIGHEST","Counterfactual",100
+"2","Coniferous Forest","BEST GUESS","Counterfactual",85
+"2","Mixed Forest","LOWEST","Counterfactual",75
+"2","Mixed Forest","HIGHEST","Counterfactual",100
+"2","Mixed Forest","BEST GUESS","Counterfactual",85
+"3","Freshwater","LOWEST","Counterfactual",30
+"3","Freshwater","HIGHEST","Counterfactual",60
+"3","Freshwater","BEST GUESS","Counterfactual",50
+"3","Wetland","LOWEST","Counterfactual",NA
+"3","Wetland","HIGHEST","Counterfactual",NA
+"3","Wetland","BEST GUESS","Counterfactual",NA
+"3","Coniferous Forest","LOWEST","Counterfactual",NA
+"3","Coniferous Forest","HIGHEST","Counterfactual",NA
+"3","Coniferous Forest","BEST GUESS","Counterfactual",NA
+"3","Mixed Forest","LOWEST","Counterfactual",NA
+"3","Mixed Forest","HIGHEST","Counterfactual",NA
+"3","Mixed Forest","BEST GUESS","Counterfactual",NA
+"4","Freshwater","LOWEST","Counterfactual",25
+"4","Freshwater","HIGHEST","Counterfactual",75
+"4","Freshwater","BEST GUESS","Counterfactual",50
+"4","Wetland","LOWEST","Counterfactual",NA
+"4","Wetland","HIGHEST","Counterfactual",NA
+"4","Wetland","BEST GUESS","Counterfactual",NA
+"4","Coniferous Forest","LOWEST","Counterfactual",NA
+"4","Coniferous Forest","HIGHEST","Counterfactual",NA
+"4","Coniferous Forest","BEST GUESS","Counterfactual",NA
+"4","Mixed Forest","LOWEST","Counterfactual",NA
+"4","Mixed Forest","HIGHEST","Counterfactual",NA
+"4","Mixed Forest","BEST GUESS","Counterfactual",NA
+"5","Freshwater","LOWEST","Counterfactual",50
+"5","Freshwater","HIGHEST","Counterfactual",90
+"5","Freshwater","BEST GUESS","Counterfactual",70
+"5","Wetland","LOWEST","Counterfactual",50
+"5","Wetland","HIGHEST","Counterfactual",90
+"5","Wetland","BEST GUESS","Counterfactual",70
+"5","Coniferous Forest","LOWEST","Counterfactual",NA
+"5","Coniferous Forest","HIGHEST","Counterfactual",NA
+"5","Coniferous Forest","BEST GUESS","Counterfactual",NA
+"5","Mixed Forest","LOWEST","Counterfactual",NA
+"5","Mixed Forest","HIGHEST","Counterfactual",NA
+"5","Mixed Forest","BEST GUESS","Counterfactual",NA
+"6","Freshwater","LOWEST","Counterfactual",25
+"6","Freshwater","HIGHEST","Counterfactual",85
+"6","Freshwater","BEST GUESS","Counterfactual",65
+"6","Wetland","LOWEST","Counterfactual",50
+"6","Wetland","HIGHEST","Counterfactual",95
+"6","Wetland","BEST GUESS","Counterfactual",85
+"6","Coniferous Forest","LOWEST","Counterfactual",65
+"6","Coniferous Forest","HIGHEST","Counterfactual",95
+"6","Coniferous Forest","BEST GUESS","Counterfactual",75
+"6","Mixed Forest","LOWEST","Counterfactual",65
+"6","Mixed Forest","HIGHEST","Counterfactual",95
+"6","Mixed Forest","BEST GUESS","Counterfactual",75
+"7","Freshwater","LOWEST","Counterfactual",99
+"7","Freshwater","HIGHEST","Counterfactual",99
+"7","Freshwater","BEST GUESS","Counterfactual",99
+"7","Wetland","LOWEST","Counterfactual",40
+"7","Wetland","HIGHEST","Counterfactual",85
+"7","Wetland","BEST GUESS","Counterfactual",80
+"7","Coniferous Forest","LOWEST","Counterfactual",70
+"7","Coniferous Forest","HIGHEST","Counterfactual",100
+"7","Coniferous Forest","BEST GUESS","Counterfactual",99
+"7","Mixed Forest","LOWEST","Counterfactual",40
+"7","Mixed Forest","HIGHEST","Counterfactual",90
+"7","Mixed Forest","BEST GUESS","Counterfactual",75
+"8","Freshwater","LOWEST","Counterfactual",15
+"8","Freshwater","HIGHEST","Counterfactual",50
+"8","Freshwater","BEST GUESS","Counterfactual",25
+"8","Wetland","LOWEST","Counterfactual",15
+"8","Wetland","HIGHEST","Counterfactual",50
+"8","Wetland","BEST GUESS","Counterfactual",25
+"8","Coniferous Forest","LOWEST","Counterfactual",15
+"8","Coniferous Forest","HIGHEST","Counterfactual",50
+"8","Coniferous Forest","BEST GUESS","Counterfactual",25
+"8","Mixed Forest","LOWEST","Counterfactual",15
+"8","Mixed Forest","HIGHEST","Counterfactual",50
+"8","Mixed Forest","BEST GUESS","Counterfactual",25
+"9","Freshwater","LOWEST","Counterfactual",50
+"9","Freshwater","HIGHEST","Counterfactual",100
+"9","Freshwater","BEST GUESS","Counterfactual",90
+"9","Wetland","LOWEST","Counterfactual",50
+"9","Wetland","HIGHEST","Counterfactual",100
+"9","Wetland","BEST GUESS","Counterfactual",90
+"9","Coniferous Forest","LOWEST","Counterfactual",50
+"9","Coniferous Forest","HIGHEST","Counterfactual",100
+"9","Coniferous Forest","BEST GUESS","Counterfactual",90
+"9","Mixed Forest","LOWEST","Counterfactual",50
+"9","Mixed Forest","HIGHEST","Counterfactual",100
+"9","Mixed Forest","BEST GUESS","Counterfactual",90
+"10","Freshwater","LOWEST","Counterfactual",40
+"10","Freshwater","HIGHEST","Counterfactual",60
+"10","Freshwater","BEST GUESS","Counterfactual",55
+"10","Wetland","LOWEST","Counterfactual",40
+"10","Wetland","HIGHEST","Counterfactual",60
+"10","Wetland","BEST GUESS","Counterfactual",55
+"10","Coniferous Forest","LOWEST","Counterfactual",NA
+"10","Coniferous Forest","HIGHEST","Counterfactual",NA
+"10","Coniferous Forest","BEST GUESS","Counterfactual",NA
+"10","Mixed Forest","LOWEST","Counterfactual",NA
+"10","Mixed Forest","HIGHEST","Counterfactual",NA
+"10","Mixed Forest","BEST GUESS","Counterfactual",NA
+"1","Freshwater","LOWEST","Action",NA
+"1","Freshwater","HIGHEST","Action",NA
+"1","Freshwater","BEST GUESS","Action",NA
+"1","Wetland","LOWEST","Action",80
+"1","Wetland","HIGHEST","Action",90
+"1","Wetland","BEST GUESS","Action",85
+"1","Coniferous Forest","LOWEST","Action",80
+"1","Coniferous Forest","HIGHEST","Action",90
+"1","Coniferous Forest","BEST GUESS","Action",85
+"1","Mixed Forest","LOWEST","Action",80
+"1","Mixed Forest","HIGHEST","Action",90
+"1","Mixed Forest","BEST GUESS","Action",85
+"2","Freshwater","LOWEST","Action",50
+"2","Freshwater","HIGHEST","Action",85
+"2","Freshwater","BEST GUESS","Action",75
+"2","Wetland","LOWEST","Action",50
+"2","Wetland","HIGHEST","Action",85
+"2","Wetland","BEST GUESS","Action",75
+"2","Coniferous Forest","LOWEST","Action",75
+"2","Coniferous Forest","HIGHEST","Action",100
+"2","Coniferous Forest","BEST GUESS","Action",85
+"2","Mixed Forest","LOWEST","Action",75
+"2","Mixed Forest","HIGHEST","Action",100
+"2","Mixed Forest","BEST GUESS","Action",85
+"3","Freshwater","LOWEST","Action",40
+"3","Freshwater","HIGHEST","Action",85
+"3","Freshwater","BEST GUESS","Action",75
+"3","Wetland","LOWEST","Action",NA
+"3","Wetland","HIGHEST","Action",NA
+"3","Wetland","BEST GUESS","Action",NA
+"3","Coniferous Forest","LOWEST","Action",NA
+"3","Coniferous Forest","HIGHEST","Action",NA
+"3","Coniferous Forest","BEST GUESS","Action",NA
+"3","Mixed Forest","LOWEST","Action",NA
+"3","Mixed Forest","HIGHEST","Action",NA
+"3","Mixed Forest","BEST GUESS","Action",NA
+"4","Freshwater","LOWEST","Action",50
+"4","Freshwater","HIGHEST","Action",85
+"4","Freshwater","BEST GUESS","Action",75
+"4","Wetland","LOWEST","Action",NA
+"4","Wetland","HIGHEST","Action",NA
+"4","Wetland","BEST GUESS","Action",NA
+"4","Coniferous Forest","LOWEST","Action",NA
+"4","Coniferous Forest","HIGHEST","Action",NA
+"4","Coniferous Forest","BEST GUESS","Action",NA
+"4","Mixed Forest","LOWEST","Action",NA
+"4","Mixed Forest","HIGHEST","Action",NA
+"4","Mixed Forest","BEST GUESS","Action",NA
+"5","Freshwater","LOWEST","Action",50
+"5","Freshwater","HIGHEST","Action",100
+"5","Freshwater","BEST GUESS","Action",90
+"5","Wetland","LOWEST","Action",50
+"5","Wetland","HIGHEST","Action",100
+"5","Wetland","BEST GUESS","Action",90
+"5","Coniferous Forest","LOWEST","Action",NA
+"5","Coniferous Forest","HIGHEST","Action",NA
+"5","Coniferous Forest","BEST GUESS","Action",NA
+"5","Mixed Forest","LOWEST","Action",NA
+"5","Mixed Forest","HIGHEST","Action",NA
+"5","Mixed Forest","BEST GUESS","Action",NA
+"6","Freshwater","LOWEST","Action",75
+"6","Freshwater","HIGHEST","Action",100
+"6","Freshwater","BEST GUESS","Action",85
+"6","Wetland","LOWEST","Action",75
+"6","Wetland","HIGHEST","Action",100
+"6","Wetland","BEST GUESS","Action",85
+"6","Coniferous Forest","LOWEST","Action",85
+"6","Coniferous Forest","HIGHEST","Action",100
+"6","Coniferous Forest","BEST GUESS","Action",90
+"6","Mixed Forest","LOWEST","Action",85
+"6","Mixed Forest","HIGHEST","Action",100
+"6","Mixed Forest","BEST GUESS","Action",90
+"7","Freshwater","LOWEST","Action",99
+"7","Freshwater","HIGHEST","Action",100
+"7","Freshwater","BEST GUESS","Action",100
+"7","Wetland","LOWEST","Action",99
+"7","Wetland","HIGHEST","Action",100
+"7","Wetland","BEST GUESS","Action",100
+"7","Coniferous Forest","LOWEST","Action",95
+"7","Coniferous Forest","HIGHEST","Action",100
+"7","Coniferous Forest","BEST GUESS","Action",100
+"7","Mixed Forest","LOWEST","Action",90
+"7","Mixed Forest","HIGHEST","Action",100
+"7","Mixed Forest","BEST GUESS","Action",99
+"8","Freshwater","LOWEST","Action",50
+"8","Freshwater","HIGHEST","Action",85
+"8","Freshwater","BEST GUESS","Action",75
+"8","Wetland","LOWEST","Action",50
+"8","Wetland","HIGHEST","Action",85
+"8","Wetland","BEST GUESS","Action",75
+"8","Coniferous Forest","LOWEST","Action",50
+"8","Coniferous Forest","HIGHEST","Action",85
+"8","Coniferous Forest","BEST GUESS","Action",75
+"8","Mixed Forest","LOWEST","Action",50
+"8","Mixed Forest","HIGHEST","Action",85
+"8","Mixed Forest","BEST GUESS","Action",75
+"9","Freshwater","LOWEST","Action",50
+"9","Freshwater","HIGHEST","Action",100
+"9","Freshwater","BEST GUESS","Action",90
+"9","Wetland","LOWEST","Action",50
+"9","Wetland","HIGHEST","Action",100
+"9","Wetland","BEST GUESS","Action",90
+"9","Coniferous Forest","LOWEST","Action",50
+"9","Coniferous Forest","HIGHEST","Action",100
+"9","Coniferous Forest","BEST GUESS","Action",90
+"9","Mixed Forest","LOWEST","Action",50
+"9","Mixed Forest","HIGHEST","Action",100
+"9","Mixed Forest","BEST GUESS","Action",90
+"10","Freshwater","LOWEST","Action",60
+"10","Freshwater","HIGHEST","Action",90
+"10","Freshwater","BEST GUESS","Action",80
+"10","Wetland","LOWEST","Action",60
+"10","Wetland","HIGHEST","Action",90
+"10","Wetland","BEST GUESS","Action",80
+"10","Coniferous Forest","LOWEST","Action",NA
+"10","Coniferous Forest","HIGHEST","Action",NA
+"10","Coniferous Forest","BEST GUESS","Action",NA
+"10","Mixed Forest","LOWEST","Action",NA
+"10","Mixed Forest","HIGHEST","Action",NA
+"10","Mixed Forest","BEST GUESS","Action",NA

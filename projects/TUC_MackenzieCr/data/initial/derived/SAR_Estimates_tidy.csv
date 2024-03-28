@@ -1,0 +1,1261 @@
+"Expert","Biodiversity","Estimate","Scenario","Value"
+"1","Bull Trout","LOWEST","Counterfactual",NA
+"1","Bull Trout","HIGHEST","Counterfactual",NA
+"1","Bull Trout","BEST GUESS","Counterfactual",NA
+"1","Rainbow Trout","LOWEST","Counterfactual",NA
+"1","Rainbow Trout","HIGHEST","Counterfactual",NA
+"1","Rainbow Trout","BEST GUESS","Counterfactual",NA
+"1","Western Toad","LOWEST","Counterfactual",NA
+"1","Western Toad","HIGHEST","Counterfactual",NA
+"1","Western Toad","BEST GUESS","Counterfactual",NA
+"1","Barn Swallow","LOWEST","Counterfactual",NA
+"1","Barn Swallow","HIGHEST","Counterfactual",NA
+"1","Barn Swallow","BEST GUESS","Counterfactual",NA
+"1","Olive-sided Flycatcher","LOWEST","Counterfactual",NA
+"1","Olive-sided Flycatcher","HIGHEST","Counterfactual",NA
+"1","Olive-sided Flycatcher","BEST GUESS","Counterfactual",NA
+"1","Common Nighthawk","LOWEST","Counterfactual",NA
+"1","Common Nighthawk","HIGHEST","Counterfactual",NA
+"1","Common Nighthawk","BEST GUESS","Counterfactual",NA
+"1","Short-eared Owl","LOWEST","Counterfactual",NA
+"1","Short-eared Owl","HIGHEST","Counterfactual",NA
+"1","Short-eared Owl","BEST GUESS","Counterfactual",NA
+"1","Harris's Sparrow","LOWEST","Counterfactual",NA
+"1","Harris's Sparrow","HIGHEST","Counterfactual",NA
+"1","Harris's Sparrow","BEST GUESS","Counterfactual",NA
+"1","Bank Swallow","LOWEST","Counterfactual",NA
+"1","Bank Swallow","HIGHEST","Counterfactual",NA
+"1","Bank Swallow","BEST GUESS","Counterfactual",NA
+"1","Rusty Blackbird","LOWEST","Counterfactual",NA
+"1","Rusty Blackbird","HIGHEST","Counterfactual",NA
+"1","Rusty Blackbird","BEST GUESS","Counterfactual",NA
+"1","Northern Myotis","LOWEST","Counterfactual",NA
+"1","Northern Myotis","HIGHEST","Counterfactual",NA
+"1","Northern Myotis","BEST GUESS","Counterfactual",NA
+"1","Little Brown Myotis","LOWEST","Counterfactual",NA
+"1","Little Brown Myotis","HIGHEST","Counterfactual",NA
+"1","Little Brown Myotis","BEST GUESS","Counterfactual",NA
+"1","Wolverine - Western population","LOWEST","Counterfactual",NA
+"1","Wolverine - Western population","HIGHEST","Counterfactual",NA
+"1","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"1","Grizzly Bear","LOWEST","Counterfactual",NA
+"1","Grizzly Bear","HIGHEST","Counterfactual",NA
+"1","Grizzly Bear","BEST GUESS","Counterfactual",NA
+"1","Transverse Lady Beetle","LOWEST","Counterfactual",NA
+"1","Transverse Lady Beetle","HIGHEST","Counterfactual",NA
+"1","Transverse Lady Beetle","BEST GUESS","Counterfactual",NA
+"1","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"1","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"1","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"1","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"1","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"1","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"1","Western Bumble Bee","LOWEST","Counterfactual",NA
+"1","Western Bumble Bee","HIGHEST","Counterfactual",NA
+"1","Western Bumble Bee","BEST GUESS","Counterfactual",NA
+"1","Yellow-banded Bumble Bee","LOWEST","Counterfactual",NA
+"1","Yellow-banded Bumble Bee","HIGHEST","Counterfactual",NA
+"1","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual",NA
+"1","Porsild's Bryum","LOWEST","Counterfactual","65"
+"1","Porsild's Bryum","HIGHEST","Counterfactual","75"
+"1","Porsild's Bryum","BEST GUESS","Counterfactual","70"
+"1","Evening Grosbeak","LOWEST","Counterfactual",NA
+"1","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"1","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"2","Bull Trout","LOWEST","Counterfactual","15"
+"2","Bull Trout","HIGHEST","Counterfactual","50"
+"2","Bull Trout","BEST GUESS","Counterfactual","25"
+"2","Rainbow Trout","LOWEST","Counterfactual","15"
+"2","Rainbow Trout","HIGHEST","Counterfactual","50"
+"2","Rainbow Trout","BEST GUESS","Counterfactual","25"
+"2","Western Toad","LOWEST","Counterfactual","25"
+"2","Western Toad","HIGHEST","Counterfactual","75"
+"2","Western Toad","BEST GUESS","Counterfactual","50"
+"2","Barn Swallow","LOWEST","Counterfactual","50"
+"2","Barn Swallow","HIGHEST","Counterfactual","80"
+"2","Barn Swallow","BEST GUESS","Counterfactual","75"
+"2","Olive-sided Flycatcher","LOWEST","Counterfactual","50"
+"2","Olive-sided Flycatcher","HIGHEST","Counterfactual","80"
+"2","Olive-sided Flycatcher","BEST GUESS","Counterfactual","75"
+"2","Common Nighthawk","LOWEST","Counterfactual","50"
+"2","Common Nighthawk","HIGHEST","Counterfactual","80"
+"2","Common Nighthawk","BEST GUESS","Counterfactual","75"
+"2","Short-eared Owl","LOWEST","Counterfactual","50"
+"2","Short-eared Owl","HIGHEST","Counterfactual","80"
+"2","Short-eared Owl","BEST GUESS","Counterfactual","75"
+"2","Harris's Sparrow","LOWEST","Counterfactual","50"
+"2","Harris's Sparrow","HIGHEST","Counterfactual","80"
+"2","Harris's Sparrow","BEST GUESS","Counterfactual","75"
+"2","Bank Swallow","LOWEST","Counterfactual","50"
+"2","Bank Swallow","HIGHEST","Counterfactual","80"
+"2","Bank Swallow","BEST GUESS","Counterfactual","75"
+"2","Rusty Blackbird","LOWEST","Counterfactual","50"
+"2","Rusty Blackbird","HIGHEST","Counterfactual","80"
+"2","Rusty Blackbird","BEST GUESS","Counterfactual","75"
+"2","Northern Myotis","LOWEST","Counterfactual","50"
+"2","Northern Myotis","HIGHEST","Counterfactual","80"
+"2","Northern Myotis","BEST GUESS","Counterfactual","75"
+"2","Little Brown Myotis","LOWEST","Counterfactual","50"
+"2","Little Brown Myotis","HIGHEST","Counterfactual","80"
+"2","Little Brown Myotis","BEST GUESS","Counterfactual","75"
+"2","Wolverine - Western population","LOWEST","Counterfactual","50"
+"2","Wolverine - Western population","HIGHEST","Counterfactual","80"
+"2","Wolverine - Western population","BEST GUESS","Counterfactual","75"
+"2","Grizzly Bear","LOWEST","Counterfactual","50"
+"2","Grizzly Bear","HIGHEST","Counterfactual","80"
+"2","Grizzly Bear","BEST GUESS","Counterfactual","75"
+"2","Transverse Lady Beetle","LOWEST","Counterfactual","50"
+"2","Transverse Lady Beetle","HIGHEST","Counterfactual","80"
+"2","Transverse Lady Beetle","BEST GUESS","Counterfactual","75"
+"2","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual","50"
+"2","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual","80"
+"2","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual","75"
+"2","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual","50"
+"2","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual","80"
+"2","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual","75"
+"2","Western Bumble Bee","LOWEST","Counterfactual","50"
+"2","Western Bumble Bee","HIGHEST","Counterfactual","80"
+"2","Western Bumble Bee","BEST GUESS","Counterfactual","75"
+"2","Yellow-banded Bumble Bee","LOWEST","Counterfactual","50"
+"2","Yellow-banded Bumble Bee","HIGHEST","Counterfactual","80"
+"2","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual","75"
+"2","Porsild's Bryum","LOWEST","Counterfactual","50"
+"2","Porsild's Bryum","HIGHEST","Counterfactual","80"
+"2","Porsild's Bryum","BEST GUESS","Counterfactual","75"
+"2","Evening Grosbeak","LOWEST","Counterfactual",NA
+"2","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"2","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"3","Bull Trout","LOWEST","Counterfactual","20"
+"3","Bull Trout","HIGHEST","Counterfactual","50"
+"3","Bull Trout","BEST GUESS","Counterfactual","20"
+"3","Rainbow Trout","LOWEST","Counterfactual",NA
+"3","Rainbow Trout","HIGHEST","Counterfactual",NA
+"3","Rainbow Trout","BEST GUESS","Counterfactual",NA
+"3","Western Toad","LOWEST","Counterfactual",NA
+"3","Western Toad","HIGHEST","Counterfactual",NA
+"3","Western Toad","BEST GUESS","Counterfactual",NA
+"3","Barn Swallow","LOWEST","Counterfactual",NA
+"3","Barn Swallow","HIGHEST","Counterfactual",NA
+"3","Barn Swallow","BEST GUESS","Counterfactual",NA
+"3","Olive-sided Flycatcher","LOWEST","Counterfactual",NA
+"3","Olive-sided Flycatcher","HIGHEST","Counterfactual",NA
+"3","Olive-sided Flycatcher","BEST GUESS","Counterfactual",NA
+"3","Common Nighthawk","LOWEST","Counterfactual",NA
+"3","Common Nighthawk","HIGHEST","Counterfactual",NA
+"3","Common Nighthawk","BEST GUESS","Counterfactual",NA
+"3","Short-eared Owl","LOWEST","Counterfactual",NA
+"3","Short-eared Owl","HIGHEST","Counterfactual",NA
+"3","Short-eared Owl","BEST GUESS","Counterfactual",NA
+"3","Harris's Sparrow","LOWEST","Counterfactual",NA
+"3","Harris's Sparrow","HIGHEST","Counterfactual",NA
+"3","Harris's Sparrow","BEST GUESS","Counterfactual",NA
+"3","Bank Swallow","LOWEST","Counterfactual",NA
+"3","Bank Swallow","HIGHEST","Counterfactual",NA
+"3","Bank Swallow","BEST GUESS","Counterfactual",NA
+"3","Rusty Blackbird","LOWEST","Counterfactual",NA
+"3","Rusty Blackbird","HIGHEST","Counterfactual",NA
+"3","Rusty Blackbird","BEST GUESS","Counterfactual",NA
+"3","Northern Myotis","LOWEST","Counterfactual",NA
+"3","Northern Myotis","HIGHEST","Counterfactual",NA
+"3","Northern Myotis","BEST GUESS","Counterfactual",NA
+"3","Little Brown Myotis","LOWEST","Counterfactual",NA
+"3","Little Brown Myotis","HIGHEST","Counterfactual",NA
+"3","Little Brown Myotis","BEST GUESS","Counterfactual",NA
+"3","Wolverine - Western population","LOWEST","Counterfactual",NA
+"3","Wolverine - Western population","HIGHEST","Counterfactual",NA
+"3","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"3","Grizzly Bear","LOWEST","Counterfactual",NA
+"3","Grizzly Bear","HIGHEST","Counterfactual",NA
+"3","Grizzly Bear","BEST GUESS","Counterfactual",NA
+"3","Transverse Lady Beetle","LOWEST","Counterfactual",NA
+"3","Transverse Lady Beetle","HIGHEST","Counterfactual",NA
+"3","Transverse Lady Beetle","BEST GUESS","Counterfactual",NA
+"3","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"3","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"3","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"3","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"3","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"3","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"3","Western Bumble Bee","LOWEST","Counterfactual",NA
+"3","Western Bumble Bee","HIGHEST","Counterfactual",NA
+"3","Western Bumble Bee","BEST GUESS","Counterfactual",NA
+"3","Yellow-banded Bumble Bee","LOWEST","Counterfactual",NA
+"3","Yellow-banded Bumble Bee","HIGHEST","Counterfactual",NA
+"3","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual",NA
+"3","Porsild's Bryum","LOWEST","Counterfactual",NA
+"3","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"3","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"3","Evening Grosbeak","LOWEST","Counterfactual",NA
+"3","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"3","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"4","Bull Trout","LOWEST","Counterfactual","25"
+"4","Bull Trout","HIGHEST","Counterfactual","75"
+"4","Bull Trout","BEST GUESS","Counterfactual","50"
+"4","Rainbow Trout","LOWEST","Counterfactual","B"
+"4","Rainbow Trout","HIGHEST","Counterfactual","B"
+"4","Rainbow Trout","BEST GUESS","Counterfactual","B"
+"4","Western Toad","LOWEST","Counterfactual",NA
+"4","Western Toad","HIGHEST","Counterfactual",NA
+"4","Western Toad","BEST GUESS","Counterfactual",NA
+"4","Barn Swallow","LOWEST","Counterfactual",NA
+"4","Barn Swallow","HIGHEST","Counterfactual",NA
+"4","Barn Swallow","BEST GUESS","Counterfactual",NA
+"4","Olive-sided Flycatcher","LOWEST","Counterfactual",NA
+"4","Olive-sided Flycatcher","HIGHEST","Counterfactual",NA
+"4","Olive-sided Flycatcher","BEST GUESS","Counterfactual",NA
+"4","Common Nighthawk","LOWEST","Counterfactual",NA
+"4","Common Nighthawk","HIGHEST","Counterfactual",NA
+"4","Common Nighthawk","BEST GUESS","Counterfactual",NA
+"4","Short-eared Owl","LOWEST","Counterfactual",NA
+"4","Short-eared Owl","HIGHEST","Counterfactual",NA
+"4","Short-eared Owl","BEST GUESS","Counterfactual",NA
+"4","Harris's Sparrow","LOWEST","Counterfactual",NA
+"4","Harris's Sparrow","HIGHEST","Counterfactual",NA
+"4","Harris's Sparrow","BEST GUESS","Counterfactual",NA
+"4","Bank Swallow","LOWEST","Counterfactual",NA
+"4","Bank Swallow","HIGHEST","Counterfactual",NA
+"4","Bank Swallow","BEST GUESS","Counterfactual",NA
+"4","Rusty Blackbird","LOWEST","Counterfactual",NA
+"4","Rusty Blackbird","HIGHEST","Counterfactual",NA
+"4","Rusty Blackbird","BEST GUESS","Counterfactual",NA
+"4","Northern Myotis","LOWEST","Counterfactual",NA
+"4","Northern Myotis","HIGHEST","Counterfactual",NA
+"4","Northern Myotis","BEST GUESS","Counterfactual",NA
+"4","Little Brown Myotis","LOWEST","Counterfactual",NA
+"4","Little Brown Myotis","HIGHEST","Counterfactual",NA
+"4","Little Brown Myotis","BEST GUESS","Counterfactual",NA
+"4","Wolverine - Western population","LOWEST","Counterfactual",NA
+"4","Wolverine - Western population","HIGHEST","Counterfactual",NA
+"4","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"4","Grizzly Bear","LOWEST","Counterfactual",NA
+"4","Grizzly Bear","HIGHEST","Counterfactual",NA
+"4","Grizzly Bear","BEST GUESS","Counterfactual",NA
+"4","Transverse Lady Beetle","LOWEST","Counterfactual",NA
+"4","Transverse Lady Beetle","HIGHEST","Counterfactual",NA
+"4","Transverse Lady Beetle","BEST GUESS","Counterfactual",NA
+"4","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"4","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"4","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"4","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"4","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"4","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"4","Western Bumble Bee","LOWEST","Counterfactual",NA
+"4","Western Bumble Bee","HIGHEST","Counterfactual",NA
+"4","Western Bumble Bee","BEST GUESS","Counterfactual",NA
+"4","Yellow-banded Bumble Bee","LOWEST","Counterfactual",NA
+"4","Yellow-banded Bumble Bee","HIGHEST","Counterfactual",NA
+"4","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual",NA
+"4","Porsild's Bryum","LOWEST","Counterfactual",NA
+"4","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"4","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"4","Evening Grosbeak","LOWEST","Counterfactual",NA
+"4","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"4","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"5","Bull Trout","LOWEST","Counterfactual",NA
+"5","Bull Trout","HIGHEST","Counterfactual",NA
+"5","Bull Trout","BEST GUESS","Counterfactual",NA
+"5","Rainbow Trout","LOWEST","Counterfactual",NA
+"5","Rainbow Trout","HIGHEST","Counterfactual",NA
+"5","Rainbow Trout","BEST GUESS","Counterfactual",NA
+"5","Western Toad","LOWEST","Counterfactual","80"
+"5","Western Toad","HIGHEST","Counterfactual","100"
+"5","Western Toad","BEST GUESS","Counterfactual","90"
+"5","Barn Swallow","LOWEST","Counterfactual",NA
+"5","Barn Swallow","HIGHEST","Counterfactual",NA
+"5","Barn Swallow","BEST GUESS","Counterfactual",NA
+"5","Olive-sided Flycatcher","LOWEST","Counterfactual",NA
+"5","Olive-sided Flycatcher","HIGHEST","Counterfactual",NA
+"5","Olive-sided Flycatcher","BEST GUESS","Counterfactual",NA
+"5","Common Nighthawk","LOWEST","Counterfactual",NA
+"5","Common Nighthawk","HIGHEST","Counterfactual",NA
+"5","Common Nighthawk","BEST GUESS","Counterfactual",NA
+"5","Short-eared Owl","LOWEST","Counterfactual",NA
+"5","Short-eared Owl","HIGHEST","Counterfactual",NA
+"5","Short-eared Owl","BEST GUESS","Counterfactual",NA
+"5","Harris's Sparrow","LOWEST","Counterfactual",NA
+"5","Harris's Sparrow","HIGHEST","Counterfactual",NA
+"5","Harris's Sparrow","BEST GUESS","Counterfactual",NA
+"5","Bank Swallow","LOWEST","Counterfactual",NA
+"5","Bank Swallow","HIGHEST","Counterfactual",NA
+"5","Bank Swallow","BEST GUESS","Counterfactual",NA
+"5","Rusty Blackbird","LOWEST","Counterfactual",NA
+"5","Rusty Blackbird","HIGHEST","Counterfactual",NA
+"5","Rusty Blackbird","BEST GUESS","Counterfactual",NA
+"5","Northern Myotis","LOWEST","Counterfactual",NA
+"5","Northern Myotis","HIGHEST","Counterfactual",NA
+"5","Northern Myotis","BEST GUESS","Counterfactual",NA
+"5","Little Brown Myotis","LOWEST","Counterfactual",NA
+"5","Little Brown Myotis","HIGHEST","Counterfactual",NA
+"5","Little Brown Myotis","BEST GUESS","Counterfactual",NA
+"5","Wolverine - Western population","LOWEST","Counterfactual",NA
+"5","Wolverine - Western population","HIGHEST","Counterfactual",NA
+"5","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"5","Grizzly Bear","LOWEST","Counterfactual",NA
+"5","Grizzly Bear","HIGHEST","Counterfactual",NA
+"5","Grizzly Bear","BEST GUESS","Counterfactual",NA
+"5","Transverse Lady Beetle","LOWEST","Counterfactual",NA
+"5","Transverse Lady Beetle","HIGHEST","Counterfactual",NA
+"5","Transverse Lady Beetle","BEST GUESS","Counterfactual",NA
+"5","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"5","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"5","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"5","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"5","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"5","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"5","Western Bumble Bee","LOWEST","Counterfactual",NA
+"5","Western Bumble Bee","HIGHEST","Counterfactual",NA
+"5","Western Bumble Bee","BEST GUESS","Counterfactual",NA
+"5","Yellow-banded Bumble Bee","LOWEST","Counterfactual",NA
+"5","Yellow-banded Bumble Bee","HIGHEST","Counterfactual",NA
+"5","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual",NA
+"5","Porsild's Bryum","LOWEST","Counterfactual",NA
+"5","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"5","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"5","Evening Grosbeak","LOWEST","Counterfactual",NA
+"5","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"5","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"6","Bull Trout","LOWEST","Counterfactual",NA
+"6","Bull Trout","HIGHEST","Counterfactual",NA
+"6","Bull Trout","BEST GUESS","Counterfactual",NA
+"6","Rainbow Trout","LOWEST","Counterfactual","0"
+"6","Rainbow Trout","HIGHEST","Counterfactual","25"
+"6","Rainbow Trout","BEST GUESS","Counterfactual","15"
+"6","Western Toad","LOWEST","Counterfactual",NA
+"6","Western Toad","HIGHEST","Counterfactual",NA
+"6","Western Toad","BEST GUESS","Counterfactual",NA
+"6","Barn Swallow","LOWEST","Counterfactual","65"
+"6","Barn Swallow","HIGHEST","Counterfactual","75"
+"6","Barn Swallow","BEST GUESS","Counterfactual","85"
+"6","Olive-sided Flycatcher","LOWEST","Counterfactual",NA
+"6","Olive-sided Flycatcher","HIGHEST","Counterfactual",NA
+"6","Olive-sided Flycatcher","BEST GUESS","Counterfactual",NA
+"6","Common Nighthawk","LOWEST","Counterfactual",NA
+"6","Common Nighthawk","HIGHEST","Counterfactual",NA
+"6","Common Nighthawk","BEST GUESS","Counterfactual",NA
+"6","Short-eared Owl","LOWEST","Counterfactual",NA
+"6","Short-eared Owl","HIGHEST","Counterfactual",NA
+"6","Short-eared Owl","BEST GUESS","Counterfactual",NA
+"6","Harris's Sparrow","LOWEST","Counterfactual",NA
+"6","Harris's Sparrow","HIGHEST","Counterfactual",NA
+"6","Harris's Sparrow","BEST GUESS","Counterfactual",NA
+"6","Bank Swallow","LOWEST","Counterfactual","50"
+"6","Bank Swallow","HIGHEST","Counterfactual","80"
+"6","Bank Swallow","BEST GUESS","Counterfactual","65"
+"6","Rusty Blackbird","LOWEST","Counterfactual",NA
+"6","Rusty Blackbird","HIGHEST","Counterfactual",NA
+"6","Rusty Blackbird","BEST GUESS","Counterfactual",NA
+"6","Northern Myotis","LOWEST","Counterfactual",NA
+"6","Northern Myotis","HIGHEST","Counterfactual",NA
+"6","Northern Myotis","BEST GUESS","Counterfactual",NA
+"6","Little Brown Myotis","LOWEST","Counterfactual",NA
+"6","Little Brown Myotis","HIGHEST","Counterfactual",NA
+"6","Little Brown Myotis","BEST GUESS","Counterfactual",NA
+"6","Wolverine - Western population","LOWEST","Counterfactual",NA
+"6","Wolverine - Western population","HIGHEST","Counterfactual",NA
+"6","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"6","Grizzly Bear","LOWEST","Counterfactual",NA
+"6","Grizzly Bear","HIGHEST","Counterfactual",NA
+"6","Grizzly Bear","BEST GUESS","Counterfactual",NA
+"6","Transverse Lady Beetle","LOWEST","Counterfactual",NA
+"6","Transverse Lady Beetle","HIGHEST","Counterfactual",NA
+"6","Transverse Lady Beetle","BEST GUESS","Counterfactual",NA
+"6","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"6","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"6","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"6","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"6","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"6","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"6","Western Bumble Bee","LOWEST","Counterfactual",NA
+"6","Western Bumble Bee","HIGHEST","Counterfactual",NA
+"6","Western Bumble Bee","BEST GUESS","Counterfactual",NA
+"6","Yellow-banded Bumble Bee","LOWEST","Counterfactual",NA
+"6","Yellow-banded Bumble Bee","HIGHEST","Counterfactual",NA
+"6","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual",NA
+"6","Porsild's Bryum","LOWEST","Counterfactual",NA
+"6","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"6","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"6","Evening Grosbeak","LOWEST","Counterfactual",NA
+"6","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"6","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"7","Bull Trout","LOWEST","Counterfactual","10"
+"7","Bull Trout","HIGHEST","Counterfactual","50"
+"7","Bull Trout","BEST GUESS","Counterfactual","35"
+"7","Rainbow Trout","LOWEST","Counterfactual","20"
+"7","Rainbow Trout","HIGHEST","Counterfactual","50"
+"7","Rainbow Trout","BEST GUESS","Counterfactual","30"
+"7","Western Toad","LOWEST","Counterfactual","40"
+"7","Western Toad","HIGHEST","Counterfactual","75"
+"7","Western Toad","BEST GUESS","Counterfactual","60"
+"7","Barn Swallow","LOWEST","Counterfactual","75"
+"7","Barn Swallow","HIGHEST","Counterfactual","95"
+"7","Barn Swallow","BEST GUESS","Counterfactual","85"
+"7","Olive-sided Flycatcher","LOWEST","Counterfactual","30"
+"7","Olive-sided Flycatcher","HIGHEST","Counterfactual","70"
+"7","Olive-sided Flycatcher","BEST GUESS","Counterfactual","50"
+"7","Common Nighthawk","LOWEST","Counterfactual","40"
+"7","Common Nighthawk","HIGHEST","Counterfactual","80"
+"7","Common Nighthawk","BEST GUESS","Counterfactual","70"
+"7","Short-eared Owl","LOWEST","Counterfactual","0"
+"7","Short-eared Owl","HIGHEST","Counterfactual","25"
+"7","Short-eared Owl","BEST GUESS","Counterfactual","10"
+"7","Harris's Sparrow","LOWEST","Counterfactual","10"
+"7","Harris's Sparrow","HIGHEST","Counterfactual","30"
+"7","Harris's Sparrow","BEST GUESS","Counterfactual","20"
+"7","Bank Swallow","LOWEST","Counterfactual","25"
+"7","Bank Swallow","HIGHEST","Counterfactual","80"
+"7","Bank Swallow","BEST GUESS","Counterfactual","70"
+"7","Rusty Blackbird","LOWEST","Counterfactual","0"
+"7","Rusty Blackbird","HIGHEST","Counterfactual","30"
+"7","Rusty Blackbird","BEST GUESS","Counterfactual","15"
+"7","Northern Myotis","LOWEST","Counterfactual","60"
+"7","Northern Myotis","HIGHEST","Counterfactual","90"
+"7","Northern Myotis","BEST GUESS","Counterfactual","80"
+"7","Little Brown Myotis","LOWEST","Counterfactual","60"
+"7","Little Brown Myotis","HIGHEST","Counterfactual","90"
+"7","Little Brown Myotis","BEST GUESS","Counterfactual","80"
+"7","Wolverine - Western population","LOWEST","Counterfactual","20"
+"7","Wolverine - Western population","HIGHEST","Counterfactual","40"
+"7","Wolverine - Western population","BEST GUESS","Counterfactual","30"
+"7","Grizzly Bear","LOWEST","Counterfactual","60"
+"7","Grizzly Bear","HIGHEST","Counterfactual","100"
+"7","Grizzly Bear","BEST GUESS","Counterfactual","80"
+"7","Transverse Lady Beetle","LOWEST","Counterfactual",NA
+"7","Transverse Lady Beetle","HIGHEST","Counterfactual",NA
+"7","Transverse Lady Beetle","BEST GUESS","Counterfactual",NA
+"7","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"7","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"7","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"7","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"7","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"7","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"7","Western Bumble Bee","LOWEST","Counterfactual",NA
+"7","Western Bumble Bee","HIGHEST","Counterfactual",NA
+"7","Western Bumble Bee","BEST GUESS","Counterfactual",NA
+"7","Yellow-banded Bumble Bee","LOWEST","Counterfactual",NA
+"7","Yellow-banded Bumble Bee","HIGHEST","Counterfactual",NA
+"7","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual",NA
+"7","Porsild's Bryum","LOWEST","Counterfactual",NA
+"7","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"7","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"7","Evening Grosbeak","LOWEST","Counterfactual","60"
+"7","Evening Grosbeak","HIGHEST","Counterfactual","100"
+"7","Evening Grosbeak","BEST GUESS","Counterfactual","90"
+"8","Bull Trout","LOWEST","Counterfactual","15"
+"8","Bull Trout","HIGHEST","Counterfactual","50"
+"8","Bull Trout","BEST GUESS","Counterfactual","25"
+"8","Rainbow Trout","LOWEST","Counterfactual","15"
+"8","Rainbow Trout","HIGHEST","Counterfactual","50"
+"8","Rainbow Trout","BEST GUESS","Counterfactual","25"
+"8","Western Toad","LOWEST","Counterfactual","15"
+"8","Western Toad","HIGHEST","Counterfactual","50"
+"8","Western Toad","BEST GUESS","Counterfactual","25"
+"8","Barn Swallow","LOWEST","Counterfactual","15"
+"8","Barn Swallow","HIGHEST","Counterfactual","50"
+"8","Barn Swallow","BEST GUESS","Counterfactual","25"
+"8","Olive-sided Flycatcher","LOWEST","Counterfactual","15"
+"8","Olive-sided Flycatcher","HIGHEST","Counterfactual","50"
+"8","Olive-sided Flycatcher","BEST GUESS","Counterfactual","25"
+"8","Common Nighthawk","LOWEST","Counterfactual","15"
+"8","Common Nighthawk","HIGHEST","Counterfactual","50"
+"8","Common Nighthawk","BEST GUESS","Counterfactual","25"
+"8","Short-eared Owl","LOWEST","Counterfactual","15"
+"8","Short-eared Owl","HIGHEST","Counterfactual","50"
+"8","Short-eared Owl","BEST GUESS","Counterfactual","25"
+"8","Harris's Sparrow","LOWEST","Counterfactual","25"
+"8","Harris's Sparrow","HIGHEST","Counterfactual","75"
+"8","Harris's Sparrow","BEST GUESS","Counterfactual","50"
+"8","Bank Swallow","LOWEST","Counterfactual","15"
+"8","Bank Swallow","HIGHEST","Counterfactual","50"
+"8","Bank Swallow","BEST GUESS","Counterfactual","25"
+"8","Rusty Blackbird","LOWEST","Counterfactual","15"
+"8","Rusty Blackbird","HIGHEST","Counterfactual","50"
+"8","Rusty Blackbird","BEST GUESS","Counterfactual","25"
+"8","Northern Myotis","LOWEST","Counterfactual","15"
+"8","Northern Myotis","HIGHEST","Counterfactual","50"
+"8","Northern Myotis","BEST GUESS","Counterfactual","25"
+"8","Little Brown Myotis","LOWEST","Counterfactual","15"
+"8","Little Brown Myotis","HIGHEST","Counterfactual","50"
+"8","Little Brown Myotis","BEST GUESS","Counterfactual","25"
+"8","Wolverine - Western population","LOWEST","Counterfactual","15"
+"8","Wolverine - Western population","HIGHEST","Counterfactual","50"
+"8","Wolverine - Western population","BEST GUESS","Counterfactual","25"
+"8","Grizzly Bear","LOWEST","Counterfactual","15"
+"8","Grizzly Bear","HIGHEST","Counterfactual","50"
+"8","Grizzly Bear","BEST GUESS","Counterfactual","25"
+"8","Transverse Lady Beetle","LOWEST","Counterfactual",NA
+"8","Transverse Lady Beetle","HIGHEST","Counterfactual",NA
+"8","Transverse Lady Beetle","BEST GUESS","Counterfactual",NA
+"8","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"8","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"8","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"8","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual",NA
+"8","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual",NA
+"8","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual",NA
+"8","Western Bumble Bee","LOWEST","Counterfactual",NA
+"8","Western Bumble Bee","HIGHEST","Counterfactual",NA
+"8","Western Bumble Bee","BEST GUESS","Counterfactual",NA
+"8","Yellow-banded Bumble Bee","LOWEST","Counterfactual",NA
+"8","Yellow-banded Bumble Bee","HIGHEST","Counterfactual",NA
+"8","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual",NA
+"8","Porsild's Bryum","LOWEST","Counterfactual",NA
+"8","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"8","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"8","Evening Grosbeak","LOWEST","Counterfactual","15"
+"8","Evening Grosbeak","HIGHEST","Counterfactual","50"
+"8","Evening Grosbeak","BEST GUESS","Counterfactual","25"
+"9","Bull Trout","LOWEST","Counterfactual",NA
+"9","Bull Trout","HIGHEST","Counterfactual",NA
+"9","Bull Trout","BEST GUESS","Counterfactual",NA
+"9","Rainbow Trout","LOWEST","Counterfactual",NA
+"9","Rainbow Trout","HIGHEST","Counterfactual",NA
+"9","Rainbow Trout","BEST GUESS","Counterfactual",NA
+"9","Western Toad","LOWEST","Counterfactual","70"
+"9","Western Toad","HIGHEST","Counterfactual","100"
+"9","Western Toad","BEST GUESS","Counterfactual","90"
+"9","Barn Swallow","LOWEST","Counterfactual","B"
+"9","Barn Swallow","HIGHEST","Counterfactual","B"
+"9","Barn Swallow","BEST GUESS","Counterfactual","B"
+"9","Olive-sided Flycatcher","LOWEST","Counterfactual","B"
+"9","Olive-sided Flycatcher","HIGHEST","Counterfactual","B"
+"9","Olive-sided Flycatcher","BEST GUESS","Counterfactual","B"
+"9","Common Nighthawk","LOWEST","Counterfactual","B"
+"9","Common Nighthawk","HIGHEST","Counterfactual","B"
+"9","Common Nighthawk","BEST GUESS","Counterfactual","B"
+"9","Short-eared Owl","LOWEST","Counterfactual","B"
+"9","Short-eared Owl","HIGHEST","Counterfactual","B"
+"9","Short-eared Owl","BEST GUESS","Counterfactual","B"
+"9","Harris's Sparrow","LOWEST","Counterfactual","B"
+"9","Harris's Sparrow","HIGHEST","Counterfactual","B"
+"9","Harris's Sparrow","BEST GUESS","Counterfactual","B"
+"9","Bank Swallow","LOWEST","Counterfactual","B"
+"9","Bank Swallow","HIGHEST","Counterfactual","B"
+"9","Bank Swallow","BEST GUESS","Counterfactual","B"
+"9","Rusty Blackbird","LOWEST","Counterfactual","B"
+"9","Rusty Blackbird","HIGHEST","Counterfactual","B"
+"9","Rusty Blackbird","BEST GUESS","Counterfactual","B"
+"9","Northern Myotis","LOWEST","Counterfactual","B"
+"9","Northern Myotis","HIGHEST","Counterfactual","B"
+"9","Northern Myotis","BEST GUESS","Counterfactual","B"
+"9","Little Brown Myotis","LOWEST","Counterfactual","B"
+"9","Little Brown Myotis","HIGHEST","Counterfactual","B"
+"9","Little Brown Myotis","BEST GUESS","Counterfactual","B"
+"9","Wolverine - Western population","LOWEST","Counterfactual",NA
+"9","Wolverine - Western population","HIGHEST","Counterfactual",NA
+"9","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"9","Grizzly Bear","LOWEST","Counterfactual",NA
+"9","Grizzly Bear","HIGHEST","Counterfactual",NA
+"9","Grizzly Bear","BEST GUESS","Counterfactual",NA
+"9","Transverse Lady Beetle","LOWEST","Counterfactual","B"
+"9","Transverse Lady Beetle","HIGHEST","Counterfactual","B"
+"9","Transverse Lady Beetle","BEST GUESS","Counterfactual","B"
+"9","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual","B"
+"9","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual","B"
+"9","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual","B"
+"9","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual","B"
+"9","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual","B"
+"9","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual","B"
+"9","Western Bumble Bee","LOWEST","Counterfactual","B"
+"9","Western Bumble Bee","HIGHEST","Counterfactual","B"
+"9","Western Bumble Bee","BEST GUESS","Counterfactual","B"
+"9","Yellow-banded Bumble Bee","LOWEST","Counterfactual","B"
+"9","Yellow-banded Bumble Bee","HIGHEST","Counterfactual","B"
+"9","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual","B"
+"9","Porsild's Bryum","LOWEST","Counterfactual",NA
+"9","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"9","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"9","Evening Grosbeak","LOWEST","Counterfactual",NA
+"9","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"9","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"10","Bull Trout","LOWEST","Counterfactual",NA
+"10","Bull Trout","HIGHEST","Counterfactual",NA
+"10","Bull Trout","BEST GUESS","Counterfactual",NA
+"10","Rainbow Trout","LOWEST","Counterfactual",NA
+"10","Rainbow Trout","HIGHEST","Counterfactual",NA
+"10","Rainbow Trout","BEST GUESS","Counterfactual",NA
+"10","Western Toad","LOWEST","Counterfactual",NA
+"10","Western Toad","HIGHEST","Counterfactual",NA
+"10","Western Toad","BEST GUESS","Counterfactual",NA
+"10","Barn Swallow","LOWEST","Counterfactual",NA
+"10","Barn Swallow","HIGHEST","Counterfactual",NA
+"10","Barn Swallow","BEST GUESS","Counterfactual",NA
+"10","Olive-sided Flycatcher","LOWEST","Counterfactual",NA
+"10","Olive-sided Flycatcher","HIGHEST","Counterfactual",NA
+"10","Olive-sided Flycatcher","BEST GUESS","Counterfactual",NA
+"10","Common Nighthawk","LOWEST","Counterfactual",NA
+"10","Common Nighthawk","HIGHEST","Counterfactual",NA
+"10","Common Nighthawk","BEST GUESS","Counterfactual",NA
+"10","Short-eared Owl","LOWEST","Counterfactual",NA
+"10","Short-eared Owl","HIGHEST","Counterfactual",NA
+"10","Short-eared Owl","BEST GUESS","Counterfactual",NA
+"10","Harris's Sparrow","LOWEST","Counterfactual",NA
+"10","Harris's Sparrow","HIGHEST","Counterfactual",NA
+"10","Harris's Sparrow","BEST GUESS","Counterfactual",NA
+"10","Bank Swallow","LOWEST","Counterfactual",NA
+"10","Bank Swallow","HIGHEST","Counterfactual",NA
+"10","Bank Swallow","BEST GUESS","Counterfactual",NA
+"10","Rusty Blackbird","LOWEST","Counterfactual",NA
+"10","Rusty Blackbird","HIGHEST","Counterfactual",NA
+"10","Rusty Blackbird","BEST GUESS","Counterfactual",NA
+"10","Northern Myotis","LOWEST","Counterfactual",NA
+"10","Northern Myotis","HIGHEST","Counterfactual",NA
+"10","Northern Myotis","BEST GUESS","Counterfactual",NA
+"10","Little Brown Myotis","LOWEST","Counterfactual",NA
+"10","Little Brown Myotis","HIGHEST","Counterfactual",NA
+"10","Little Brown Myotis","BEST GUESS","Counterfactual",NA
+"10","Wolverine - Western population","LOWEST","Counterfactual",NA
+"10","Wolverine - Western population","HIGHEST","Counterfactual",NA
+"10","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"10","Grizzly Bear","LOWEST","Counterfactual",NA
+"10","Grizzly Bear","HIGHEST","Counterfactual",NA
+"10","Grizzly Bear","BEST GUESS","Counterfactual",NA
+"10","Transverse Lady Beetle","LOWEST","Counterfactual","50"
+"10","Transverse Lady Beetle","HIGHEST","Counterfactual","60"
+"10","Transverse Lady Beetle","BEST GUESS","Counterfactual","50"
+"10","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Counterfactual","50"
+"10","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Counterfactual","60"
+"10","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Counterfactual","50"
+"10","Suckley's Cuckoo Bumble Bee","LOWEST","Counterfactual","50"
+"10","Suckley's Cuckoo Bumble Bee","HIGHEST","Counterfactual","60"
+"10","Suckley's Cuckoo Bumble Bee","BEST GUESS","Counterfactual","50"
+"10","Western Bumble Bee","LOWEST","Counterfactual","50"
+"10","Western Bumble Bee","HIGHEST","Counterfactual","60"
+"10","Western Bumble Bee","BEST GUESS","Counterfactual","50"
+"10","Yellow-banded Bumble Bee","LOWEST","Counterfactual","50"
+"10","Yellow-banded Bumble Bee","HIGHEST","Counterfactual","60"
+"10","Yellow-banded Bumble Bee","BEST GUESS","Counterfactual","50"
+"10","Porsild's Bryum","LOWEST","Counterfactual",NA
+"10","Porsild's Bryum","HIGHEST","Counterfactual",NA
+"10","Porsild's Bryum","BEST GUESS","Counterfactual",NA
+"10","Evening Grosbeak","LOWEST","Counterfactual",NA
+"10","Evening Grosbeak","HIGHEST","Counterfactual",NA
+"10","Evening Grosbeak","BEST GUESS","Counterfactual",NA
+"1","Bull Trout","LOWEST","Action",NA
+"1","Bull Trout","HIGHEST","Action",NA
+"1","Bull Trout","BEST GUESS","Action",NA
+"1","Rainbow Trout","LOWEST","Action",NA
+"1","Rainbow Trout","HIGHEST","Action",NA
+"1","Rainbow Trout","BEST GUESS","Action",NA
+"1","Western Toad","LOWEST","Action",NA
+"1","Western Toad","HIGHEST","Action",NA
+"1","Western Toad","BEST GUESS","Action",NA
+"1","Barn Swallow","LOWEST","Action",NA
+"1","Barn Swallow","HIGHEST","Action",NA
+"1","Barn Swallow","BEST GUESS","Action",NA
+"1","Olive-sided Flycatcher","LOWEST","Action",NA
+"1","Olive-sided Flycatcher","HIGHEST","Action",NA
+"1","Olive-sided Flycatcher","BEST GUESS","Action",NA
+"1","Common Nighthawk","LOWEST","Action",NA
+"1","Common Nighthawk","HIGHEST","Action",NA
+"1","Common Nighthawk","BEST GUESS","Action",NA
+"1","Short-eared Owl","LOWEST","Action",NA
+"1","Short-eared Owl","HIGHEST","Action",NA
+"1","Short-eared Owl","BEST GUESS","Action",NA
+"1","Harris's Sparrow","LOWEST","Action",NA
+"1","Harris's Sparrow","HIGHEST","Action",NA
+"1","Harris's Sparrow","BEST GUESS","Action",NA
+"1","Bank Swallow","LOWEST","Action",NA
+"1","Bank Swallow","HIGHEST","Action",NA
+"1","Bank Swallow","BEST GUESS","Action",NA
+"1","Rusty Blackbird","LOWEST","Action",NA
+"1","Rusty Blackbird","HIGHEST","Action",NA
+"1","Rusty Blackbird","BEST GUESS","Action",NA
+"1","Northern Myotis","LOWEST","Action",NA
+"1","Northern Myotis","HIGHEST","Action",NA
+"1","Northern Myotis","BEST GUESS","Action",NA
+"1","Little Brown Myotis","LOWEST","Action",NA
+"1","Little Brown Myotis","HIGHEST","Action",NA
+"1","Little Brown Myotis","BEST GUESS","Action",NA
+"1","Wolverine - Western population","LOWEST","Action",NA
+"1","Wolverine - Western population","HIGHEST","Action",NA
+"1","Wolverine - Western population","BEST GUESS","Action",NA
+"1","Grizzly Bear","LOWEST","Action",NA
+"1","Grizzly Bear","HIGHEST","Action",NA
+"1","Grizzly Bear","BEST GUESS","Action",NA
+"1","Transverse Lady Beetle","LOWEST","Action",NA
+"1","Transverse Lady Beetle","HIGHEST","Action",NA
+"1","Transverse Lady Beetle","BEST GUESS","Action",NA
+"1","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action",NA
+"1","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action",NA
+"1","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"1","Suckley's Cuckoo Bumble Bee","LOWEST","Action",NA
+"1","Suckley's Cuckoo Bumble Bee","HIGHEST","Action",NA
+"1","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"1","Western Bumble Bee","LOWEST","Action",NA
+"1","Western Bumble Bee","HIGHEST","Action",NA
+"1","Western Bumble Bee","BEST GUESS","Action",NA
+"1","Yellow-banded Bumble Bee","LOWEST","Action",NA
+"1","Yellow-banded Bumble Bee","HIGHEST","Action",NA
+"1","Yellow-banded Bumble Bee","BEST GUESS","Action",NA
+"1","Porsild's Bryum","LOWEST","Action","75"
+"1","Porsild's Bryum","HIGHEST","Action","85"
+"1","Porsild's Bryum","BEST GUESS","Action","80"
+"1","Evening Grosbeak","LOWEST","Action",NA
+"1","Evening Grosbeak","HIGHEST","Action",NA
+"1","Evening Grosbeak","BEST GUESS","Action",NA
+"2","Bull Trout","LOWEST","Action","25"
+"2","Bull Trout","HIGHEST","Action","75"
+"2","Bull Trout","BEST GUESS","Action","50"
+"2","Rainbow Trout","LOWEST","Action","25"
+"2","Rainbow Trout","HIGHEST","Action","75"
+"2","Rainbow Trout","BEST GUESS","Action","50"
+"2","Western Toad","LOWEST","Action","50"
+"2","Western Toad","HIGHEST","Action","80"
+"2","Western Toad","BEST GUESS","Action","75"
+"2","Barn Swallow","LOWEST","Action","50"
+"2","Barn Swallow","HIGHEST","Action","80"
+"2","Barn Swallow","BEST GUESS","Action","75"
+"2","Olive-sided Flycatcher","LOWEST","Action","50"
+"2","Olive-sided Flycatcher","HIGHEST","Action","80"
+"2","Olive-sided Flycatcher","BEST GUESS","Action","75"
+"2","Common Nighthawk","LOWEST","Action","50"
+"2","Common Nighthawk","HIGHEST","Action","80"
+"2","Common Nighthawk","BEST GUESS","Action","75"
+"2","Short-eared Owl","LOWEST","Action","50"
+"2","Short-eared Owl","HIGHEST","Action","80"
+"2","Short-eared Owl","BEST GUESS","Action","75"
+"2","Harris's Sparrow","LOWEST","Action","50"
+"2","Harris's Sparrow","HIGHEST","Action","80"
+"2","Harris's Sparrow","BEST GUESS","Action","75"
+"2","Bank Swallow","LOWEST","Action","50"
+"2","Bank Swallow","HIGHEST","Action","80"
+"2","Bank Swallow","BEST GUESS","Action","75"
+"2","Rusty Blackbird","LOWEST","Action","50"
+"2","Rusty Blackbird","HIGHEST","Action","80"
+"2","Rusty Blackbird","BEST GUESS","Action","75"
+"2","Northern Myotis","LOWEST","Action","50"
+"2","Northern Myotis","HIGHEST","Action","80"
+"2","Northern Myotis","BEST GUESS","Action","75"
+"2","Little Brown Myotis","LOWEST","Action","50"
+"2","Little Brown Myotis","HIGHEST","Action","80"
+"2","Little Brown Myotis","BEST GUESS","Action","75"
+"2","Wolverine - Western population","LOWEST","Action","50"
+"2","Wolverine - Western population","HIGHEST","Action","80"
+"2","Wolverine - Western population","BEST GUESS","Action","75"
+"2","Grizzly Bear","LOWEST","Action","50"
+"2","Grizzly Bear","HIGHEST","Action","80"
+"2","Grizzly Bear","BEST GUESS","Action","75"
+"2","Transverse Lady Beetle","LOWEST","Action","50"
+"2","Transverse Lady Beetle","HIGHEST","Action","80"
+"2","Transverse Lady Beetle","BEST GUESS","Action","75"
+"2","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action","50"
+"2","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action","80"
+"2","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action","75"
+"2","Suckley's Cuckoo Bumble Bee","LOWEST","Action","50"
+"2","Suckley's Cuckoo Bumble Bee","HIGHEST","Action","80"
+"2","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action","75"
+"2","Western Bumble Bee","LOWEST","Action","50"
+"2","Western Bumble Bee","HIGHEST","Action","80"
+"2","Western Bumble Bee","BEST GUESS","Action","75"
+"2","Yellow-banded Bumble Bee","LOWEST","Action","50"
+"2","Yellow-banded Bumble Bee","HIGHEST","Action","80"
+"2","Yellow-banded Bumble Bee","BEST GUESS","Action","75"
+"2","Porsild's Bryum","LOWEST","Action","50"
+"2","Porsild's Bryum","HIGHEST","Action","80"
+"2","Porsild's Bryum","BEST GUESS","Action","75"
+"2","Evening Grosbeak","LOWEST","Action",NA
+"2","Evening Grosbeak","HIGHEST","Action",NA
+"2","Evening Grosbeak","BEST GUESS","Action",NA
+"3","Bull Trout","LOWEST","Action","20"
+"3","Bull Trout","HIGHEST","Action","85"
+"3","Bull Trout","BEST GUESS","Action","60"
+"3","Rainbow Trout","LOWEST","Action",NA
+"3","Rainbow Trout","HIGHEST","Action",NA
+"3","Rainbow Trout","BEST GUESS","Action",NA
+"3","Western Toad","LOWEST","Action",NA
+"3","Western Toad","HIGHEST","Action",NA
+"3","Western Toad","BEST GUESS","Action",NA
+"3","Barn Swallow","LOWEST","Action",NA
+"3","Barn Swallow","HIGHEST","Action",NA
+"3","Barn Swallow","BEST GUESS","Action",NA
+"3","Olive-sided Flycatcher","LOWEST","Action",NA
+"3","Olive-sided Flycatcher","HIGHEST","Action",NA
+"3","Olive-sided Flycatcher","BEST GUESS","Action",NA
+"3","Common Nighthawk","LOWEST","Action",NA
+"3","Common Nighthawk","HIGHEST","Action",NA
+"3","Common Nighthawk","BEST GUESS","Action",NA
+"3","Short-eared Owl","LOWEST","Action",NA
+"3","Short-eared Owl","HIGHEST","Action",NA
+"3","Short-eared Owl","BEST GUESS","Action",NA
+"3","Harris's Sparrow","LOWEST","Action",NA
+"3","Harris's Sparrow","HIGHEST","Action",NA
+"3","Harris's Sparrow","BEST GUESS","Action",NA
+"3","Bank Swallow","LOWEST","Action",NA
+"3","Bank Swallow","HIGHEST","Action",NA
+"3","Bank Swallow","BEST GUESS","Action",NA
+"3","Rusty Blackbird","LOWEST","Action",NA
+"3","Rusty Blackbird","HIGHEST","Action",NA
+"3","Rusty Blackbird","BEST GUESS","Action",NA
+"3","Northern Myotis","LOWEST","Action",NA
+"3","Northern Myotis","HIGHEST","Action",NA
+"3","Northern Myotis","BEST GUESS","Action",NA
+"3","Little Brown Myotis","LOWEST","Action",NA
+"3","Little Brown Myotis","HIGHEST","Action",NA
+"3","Little Brown Myotis","BEST GUESS","Action",NA
+"3","Wolverine - Western population","LOWEST","Action",NA
+"3","Wolverine - Western population","HIGHEST","Action",NA
+"3","Wolverine - Western population","BEST GUESS","Action",NA
+"3","Grizzly Bear","LOWEST","Action",NA
+"3","Grizzly Bear","HIGHEST","Action",NA
+"3","Grizzly Bear","BEST GUESS","Action",NA
+"3","Transverse Lady Beetle","LOWEST","Action",NA
+"3","Transverse Lady Beetle","HIGHEST","Action",NA
+"3","Transverse Lady Beetle","BEST GUESS","Action",NA
+"3","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action",NA
+"3","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action",NA
+"3","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"3","Suckley's Cuckoo Bumble Bee","LOWEST","Action",NA
+"3","Suckley's Cuckoo Bumble Bee","HIGHEST","Action",NA
+"3","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"3","Western Bumble Bee","LOWEST","Action",NA
+"3","Western Bumble Bee","HIGHEST","Action",NA
+"3","Western Bumble Bee","BEST GUESS","Action",NA
+"3","Yellow-banded Bumble Bee","LOWEST","Action",NA
+"3","Yellow-banded Bumble Bee","HIGHEST","Action",NA
+"3","Yellow-banded Bumble Bee","BEST GUESS","Action",NA
+"3","Porsild's Bryum","LOWEST","Action",NA
+"3","Porsild's Bryum","HIGHEST","Action",NA
+"3","Porsild's Bryum","BEST GUESS","Action",NA
+"3","Evening Grosbeak","LOWEST","Action",NA
+"3","Evening Grosbeak","HIGHEST","Action",NA
+"3","Evening Grosbeak","BEST GUESS","Action",NA
+"4","Bull Trout","LOWEST","Action","50"
+"4","Bull Trout","HIGHEST","Action","85"
+"4","Bull Trout","BEST GUESS","Action","75"
+"4","Rainbow Trout","LOWEST","Action","B"
+"4","Rainbow Trout","HIGHEST","Action","B"
+"4","Rainbow Trout","BEST GUESS","Action","B"
+"4","Western Toad","LOWEST","Action",NA
+"4","Western Toad","HIGHEST","Action",NA
+"4","Western Toad","BEST GUESS","Action",NA
+"4","Barn Swallow","LOWEST","Action",NA
+"4","Barn Swallow","HIGHEST","Action",NA
+"4","Barn Swallow","BEST GUESS","Action",NA
+"4","Olive-sided Flycatcher","LOWEST","Action",NA
+"4","Olive-sided Flycatcher","HIGHEST","Action",NA
+"4","Olive-sided Flycatcher","BEST GUESS","Action",NA
+"4","Common Nighthawk","LOWEST","Action",NA
+"4","Common Nighthawk","HIGHEST","Action",NA
+"4","Common Nighthawk","BEST GUESS","Action",NA
+"4","Short-eared Owl","LOWEST","Action",NA
+"4","Short-eared Owl","HIGHEST","Action",NA
+"4","Short-eared Owl","BEST GUESS","Action",NA
+"4","Harris's Sparrow","LOWEST","Action",NA
+"4","Harris's Sparrow","HIGHEST","Action",NA
+"4","Harris's Sparrow","BEST GUESS","Action",NA
+"4","Bank Swallow","LOWEST","Action",NA
+"4","Bank Swallow","HIGHEST","Action",NA
+"4","Bank Swallow","BEST GUESS","Action",NA
+"4","Rusty Blackbird","LOWEST","Action",NA
+"4","Rusty Blackbird","HIGHEST","Action",NA
+"4","Rusty Blackbird","BEST GUESS","Action",NA
+"4","Northern Myotis","LOWEST","Action",NA
+"4","Northern Myotis","HIGHEST","Action",NA
+"4","Northern Myotis","BEST GUESS","Action",NA
+"4","Little Brown Myotis","LOWEST","Action",NA
+"4","Little Brown Myotis","HIGHEST","Action",NA
+"4","Little Brown Myotis","BEST GUESS","Action",NA
+"4","Wolverine - Western population","LOWEST","Action",NA
+"4","Wolverine - Western population","HIGHEST","Action",NA
+"4","Wolverine - Western population","BEST GUESS","Action",NA
+"4","Grizzly Bear","LOWEST","Action",NA
+"4","Grizzly Bear","HIGHEST","Action",NA
+"4","Grizzly Bear","BEST GUESS","Action",NA
+"4","Transverse Lady Beetle","LOWEST","Action",NA
+"4","Transverse Lady Beetle","HIGHEST","Action",NA
+"4","Transverse Lady Beetle","BEST GUESS","Action",NA
+"4","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action",NA
+"4","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action",NA
+"4","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"4","Suckley's Cuckoo Bumble Bee","LOWEST","Action",NA
+"4","Suckley's Cuckoo Bumble Bee","HIGHEST","Action",NA
+"4","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"4","Western Bumble Bee","LOWEST","Action",NA
+"4","Western Bumble Bee","HIGHEST","Action",NA
+"4","Western Bumble Bee","BEST GUESS","Action",NA
+"4","Yellow-banded Bumble Bee","LOWEST","Action",NA
+"4","Yellow-banded Bumble Bee","HIGHEST","Action",NA
+"4","Yellow-banded Bumble Bee","BEST GUESS","Action",NA
+"4","Porsild's Bryum","LOWEST","Action",NA
+"4","Porsild's Bryum","HIGHEST","Action",NA
+"4","Porsild's Bryum","BEST GUESS","Action",NA
+"4","Evening Grosbeak","LOWEST","Action",NA
+"4","Evening Grosbeak","HIGHEST","Action",NA
+"4","Evening Grosbeak","BEST GUESS","Action",NA
+"5","Bull Trout","LOWEST","Action",NA
+"5","Bull Trout","HIGHEST","Action",NA
+"5","Bull Trout","BEST GUESS","Action",NA
+"5","Rainbow Trout","LOWEST","Action",NA
+"5","Rainbow Trout","HIGHEST","Action",NA
+"5","Rainbow Trout","BEST GUESS","Action",NA
+"5","Western Toad","LOWEST","Action","75"
+"5","Western Toad","HIGHEST","Action","100"
+"5","Western Toad","BEST GUESS","Action","90"
+"5","Barn Swallow","LOWEST","Action",NA
+"5","Barn Swallow","HIGHEST","Action",NA
+"5","Barn Swallow","BEST GUESS","Action",NA
+"5","Olive-sided Flycatcher","LOWEST","Action",NA
+"5","Olive-sided Flycatcher","HIGHEST","Action",NA
+"5","Olive-sided Flycatcher","BEST GUESS","Action",NA
+"5","Common Nighthawk","LOWEST","Action",NA
+"5","Common Nighthawk","HIGHEST","Action",NA
+"5","Common Nighthawk","BEST GUESS","Action",NA
+"5","Short-eared Owl","LOWEST","Action",NA
+"5","Short-eared Owl","HIGHEST","Action",NA
+"5","Short-eared Owl","BEST GUESS","Action",NA
+"5","Harris's Sparrow","LOWEST","Action",NA
+"5","Harris's Sparrow","HIGHEST","Action",NA
+"5","Harris's Sparrow","BEST GUESS","Action",NA
+"5","Bank Swallow","LOWEST","Action",NA
+"5","Bank Swallow","HIGHEST","Action",NA
+"5","Bank Swallow","BEST GUESS","Action",NA
+"5","Rusty Blackbird","LOWEST","Action",NA
+"5","Rusty Blackbird","HIGHEST","Action",NA
+"5","Rusty Blackbird","BEST GUESS","Action",NA
+"5","Northern Myotis","LOWEST","Action",NA
+"5","Northern Myotis","HIGHEST","Action",NA
+"5","Northern Myotis","BEST GUESS","Action",NA
+"5","Little Brown Myotis","LOWEST","Action",NA
+"5","Little Brown Myotis","HIGHEST","Action",NA
+"5","Little Brown Myotis","BEST GUESS","Action",NA
+"5","Wolverine - Western population","LOWEST","Action",NA
+"5","Wolverine - Western population","HIGHEST","Action",NA
+"5","Wolverine - Western population","BEST GUESS","Action",NA
+"5","Grizzly Bear","LOWEST","Action",NA
+"5","Grizzly Bear","HIGHEST","Action",NA
+"5","Grizzly Bear","BEST GUESS","Action",NA
+"5","Transverse Lady Beetle","LOWEST","Action",NA
+"5","Transverse Lady Beetle","HIGHEST","Action",NA
+"5","Transverse Lady Beetle","BEST GUESS","Action",NA
+"5","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action",NA
+"5","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action",NA
+"5","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"5","Suckley's Cuckoo Bumble Bee","LOWEST","Action",NA
+"5","Suckley's Cuckoo Bumble Bee","HIGHEST","Action",NA
+"5","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"5","Western Bumble Bee","LOWEST","Action",NA
+"5","Western Bumble Bee","HIGHEST","Action",NA
+"5","Western Bumble Bee","BEST GUESS","Action",NA
+"5","Yellow-banded Bumble Bee","LOWEST","Action",NA
+"5","Yellow-banded Bumble Bee","HIGHEST","Action",NA
+"5","Yellow-banded Bumble Bee","BEST GUESS","Action",NA
+"5","Porsild's Bryum","LOWEST","Action",NA
+"5","Porsild's Bryum","HIGHEST","Action",NA
+"5","Porsild's Bryum","BEST GUESS","Action",NA
+"5","Evening Grosbeak","LOWEST","Action",NA
+"5","Evening Grosbeak","HIGHEST","Action",NA
+"5","Evening Grosbeak","BEST GUESS","Action",NA
+"6","Bull Trout","LOWEST","Action",NA
+"6","Bull Trout","HIGHEST","Action",NA
+"6","Bull Trout","BEST GUESS","Action",NA
+"6","Rainbow Trout","LOWEST","Action","25"
+"6","Rainbow Trout","HIGHEST","Action","85"
+"6","Rainbow Trout","BEST GUESS","Action","75"
+"6","Western Toad","LOWEST","Action",NA
+"6","Western Toad","HIGHEST","Action",NA
+"6","Western Toad","BEST GUESS","Action",NA
+"6","Barn Swallow","LOWEST","Action","75"
+"6","Barn Swallow","HIGHEST","Action","95"
+"6","Barn Swallow","BEST GUESS","Action","85"
+"6","Olive-sided Flycatcher","LOWEST","Action",NA
+"6","Olive-sided Flycatcher","HIGHEST","Action",NA
+"6","Olive-sided Flycatcher","BEST GUESS","Action",NA
+"6","Common Nighthawk","LOWEST","Action",NA
+"6","Common Nighthawk","HIGHEST","Action",NA
+"6","Common Nighthawk","BEST GUESS","Action",NA
+"6","Short-eared Owl","LOWEST","Action",NA
+"6","Short-eared Owl","HIGHEST","Action",NA
+"6","Short-eared Owl","BEST GUESS","Action",NA
+"6","Harris's Sparrow","LOWEST","Action",NA
+"6","Harris's Sparrow","HIGHEST","Action",NA
+"6","Harris's Sparrow","BEST GUESS","Action",NA
+"6","Bank Swallow","LOWEST","Action","65"
+"6","Bank Swallow","HIGHEST","Action","85"
+"6","Bank Swallow","BEST GUESS","Action","75"
+"6","Rusty Blackbird","LOWEST","Action",NA
+"6","Rusty Blackbird","HIGHEST","Action",NA
+"6","Rusty Blackbird","BEST GUESS","Action",NA
+"6","Northern Myotis","LOWEST","Action",NA
+"6","Northern Myotis","HIGHEST","Action",NA
+"6","Northern Myotis","BEST GUESS","Action",NA
+"6","Little Brown Myotis","LOWEST","Action",NA
+"6","Little Brown Myotis","HIGHEST","Action",NA
+"6","Little Brown Myotis","BEST GUESS","Action",NA
+"6","Wolverine - Western population","LOWEST","Action",NA
+"6","Wolverine - Western population","HIGHEST","Action",NA
+"6","Wolverine - Western population","BEST GUESS","Action",NA
+"6","Grizzly Bear","LOWEST","Action",NA
+"6","Grizzly Bear","HIGHEST","Action",NA
+"6","Grizzly Bear","BEST GUESS","Action",NA
+"6","Transverse Lady Beetle","LOWEST","Action",NA
+"6","Transverse Lady Beetle","HIGHEST","Action",NA
+"6","Transverse Lady Beetle","BEST GUESS","Action",NA
+"6","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action",NA
+"6","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action",NA
+"6","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"6","Suckley's Cuckoo Bumble Bee","LOWEST","Action",NA
+"6","Suckley's Cuckoo Bumble Bee","HIGHEST","Action",NA
+"6","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"6","Western Bumble Bee","LOWEST","Action",NA
+"6","Western Bumble Bee","HIGHEST","Action",NA
+"6","Western Bumble Bee","BEST GUESS","Action",NA
+"6","Yellow-banded Bumble Bee","LOWEST","Action",NA
+"6","Yellow-banded Bumble Bee","HIGHEST","Action",NA
+"6","Yellow-banded Bumble Bee","BEST GUESS","Action",NA
+"6","Porsild's Bryum","LOWEST","Action",NA
+"6","Porsild's Bryum","HIGHEST","Action",NA
+"6","Porsild's Bryum","BEST GUESS","Action",NA
+"6","Evening Grosbeak","LOWEST","Action",NA
+"6","Evening Grosbeak","HIGHEST","Action",NA
+"6","Evening Grosbeak","BEST GUESS","Action",NA
+"7","Bull Trout","LOWEST","Action","50"
+"7","Bull Trout","HIGHEST","Action","95"
+"7","Bull Trout","BEST GUESS","Action","85"
+"7","Rainbow Trout","LOWEST","Action","40"
+"7","Rainbow Trout","HIGHEST","Action","90"
+"7","Rainbow Trout","BEST GUESS","Action","65"
+"7","Western Toad","LOWEST","Action","50"
+"7","Western Toad","HIGHEST","Action","90"
+"7","Western Toad","BEST GUESS","Action","80"
+"7","Barn Swallow","LOWEST","Action","75"
+"7","Barn Swallow","HIGHEST","Action","100"
+"7","Barn Swallow","BEST GUESS","Action","95"
+"7","Olive-sided Flycatcher","LOWEST","Action","40"
+"7","Olive-sided Flycatcher","HIGHEST","Action","80"
+"7","Olive-sided Flycatcher","BEST GUESS","Action","65"
+"7","Common Nighthawk","LOWEST","Action","50"
+"7","Common Nighthawk","HIGHEST","Action","100"
+"7","Common Nighthawk","BEST GUESS","Action","95"
+"7","Short-eared Owl","LOWEST","Action","0"
+"7","Short-eared Owl","HIGHEST","Action","25"
+"7","Short-eared Owl","BEST GUESS","Action","10"
+"7","Harris's Sparrow","LOWEST","Action","20"
+"7","Harris's Sparrow","HIGHEST","Action","50"
+"7","Harris's Sparrow","BEST GUESS","Action","40"
+"7","Bank Swallow","LOWEST","Action","30"
+"7","Bank Swallow","HIGHEST","Action","95"
+"7","Bank Swallow","BEST GUESS","Action","90"
+"7","Rusty Blackbird","LOWEST","Action","0"
+"7","Rusty Blackbird","HIGHEST","Action","30"
+"7","Rusty Blackbird","BEST GUESS","Action","15"
+"7","Northern Myotis","LOWEST","Action","70"
+"7","Northern Myotis","HIGHEST","Action","100"
+"7","Northern Myotis","BEST GUESS","Action","100"
+"7","Little Brown Myotis","LOWEST","Action","70"
+"7","Little Brown Myotis","HIGHEST","Action","100"
+"7","Little Brown Myotis","BEST GUESS","Action","100"
+"7","Wolverine - Western population","LOWEST","Action","30"
+"7","Wolverine - Western population","HIGHEST","Action","50"
+"7","Wolverine - Western population","BEST GUESS","Action","40"
+"7","Grizzly Bear","LOWEST","Action","70"
+"7","Grizzly Bear","HIGHEST","Action","100"
+"7","Grizzly Bear","BEST GUESS","Action","90"
+"7","Transverse Lady Beetle","LOWEST","Action",NA
+"7","Transverse Lady Beetle","HIGHEST","Action",NA
+"7","Transverse Lady Beetle","BEST GUESS","Action",NA
+"7","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action",NA
+"7","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action",NA
+"7","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"7","Suckley's Cuckoo Bumble Bee","LOWEST","Action",NA
+"7","Suckley's Cuckoo Bumble Bee","HIGHEST","Action",NA
+"7","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"7","Western Bumble Bee","LOWEST","Action",NA
+"7","Western Bumble Bee","HIGHEST","Action",NA
+"7","Western Bumble Bee","BEST GUESS","Action",NA
+"7","Yellow-banded Bumble Bee","LOWEST","Action",NA
+"7","Yellow-banded Bumble Bee","HIGHEST","Action",NA
+"7","Yellow-banded Bumble Bee","BEST GUESS","Action",NA
+"7","Porsild's Bryum","LOWEST","Action",NA
+"7","Porsild's Bryum","HIGHEST","Action",NA
+"7","Porsild's Bryum","BEST GUESS","Action",NA
+"7","Evening Grosbeak","LOWEST","Action","70"
+"7","Evening Grosbeak","HIGHEST","Action","100"
+"7","Evening Grosbeak","BEST GUESS","Action","100"
+"8","Bull Trout","LOWEST","Action","50"
+"8","Bull Trout","HIGHEST","Action","85"
+"8","Bull Trout","BEST GUESS","Action","75"
+"8","Rainbow Trout","LOWEST","Action","50"
+"8","Rainbow Trout","HIGHEST","Action","85"
+"8","Rainbow Trout","BEST GUESS","Action","75"
+"8","Western Toad","LOWEST","Action","50"
+"8","Western Toad","HIGHEST","Action","85"
+"8","Western Toad","BEST GUESS","Action","75"
+"8","Barn Swallow","LOWEST","Action","25"
+"8","Barn Swallow","HIGHEST","Action","75"
+"8","Barn Swallow","BEST GUESS","Action","50"
+"8","Olive-sided Flycatcher","LOWEST","Action","50"
+"8","Olive-sided Flycatcher","HIGHEST","Action","85"
+"8","Olive-sided Flycatcher","BEST GUESS","Action","75"
+"8","Common Nighthawk","LOWEST","Action","50"
+"8","Common Nighthawk","HIGHEST","Action","85"
+"8","Common Nighthawk","BEST GUESS","Action","75"
+"8","Short-eared Owl","LOWEST","Action","50"
+"8","Short-eared Owl","HIGHEST","Action","85"
+"8","Short-eared Owl","BEST GUESS","Action","75"
+"8","Harris's Sparrow","LOWEST","Action","25"
+"8","Harris's Sparrow","HIGHEST","Action","75"
+"8","Harris's Sparrow","BEST GUESS","Action","50"
+"8","Bank Swallow","LOWEST","Action","50"
+"8","Bank Swallow","HIGHEST","Action","85"
+"8","Bank Swallow","BEST GUESS","Action","75"
+"8","Rusty Blackbird","LOWEST","Action","50"
+"8","Rusty Blackbird","HIGHEST","Action","85"
+"8","Rusty Blackbird","BEST GUESS","Action","75"
+"8","Northern Myotis","LOWEST","Action","50"
+"8","Northern Myotis","HIGHEST","Action","85"
+"8","Northern Myotis","BEST GUESS","Action","75"
+"8","Little Brown Myotis","LOWEST","Action","50"
+"8","Little Brown Myotis","HIGHEST","Action","85"
+"8","Little Brown Myotis","BEST GUESS","Action","75"
+"8","Wolverine - Western population","LOWEST","Action","25"
+"8","Wolverine - Western population","HIGHEST","Action","75"
+"8","Wolverine - Western population","BEST GUESS","Action","50"
+"8","Grizzly Bear","LOWEST","Action","25"
+"8","Grizzly Bear","HIGHEST","Action","75"
+"8","Grizzly Bear","BEST GUESS","Action","50"
+"8","Transverse Lady Beetle","LOWEST","Action",NA
+"8","Transverse Lady Beetle","HIGHEST","Action",NA
+"8","Transverse Lady Beetle","BEST GUESS","Action",NA
+"8","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action",NA
+"8","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action",NA
+"8","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"8","Suckley's Cuckoo Bumble Bee","LOWEST","Action",NA
+"8","Suckley's Cuckoo Bumble Bee","HIGHEST","Action",NA
+"8","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action",NA
+"8","Western Bumble Bee","LOWEST","Action",NA
+"8","Western Bumble Bee","HIGHEST","Action",NA
+"8","Western Bumble Bee","BEST GUESS","Action",NA
+"8","Yellow-banded Bumble Bee","LOWEST","Action",NA
+"8","Yellow-banded Bumble Bee","HIGHEST","Action",NA
+"8","Yellow-banded Bumble Bee","BEST GUESS","Action",NA
+"8","Porsild's Bryum","LOWEST","Action",NA
+"8","Porsild's Bryum","HIGHEST","Action",NA
+"8","Porsild's Bryum","BEST GUESS","Action",NA
+"8","Evening Grosbeak","LOWEST","Action","50"
+"8","Evening Grosbeak","HIGHEST","Action","85"
+"8","Evening Grosbeak","BEST GUESS","Action","75"
+"9","Bull Trout","LOWEST","Action",NA
+"9","Bull Trout","HIGHEST","Action",NA
+"9","Bull Trout","BEST GUESS","Action",NA
+"9","Rainbow Trout","LOWEST","Action",NA
+"9","Rainbow Trout","HIGHEST","Action",NA
+"9","Rainbow Trout","BEST GUESS","Action",NA
+"9","Western Toad","LOWEST","Action","70"
+"9","Western Toad","HIGHEST","Action","100"
+"9","Western Toad","BEST GUESS","Action","90"
+"9","Barn Swallow","LOWEST","Action","B"
+"9","Barn Swallow","HIGHEST","Action","B"
+"9","Barn Swallow","BEST GUESS","Action","B"
+"9","Olive-sided Flycatcher","LOWEST","Action","B"
+"9","Olive-sided Flycatcher","HIGHEST","Action","B"
+"9","Olive-sided Flycatcher","BEST GUESS","Action","B"
+"9","Common Nighthawk","LOWEST","Action","B"
+"9","Common Nighthawk","HIGHEST","Action","B"
+"9","Common Nighthawk","BEST GUESS","Action","B"
+"9","Short-eared Owl","LOWEST","Action","B"
+"9","Short-eared Owl","HIGHEST","Action","B"
+"9","Short-eared Owl","BEST GUESS","Action","B"
+"9","Harris's Sparrow","LOWEST","Action","B"
+"9","Harris's Sparrow","HIGHEST","Action","B"
+"9","Harris's Sparrow","BEST GUESS","Action","B"
+"9","Bank Swallow","LOWEST","Action","B"
+"9","Bank Swallow","HIGHEST","Action","B"
+"9","Bank Swallow","BEST GUESS","Action","B"
+"9","Rusty Blackbird","LOWEST","Action","B"
+"9","Rusty Blackbird","HIGHEST","Action","B"
+"9","Rusty Blackbird","BEST GUESS","Action","B"
+"9","Northern Myotis","LOWEST","Action","B"
+"9","Northern Myotis","HIGHEST","Action","B"
+"9","Northern Myotis","BEST GUESS","Action","B"
+"9","Little Brown Myotis","LOWEST","Action","B"
+"9","Little Brown Myotis","HIGHEST","Action","B"
+"9","Little Brown Myotis","BEST GUESS","Action","B"
+"9","Wolverine - Western population","LOWEST","Action",NA
+"9","Wolverine - Western population","HIGHEST","Action",NA
+"9","Wolverine - Western population","BEST GUESS","Action",NA
+"9","Grizzly Bear","LOWEST","Action",NA
+"9","Grizzly Bear","HIGHEST","Action",NA
+"9","Grizzly Bear","BEST GUESS","Action",NA
+"9","Transverse Lady Beetle","LOWEST","Action","B"
+"9","Transverse Lady Beetle","HIGHEST","Action","B"
+"9","Transverse Lady Beetle","BEST GUESS","Action","B"
+"9","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action","B"
+"9","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action","B"
+"9","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action","B"
+"9","Suckley's Cuckoo Bumble Bee","LOWEST","Action","B"
+"9","Suckley's Cuckoo Bumble Bee","HIGHEST","Action","B"
+"9","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action","B"
+"9","Western Bumble Bee","LOWEST","Action","B"
+"9","Western Bumble Bee","HIGHEST","Action","B"
+"9","Western Bumble Bee","BEST GUESS","Action","B"
+"9","Yellow-banded Bumble Bee","LOWEST","Action","B"
+"9","Yellow-banded Bumble Bee","HIGHEST","Action","B"
+"9","Yellow-banded Bumble Bee","BEST GUESS","Action","B"
+"9","Porsild's Bryum","LOWEST","Action",NA
+"9","Porsild's Bryum","HIGHEST","Action",NA
+"9","Porsild's Bryum","BEST GUESS","Action",NA
+"9","Evening Grosbeak","LOWEST","Action",NA
+"9","Evening Grosbeak","HIGHEST","Action",NA
+"9","Evening Grosbeak","BEST GUESS","Action",NA
+"10","Bull Trout","LOWEST","Action",NA
+"10","Bull Trout","HIGHEST","Action",NA
+"10","Bull Trout","BEST GUESS","Action",NA
+"10","Rainbow Trout","LOWEST","Action",NA
+"10","Rainbow Trout","HIGHEST","Action",NA
+"10","Rainbow Trout","BEST GUESS","Action",NA
+"10","Western Toad","LOWEST","Action",NA
+"10","Western Toad","HIGHEST","Action",NA
+"10","Western Toad","BEST GUESS","Action",NA
+"10","Barn Swallow","LOWEST","Action",NA
+"10","Barn Swallow","HIGHEST","Action",NA
+"10","Barn Swallow","BEST GUESS","Action",NA
+"10","Olive-sided Flycatcher","LOWEST","Action",NA
+"10","Olive-sided Flycatcher","HIGHEST","Action",NA
+"10","Olive-sided Flycatcher","BEST GUESS","Action",NA
+"10","Common Nighthawk","LOWEST","Action",NA
+"10","Common Nighthawk","HIGHEST","Action",NA
+"10","Common Nighthawk","BEST GUESS","Action",NA
+"10","Short-eared Owl","LOWEST","Action",NA
+"10","Short-eared Owl","HIGHEST","Action",NA
+"10","Short-eared Owl","BEST GUESS","Action",NA
+"10","Harris's Sparrow","LOWEST","Action",NA
+"10","Harris's Sparrow","HIGHEST","Action",NA
+"10","Harris's Sparrow","BEST GUESS","Action",NA
+"10","Bank Swallow","LOWEST","Action",NA
+"10","Bank Swallow","HIGHEST","Action",NA
+"10","Bank Swallow","BEST GUESS","Action",NA
+"10","Rusty Blackbird","LOWEST","Action",NA
+"10","Rusty Blackbird","HIGHEST","Action",NA
+"10","Rusty Blackbird","BEST GUESS","Action",NA
+"10","Northern Myotis","LOWEST","Action",NA
+"10","Northern Myotis","HIGHEST","Action",NA
+"10","Northern Myotis","BEST GUESS","Action",NA
+"10","Little Brown Myotis","LOWEST","Action",NA
+"10","Little Brown Myotis","HIGHEST","Action",NA
+"10","Little Brown Myotis","BEST GUESS","Action",NA
+"10","Wolverine - Western population","LOWEST","Action",NA
+"10","Wolverine - Western population","HIGHEST","Action",NA
+"10","Wolverine - Western population","BEST GUESS","Action",NA
+"10","Grizzly Bear","LOWEST","Action",NA
+"10","Grizzly Bear","HIGHEST","Action",NA
+"10","Grizzly Bear","BEST GUESS","Action",NA
+"10","Transverse Lady Beetle","LOWEST","Action","50"
+"10","Transverse Lady Beetle","HIGHEST","Action","60"
+"10","Transverse Lady Beetle","BEST GUESS","Action","55"
+"10","Ashton (Gypsy) Cuckoo Bumble Bee","LOWEST","Action","50"
+"10","Ashton (Gypsy) Cuckoo Bumble Bee","HIGHEST","Action","60"
+"10","Ashton (Gypsy) Cuckoo Bumble Bee","BEST GUESS","Action","50"
+"10","Suckley's Cuckoo Bumble Bee","LOWEST","Action","50"
+"10","Suckley's Cuckoo Bumble Bee","HIGHEST","Action","60"
+"10","Suckley's Cuckoo Bumble Bee","BEST GUESS","Action","50"
+"10","Western Bumble Bee","LOWEST","Action","50"
+"10","Western Bumble Bee","HIGHEST","Action","60"
+"10","Western Bumble Bee","BEST GUESS","Action","50"
+"10","Yellow-banded Bumble Bee","LOWEST","Action","50"
+"10","Yellow-banded Bumble Bee","HIGHEST","Action","60"
+"10","Yellow-banded Bumble Bee","BEST GUESS","Action","55"
+"10","Porsild's Bryum","LOWEST","Action",NA
+"10","Porsild's Bryum","HIGHEST","Action",NA
+"10","Porsild's Bryum","BEST GUESS","Action",NA
+"10","Evening Grosbeak","LOWEST","Action",NA
+"10","Evening Grosbeak","HIGHEST","Action",NA
+"10","Evening Grosbeak","BEST GUESS","Action",NA

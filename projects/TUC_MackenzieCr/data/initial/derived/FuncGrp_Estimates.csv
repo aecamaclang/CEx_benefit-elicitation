@@ -1,0 +1,4321 @@
+"Expert","Biodiversity","Estimate","Counterfactual","Action","Rating","Comments"
+1,"Freshwater
+Fish
+Large predators","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Fish
+Small-medium predators","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+1,"Freshwater
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+1,"Freshwater
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+1,"Freshwater
+Vascular plants
+Herbaceous","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST","80","90",NA,NA
+1,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS","75","85",NA,NA
+1,"Freshwater
+Vascular plants
+Woody","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Freshwater
+Vascular plants
+Woody","HIGHEST","80","90",NA,NA
+1,"Freshwater
+Vascular plants
+Woody","BEST GUESS","75","85",NA,NA
+1,"Wetland
+Fish
+Large predators","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Fish
+Small-medium predators","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+1,"Wetland
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+1,"Wetland
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+1,"Wetland
+Vascular plants
+Herbaceous","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Wetland
+Vascular plants
+Herbaceous","HIGHEST","80","90",NA,NA
+1,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS","75","85",NA,NA
+1,"Wetland
+Vascular plants
+Woody","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Wetland
+Vascular plants
+Woody","HIGHEST","80","90",NA,NA
+1,"Wetland
+Vascular plants
+Woody","BEST GUESS","75","85",NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+1,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+1,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST","80","90",NA,NA
+1,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS","75","85",NA,NA
+1,"Coniferous Forest
+Vascular plants
+Woody","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST","80","90",NA,NA
+1,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS","75","85",NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+1,"Mixed Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+1,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+1,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST","80","90",NA,NA
+1,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS","75","85",NA,NA
+1,"Mixed Forest
+Vascular plants
+Woody","LOWEST","70","80","6","These communities are fairly robust and so can rebound from disturbance to some degree. However, I do believe the actions taken will be beneficial."
+1,"Mixed Forest
+Vascular plants
+Woody","HIGHEST","80","90",NA,NA
+1,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS","75","85",NA,NA
+2,"Freshwater
+Fish
+Large predators","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Freshwater
+Fish
+Large predators","HIGHEST","75","80",NA,NA
+2,"Freshwater
+Fish
+Large predators","BEST GUESS","50","75",NA,NA
+2,"Freshwater
+Fish
+Small-medium predators","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Freshwater
+Fish
+Small-medium predators","HIGHEST","75","80",NA,NA
+2,"Freshwater
+Fish
+Small-medium predators","BEST GUESS","50","75",NA,NA
+2,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST","50","50","4","Unsure if there are any lizards or snakes that occupy this area."
+2,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","80","80",NA,NA
+2,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","75","75",NA,NA
+2,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST","75","80",NA,NA
+2,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS","50","75",NA,NA
+2,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST","75","80",NA,NA
+2,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS","50","75",NA,NA
+2,"Freshwater
+Birds
+Carnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Freshwater
+Birds
+Carnivore","HIGHEST","80","80",NA,NA
+2,"Freshwater
+Birds
+Carnivore","BEST GUESS","75","75",NA,NA
+2,"Freshwater
+Birds
+Omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Freshwater
+Birds
+Omnivore","HIGHEST","80","80",NA,NA
+2,"Freshwater
+Birds
+Omnivore","BEST GUESS","75","75",NA,NA
+2,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST","80","80",NA,NA
+2,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS","75","75",NA,NA
+2,"Freshwater
+Birds
+Herbivore/granivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST","80","80",NA,NA
+2,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS","75","75",NA,NA
+2,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST","80","80",NA,NA
+2,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS","75","75",NA,NA
+2,"Freshwater
+Mammals
+Herbivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Freshwater
+Mammals
+Herbivore","HIGHEST","80","80",NA,NA
+2,"Freshwater
+Mammals
+Herbivore","BEST GUESS","75","75",NA,NA
+2,"Freshwater
+Vascular plants
+Herbaceous","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST","75","80",NA,NA
+2,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS","50","75",NA,NA
+2,"Freshwater
+Vascular plants
+Woody","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Freshwater
+Vascular plants
+Woody","HIGHEST","75","80",NA,NA
+2,"Freshwater
+Vascular plants
+Woody","BEST GUESS","50","75",NA,NA
+2,"Wetland
+Fish
+Large predators","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Wetland
+Fish
+Large predators","HIGHEST","75","80",NA,NA
+2,"Wetland
+Fish
+Large predators","BEST GUESS","50","75",NA,NA
+2,"Wetland
+Fish
+Small-medium predators","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Wetland
+Fish
+Small-medium predators","HIGHEST","75","80",NA,NA
+2,"Wetland
+Fish
+Small-medium predators","BEST GUESS","50","75",NA,NA
+2,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST","50","50","4","Unsure if there are any lizards or snakes that occupy this area."
+2,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","80","80",NA,NA
+2,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","75","75",NA,NA
+2,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST","75","80",NA,NA
+2,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS","50","75",NA,NA
+2,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST","75","80",NA,NA
+2,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS","50","75",NA,NA
+2,"Wetland
+Birds
+Carnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Wetland
+Birds
+Carnivore","HIGHEST","80","80",NA,NA
+2,"Wetland
+Birds
+Carnivore","BEST GUESS","75","75",NA,NA
+2,"Wetland
+Birds
+Omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Wetland
+Birds
+Omnivore","HIGHEST","80","80",NA,NA
+2,"Wetland
+Birds
+Omnivore","BEST GUESS","75","75",NA,NA
+2,"Wetland
+Birds
+Insectivore/invertivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST","80","80",NA,NA
+2,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS","75","75",NA,NA
+2,"Wetland
+Birds
+Herbivore/granivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Wetland
+Birds
+Herbivore/granivore","HIGHEST","80","80",NA,NA
+2,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS","75","75",NA,NA
+2,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST","80","80",NA,NA
+2,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS","75","75",NA,NA
+2,"Wetland
+Mammals
+Herbivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Wetland
+Mammals
+Herbivore","HIGHEST","80","80",NA,NA
+2,"Wetland
+Mammals
+Herbivore","BEST GUESS","75","75",NA,NA
+2,"Wetland
+Vascular plants
+Herbaceous","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Wetland
+Vascular plants
+Herbaceous","HIGHEST","75","80",NA,NA
+2,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS","50","75",NA,NA
+2,"Wetland
+Vascular plants
+Woody","LOWEST","25","50","4","Upgrading crossing infrastructure could see improvements to the local and downstream habitat for these species. Is highly dependent on if OHV users use the new infrastructure."
+2,"Wetland
+Vascular plants
+Woody","HIGHEST","75","80",NA,NA
+2,"Wetland
+Vascular plants
+Woody","BEST GUESS","50","75",NA,NA
+2,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","50","50","4","Unsure if there are any lizards or snakes that occupy this area."
+2,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Birds
+Carnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Birds
+Carnivore","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Birds
+Omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Birds
+Omnivore","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Mammals
+Herbivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS","75","75",NA,NA
+2,"Coniferous Forest
+Vascular plants
+Woody","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST","80","80",NA,NA
+2,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","50","50","4","Unsure if there are any lizards or snakes that occupy this area."
+2,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Birds
+Carnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Birds
+Carnivore","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Birds
+Carnivore","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Birds
+Omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Birds
+Omnivore","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Birds
+Omnivore","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Mammals
+Herbivore","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Mammals
+Herbivore","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS","75","75",NA,NA
+2,"Mixed Forest
+Vascular plants
+Woody","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this functional group. External factors outside of this project are likely the dominant threat to persistence."
+2,"Mixed Forest
+Vascular plants
+Woody","HIGHEST","80","80",NA,NA
+2,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS","75","75",NA,NA
+3,"Freshwater
+Fish
+Large predators","LOWEST","20","20","5","Because of my lack of knowledge of the system as it petains to fish biodiversity, I am only consdiering bull trout and rainbow trout, here.  I recognize that there likely are small minnow species in the system, but am not consdering those as predators. Because i think bull trout are the primary species of concern, my scores are identifcal to that of the SAR persistence tab."
+3,"Freshwater
+Fish
+Large predators","HIGHEST","50","85",NA,NA
+3,"Freshwater
+Fish
+Large predators","BEST GUESS","20","60",NA,NA
+3,"Freshwater
+Fish
+Small-medium predators","LOWEST",NA,NA,"x",NA
+3,"Freshwater
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Carnivore","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Omnivore","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Mammals
+Herbivore","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+3,"Freshwater
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+3,"Freshwater
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+3,"Freshwater
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Fish
+Large predators","LOWEST",NA,NA,"3",NA
+3,"Wetland
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Fish
+Small-medium predators","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Birds
+Carnivore","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Birds
+Omnivore","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Mammals
+Herbivore","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+3,"Wetland
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+3,"Wetland
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+3,"Wetland
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Carnivore","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Omnivore","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Mammals
+Herbivore","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+3,"Coniferous Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+3,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+3,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Carnivore","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Omnivore","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Mammals
+Herbivore","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+3,"Mixed Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+3,"Mixed Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+3,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Fish
+Large predators","LOWEST","25","50","8","Bull Trout are the only large fish predator in the system"
+4,"Freshwater
+Fish
+Large predators","HIGHEST","75","85",NA,NA
+4,"Freshwater
+Fish
+Large predators","BEST GUESS","50","75",NA,NA
+4,"Freshwater
+Fish
+Small-medium predators","LOWEST","B","B","8","There are only reports of occassional captures of other species in this system. It is populated by a monoculture of Bull Trout."
+4,"Freshwater
+Fish
+Small-medium predators","HIGHEST","B","B",NA,NA
+4,"Freshwater
+Fish
+Small-medium predators","BEST GUESS","B","B",NA,NA
+4,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Carnivore","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Omnivore","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Mammals
+Herbivore","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+4,"Freshwater
+Vascular plants
+Woody","LOWEST",NA,NA,"4",NA
+4,"Freshwater
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+4,"Freshwater
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Fish
+Large predators","LOWEST","25","50","8","The Bull Trout live in the mainstem and ephemeral side-channels. Theses side-channels MIGHT be considered wetlands, in which case they have the same effect as the freshwater functional group."
+4,"Wetland
+Fish
+Large predators","HIGHEST","75","85",NA,NA
+4,"Wetland
+Fish
+Large predators","BEST GUESS","50","75",NA,NA
+4,"Wetland
+Fish
+Small-medium predators","LOWEST","B","B","8","same as above"
+4,"Wetland
+Fish
+Small-medium predators","HIGHEST","B","B",NA,NA
+4,"Wetland
+Fish
+Small-medium predators","BEST GUESS","B","B",NA,NA
+4,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Birds
+Carnivore","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Birds
+Omnivore","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Mammals
+Herbivore","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+4,"Wetland
+Vascular plants
+Woody","LOWEST",NA,NA,"4",NA
+4,"Wetland
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+4,"Wetland
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Carnivore","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Omnivore","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Mammals
+Herbivore","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+4,"Coniferous Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"4",NA
+4,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+4,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Carnivore","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Omnivore","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Mammals
+Herbivore","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+4,"Mixed Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"4",NA
+4,"Mixed Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+4,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Fish
+Large predators","LOWEST","50","50","modest though this a novel context","Based on the presentation, this seems to be the group most likely to benefit. Still they have persisted this long so I think that they will likely continue. Active management likely improves the overall outlook but as these systems are more complicated than expected, failure or reduction in habitat quality is always a possibility (Such as loss of heterogeneity). I feel as this active management is limited and mostly just excluding people I think it has a higher probability of success than more involved activities.  If refering to pike, I think they are likely fine."
+5,"Freshwater
+Fish
+Large predators","HIGHEST","100","100",NA,NA
+5,"Freshwater
+Fish
+Large predators","BEST GUESS","60","70",NA,NA
+5,"Freshwater
+Fish
+Small-medium predators","LOWEST","70","70","As above","Most of the small fish in this system are fairly resiliant in my opionin and have persisted thus far. I would expect them to to be fine. Still as fish such as chub are pebble nesters there may be some benifit"
+5,"Freshwater
+Fish
+Small-medium predators","HIGHEST","100","100",NA,NA
+5,"Freshwater
+Fish
+Small-medium predators","BEST GUESS","85","90",NA,NA
+5,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST","90","90","strong","I think this will have very little impact on overall reptile populations"
+5,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","100","100",NA,NA
+5,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","95","95",NA,NA
+5,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST","90","90","strong","I think this will have very little impact on overall frog populations"
+5,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST","100","100",NA,NA
+5,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS","95","95",NA,NA
+5,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST","90","90","strong","I think this will have very little impact on overall salamander populations"
+5,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST","100","100",NA,NA
+5,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS","95","95",NA,NA
+5,"Freshwater
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+5,"Freshwater
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+5,"Freshwater
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+5,"Freshwater
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Fish
+Large predators","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Fish
+Small-medium predators","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST","90","90","strong","I think this will have very little impact on overall reptile populations"
+5,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","100","100",NA,NA
+5,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","95","95",NA,NA
+5,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST","90","90","strong","I think this will have very little impact on overall frog populations"
+5,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST","100","100",NA,NA
+5,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS","95","95",NA,NA
+5,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST","90","90","strong","I think this will have very little impact on overall salamander populations"
+5,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST","100","100",NA,NA
+5,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS","95","95",NA,NA
+5,"Wetland
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+5,"Wetland
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+5,"Wetland
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+5,"Wetland
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","90","90","strong","I think this will have very little impact on overall reptile populations"
+5,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","100","100",NA,NA
+5,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","95","95",NA,NA
+5,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST","90","90","strong","I think this will have very little impact on overall frog populations"
+5,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST","100","100",NA,NA
+5,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","95","95",NA,NA
+5,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST","90","90",NA,NA
+5,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","100","100","strong","I think this will have very little impact on overall salamander populations"
+5,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","95","95",NA,NA
+5,"Coniferous Forest
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+5,"Coniferous Forest
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+5,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","90","90","strong","I think this will have very little impact on overall reptile populations"
+5,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","100","100",NA,NA
+5,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","95","95",NA,NA
+5,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST","90","90","strong","I think this will have very little impact on overall frog populations"
+5,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST","100","100",NA,NA
+5,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","95","95",NA,NA
+5,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST","90","90",NA,NA
+5,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","100","100","strong","I think this will have very little impact on overall salamander populations"
+5,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","95","95",NA,NA
+5,"Mixed Forest
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+5,"Mixed Forest
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+5,"Mixed Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+5,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+6,"Freshwater
+Fish
+Large predators","LOWEST","10","50","low","these fish are more tolerant of warmer water than native trout, but still need quality, and in particular, spawning in flooded, clean veg at times, so that influenced my answers; assumed that new impacts in the overall watershed (eg. development, clear cut logging) do not add new problems with hydrology and sedimentation/ nutrient accumulation or flow that alters the channel."
+6,"Freshwater
+Fish
+Large predators","HIGHEST","50","100",NA,NA
+6,"Freshwater
+Fish
+Large predators","BEST GUESS","25","75",NA,NA
+6,"Freshwater
+Fish
+Small-medium predators","LOWEST","20","50","low","similar to pike comment, more tolerant than trout and can live in lower quality water (re nutrients & oxygen)"
+6,"Freshwater
+Fish
+Small-medium predators","HIGHEST","75","100",NA,NA
+6,"Freshwater
+Fish
+Small-medium predators","BEST GUESS","50","75",NA,NA
+6,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+6,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+6,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+6,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+6,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST","50","75","low-moderate","assumes that compacted soils, bare soils and drying out of space as well as physically driving over them and altering predation /cover will change enough to be a benefit with the restoration but even without the project, they will persist some spots and recolonize from adjacent forest/ wetlands so some will persist; the stream itself isn't their primary habitat but the terrestrial areas and wetlands will be."
+6,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST","75","95",NA,NA
+6,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS","60","85",NA,NA
+6,"Freshwater
+Birds
+Carnivore","LOWEST","25","75","moderate","Given that they are mobile and move up and down stream, this increases their ability to adjust to habitat changes even if the site doesn't improve as much as it could, but they will rely upon fish still being present--if the site continues to decline, the fish presence will be reduced and influence ability to use the area."
+6,"Freshwater
+Birds
+Carnivore","HIGHEST","85","100",NA,NA
+6,"Freshwater
+Birds
+Carnivore","BEST GUESS","75","85",NA,NA
+6,"Freshwater
+Birds
+Omnivore","LOWEST","65","75","moderate","improvements in vegetation and reduction in compacted bare soils and improved understory and wetland plant layers will be helpful; they are mobile enough they will also continue to  use /move in/out of the stream area regardless if it is restored, likely"
+6,"Freshwater
+Birds
+Omnivore","HIGHEST","80","100",NA,NA
+6,"Freshwater
+Birds
+Omnivore","BEST GUESS","65","95",NA,NA
+6,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"X",NA
+6,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+6,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+6,"Freshwater
+Birds
+Herbivore/granivore","LOWEST","65","75","moderate","improvements in vegetation and reduction in compacted bare soils and improved understory and wetland plant layers will be helpful; they are mobile enough they will also continue to  use /move in/out of the stream area regardless if it is restored, likely. They like open often compacted areas with low veg (grass, annuals) so might actually decline in use if the adjacent land is more dense veg and they are fairly tolerant of human activities so likely removing OHV noise/use will have less impact on these spp than other waterfowl"
+6,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST","100","95",NA,NA
+6,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS","65","85",NA,NA
+6,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+6,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+6,"Freshwater
+Mammals
+Herbivore","LOWEST","65","85","moderate","removal of human activity will benefit them as well as regrowth of the riparian and littoral veg with restoration success, however given their size and mobility, they will likely be present in the area regardless, just less abundant or spend less time, if the site is more degraded"
+6,"Freshwater
+Mammals
+Herbivore","HIGHEST","100","100",NA,NA
+6,"Freshwater
+Mammals
+Herbivore","BEST GUESS","85","95",NA,NA
+6,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X","I think that water chemistry and other characteristics are much more relevant than OHV activity/restoration"
+6,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+6,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+6,"Freshwater
+Vascular plants
+Woody","LOWEST","65","75","moderate","will expand (may actually be planted) with restoration--seeded, staked, or just remove compaction and active mechanical damage from OHV trails"
+6,"Freshwater
+Vascular plants
+Woody","HIGHEST","100","100",NA,NA
+6,"Freshwater
+Vascular plants
+Woody","BEST GUESS","85","100",NA,NA
+6,"Wetland
+Fish
+Large predators","LOWEST",NA,NA,"X",NA
+6,"Wetland
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+6,"Wetland
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+6,"Wetland
+Fish
+Small-medium predators","LOWEST",NA,NA,"X",NA
+6,"Wetland
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+6,"Wetland
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+6,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X",NA
+6,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+6,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+6,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST","50","85","moderate","Require the wetland for eggs & tadpoles IF this is the right kind of wetland; since very little of project is wetland (NOT counting riparian), then I've assumed it is the 'right' kind of wetland that a wood frog uses (right permanency, normally fishless, etc).  That said, since very little of the project is affecting the wetland, they can /would likely persist because of the overall landscape suitability to come in from nearby areas regardless of the project"
+6,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST","100","100",NA,NA
+6,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS","75","100",NA,NA
+6,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST","50","70","low-moderate","assumes that compacted soils, bare soils and drying out of space as well as physically driving over them and altering predation /cover will change enough to be a benefit with the restoration but even without the project, they will persist some spots and recolonize from adjacent forest/ wetlands so some will persist; the stream itself isn't their primary habitat but the terrestrial areas and wetlands will be and (luckily) since the OHV traffic and trail are generally NOT in the wetland basin, it is more about the riparian & terrestrial impaacts."
+6,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST","80","100",NA,NA
+6,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS","65","85",NA,NA
+6,"Wetland
+Birds
+Carnivore","LOWEST","50","75","moderate","depends on impacts to small fish/amphibians how impacted they will be; they can fly in from / move to various spots and have very specific/few rookeries, so I mostly considered their foraging for this rating"
+6,"Wetland
+Birds
+Carnivore","HIGHEST","100","100",NA,NA
+6,"Wetland
+Birds
+Carnivore","BEST GUESS","75","85",NA,NA
+6,"Wetland
+Birds
+Omnivore","LOWEST",NA,NA,"X",NA
+6,"Wetland
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+6,"Wetland
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+6,"Wetland
+Birds
+Insectivore/invertivore","LOWEST","50","70","low-moderate","improvements in vegetation and reduction in compacted bare soils and improved understory and wetland plant layers will be helpful as will reducing human noise/disturbance from human activities since they prefer some solitude"
+6,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST","80","100",NA,NA
+6,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS","65","85",NA,NA
+6,"Wetland
+Birds
+Herbivore/granivore","LOWEST","65","75","low-moderate","improvements in vegetation and reduction in compacted bare soils and improved understory and wetland plant layers will be helpful; these species are somewhat more tolerant to human activity so have left % higher WITHOUT action happening than some other birds."
+6,"Wetland
+Birds
+Herbivore/granivore","HIGHEST","80","100",NA,NA
+6,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS","65","95",NA,NA
+6,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+6,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+6,"Wetland
+Mammals
+Herbivore","LOWEST","65","85",NA,"Given some mobility, their persistence is mostly about woody and non-woody plants, which I assumed were somewhat but not severly reduced in the WITHOUT action"
+6,"Wetland
+Mammals
+Herbivore","HIGHEST","100","100",NA,NA
+6,"Wetland
+Mammals
+Herbivore","BEST GUESS","75","100",NA,NA
+6,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+6,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+6,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+6,"Wetland
+Vascular plants
+Woody","LOWEST",NA,NA,"F","see freshwater rating"
+6,"Wetland
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+6,"Wetland
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+6,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+6,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+6,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST","25","85","moderate","Since this isn't their preferred habitat, have adjusted % downward as they will not do as well if it is unhealthy;  they can /would likely persist because of the overall landscape suitability to come in from nearby areas regardless of the project"
+6,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST","75","100",NA,NA
+6,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","65","100",NA,NA
+6,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST","50","75","low-moderate","assumes that compacted soils, bare soils and drying out of space as well as physically driving over them and altering predation /cover will change enough to be a benefit with the restoration but even without the project, they will persist some spots and recolonize from adjacent forest/ wetlands so some will persist; the stream itself isn't their primary habitat but the terrestrial areas and wetlands will be."
+6,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","75","95",NA,NA
+6,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","60","85",NA,NA
+6,"Coniferous Forest
+Birds
+Carnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Coniferous Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+6,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+6,"Coniferous Forest
+Birds
+Omnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Coniferous Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+6,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+6,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+6,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+6,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+6,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+6,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+6,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+6,"Coniferous Forest
+Mammals
+Herbivore","LOWEST","85","100","moderate","given the adequate amount of forest, the project likely will have limited impact on these species as they can move around the restoration or non-restored area, either way"
+6,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST","100","100",NA,NA
+6,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS","100","100",NA,NA
+6,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST","65","100","moderate","except for where this plant is destroyed/killed by the OHV use or prevented from growing in highly compacted soils, it is able to persist fairly well at least in part of the project area"
+6,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST","95","100",NA,NA
+6,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS","75","100",NA,NA
+6,"Coniferous Forest
+Vascular plants
+Woody","LOWEST","65","100","moderate","except for where this plant is destroyed/killed by the OHV use or prevented from growing in highly compacted soils, it is able to persist fairly well at least in part of the project area--some of these species will be more tolerant (spruce, poplars) than others (eg. birch)"
+6,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST","100","100",NA,NA
+6,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS","75","100",NA,NA
+6,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+6,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+6,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST","50","85","moderate","Given that they spend a lot of time in upland forest, they can /would likely persist because of the overall landscape suitability to come in from nearby areas regardless of the project"
+6,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST","100","100",NA,NA
+6,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","75","100",NA,NA
+6,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST","50","75","low-moderate","assumes that compacted soils, bare soils and drying out of space as well as physically driving over them and altering predation /cover will change enough to be a benefit with the restoration but even without the project, they will persist some spots and recolonize from adjacent forest/ wetlands so some will persist; the stream itself isn't their primary habitat but the terrestrial areas and wetlands will be."
+6,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","75","95",NA,NA
+6,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","60","85",NA,NA
+6,"Mixed Forest
+Birds
+Carnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Mixed Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+6,"Mixed Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+6,"Mixed Forest
+Birds
+Omnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Mixed Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+6,"Mixed Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+6,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+6,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+6,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+6,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+6,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"X","do not know enough about their ecology to do any ratings"
+6,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+6,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+6,"Mixed Forest
+Mammals
+Herbivore","LOWEST","85","100","C",NA
+6,"Mixed Forest
+Mammals
+Herbivore","HIGHEST","100","100",NA,NA
+6,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS","100","100",NA,NA
+6,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST","65","100","C",NA
+6,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST","95","100",NA,NA
+6,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS","75","100",NA,NA
+6,"Mixed Forest
+Vascular plants
+Woody","LOWEST","65","100","C",NA
+6,"Mixed Forest
+Vascular plants
+Woody","HIGHEST","100","100",NA,NA
+6,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS","75","100",NA,NA
+7,"Freshwater
+Fish
+Large predators","LOWEST",NA,NA,"3",NA
+7,"Freshwater
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+7,"Freshwater
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+7,"Freshwater
+Fish
+Small-medium predators","LOWEST",NA,NA,"3",NA
+7,"Freshwater
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+7,"Freshwater
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+7,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST","70","80","5","Project implementation will likely lincrease the persistence of this functional group in the study area due to lowered disturbance."
+7,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","90","100",NA,NA
+7,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","80","100",NA,NA
+7,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST","70","80","5","Project implementation will likely lincrease the persistence of this functional group in the study area due to reduced disturbance and sedimentation."
+7,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST","90","100",NA,NA
+7,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS","80","100",NA,NA
+7,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST","70","80","5","A reduction in OHV disturbance, particularly reduced sedimentation, will likely increase the persistence of these species in the study area."
+7,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST","90","100",NA,NA
+7,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS","80","100",NA,NA
+7,"Freshwater
+Birds
+Carnivore","LOWEST","50","80","7","Noise and creek disturbance (i.e. sedimentation) from OHVs lowers the persistence of these species in the project area therefore project implementation would increase the persistence of this functional group."
+7,"Freshwater
+Birds
+Carnivore","HIGHEST","75","100",NA,NA
+7,"Freshwater
+Birds
+Carnivore","BEST GUESS","60","100",NA,NA
+7,"Freshwater
+Birds
+Omnivore","LOWEST","40","60","7","This functional group is sensitive to constant disturbance caused by OHV vehicles and vegetation disturbance but likely occur in low abundance in the study area because they occur mostly in slow moving water or wetlands. These species will benefit from educed disturbance with the implementation of the project will likely increase the probablity of persistence of this functional group"
+7,"Freshwater
+Birds
+Omnivore","HIGHEST","60","80",NA,NA
+7,"Freshwater
+Birds
+Omnivore","BEST GUESS","50","70",NA,NA
+7,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST","40","80","7","Project implementation  will likely benefit this functional group particularly reduction in OHV disturbance but they can likely persist regardless of project implementation. Note that it's not clear what species are being included in this functional group compared to the wetland functional group."
+7,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST","70","100",NA,NA
+7,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS","60","90",NA,NA
+7,"Freshwater
+Birds
+Herbivore/granivore","LOWEST","10","10","7","Low likelihood that herbivorous/granivorous species will use Mackenzie Creek to a great extent in the counterfactual situation and with the action since most of these species utilize slow moving or lentic systems for breeding and during migration."
+7,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST","30","30",NA,NA
+7,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS","20","20",NA,NA
+7,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST","60","80","7","These species may be sensitive to over-use of the OHV trail due to disturbance and reduced food availability. Project implementation will likely increase the probability of persistence of these species."
+7,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST","100","100",NA,NA
+7,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS","90","100",NA,NA
+7,"Freshwater
+Mammals
+Herbivore","LOWEST","60","80","7","OHV use likely increases disturbance to these species reducing their use of the creek and associated riparian vegetation. Site reclamation and reduced disturbance will minimize disturbance and increase the potential food availability (riparian vegetation) for these species."
+7,"Freshwater
+Mammals
+Herbivore","HIGHEST","90","100",NA,NA
+7,"Freshwater
+Mammals
+Herbivore","BEST GUESS","80","100",NA,NA
+7,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"3",NA
+7,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+7,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+7,"Freshwater
+Vascular plants
+Woody","LOWEST","70","90","3","OHV use likely increases disturbance to these species reducing their abundance in the creek but not eliminating it . Site reclamation and reduced disturbance from OHVs will minimize disturbance and increase occupancy of these species."
+7,"Freshwater
+Vascular plants
+Woody","HIGHEST","100","100",NA,NA
+7,"Freshwater
+Vascular plants
+Woody","BEST GUESS","90","100",NA,NA
+7,"Wetland
+Fish
+Large predators","LOWEST",NA,NA,"3",NA
+7,"Wetland
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+7,"Wetland
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+7,"Wetland
+Fish
+Small-medium predators","LOWEST",NA,NA,"5",NA
+7,"Wetland
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+7,"Wetland
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+7,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST","60","80","5","A reduction in OHV disturbance will likely increase persistence of these species in the study area."
+7,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","90","100",NA,NA
+7,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","80","100",NA,NA
+7,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST","60","80","5","A reduction in OHV disturbance, particularly reduced sedimentation and traffic, will likely increase the persistence of these species."
+7,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST","90","100",NA,NA
+7,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS","80","100",NA,NA
+7,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST","60","80","5","A reduction in OHV disturbance, particularly reduced sedimentation and traffic, will likely increase the persistence of these species."
+7,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST","90","100",NA,NA
+7,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS","80","100",NA,NA
+7,"Wetland
+Birds
+Carnivore","LOWEST","60","70","7","These species may be sensitive to use of the OHV trail in the project area due to disturbance and reduced food availability. Project implementation will likely increase the probability of persistence of these species. These species likely occur in low abundance in the study area."
+7,"Wetland
+Birds
+Carnivore","HIGHEST","80","100",NA,NA
+7,"Wetland
+Birds
+Carnivore","BEST GUESS","70","90",NA,NA
+7,"Wetland
+Birds
+Omnivore","LOWEST","60","90","7","Species are sensitive to noise and vegetation disturbance caused by OHV vehicles but likely occur in low abundance in the study area because they occur mostly in slow moving water or wetlands. These species will benefit from educed disturbance with the implementation of the project will likely increase the probablity of persistence of this functional group"
+7,"Wetland
+Birds
+Omnivore","HIGHEST","90","100",NA,NA
+7,"Wetland
+Birds
+Omnivore","BEST GUESS","75","100",NA,NA
+7,"Wetland
+Birds
+Insectivore/invertivore","LOWEST","70","90","7","Species are sensitive to constant disturbance caused by OHV vehicles and vegetation disturbance. These species will benefit from educed disturbance with the implementation of the project will likely increase the probablity of persistence of this functional group"
+7,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST","100","100",NA,NA
+7,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS","80","100",NA,NA
+7,"Wetland
+Birds
+Herbivore/granivore","LOWEST","40","60","7","A reduction in OHV traffic and noise disturbance with project implementation will increase the persistence of these species in the study area. Note that very few bird species are true/obligate granivores during the breeding season including the species provided as examples."
+7,"Wetland
+Birds
+Herbivore/granivore","HIGHEST","60","80",NA,NA
+7,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS","50","70",NA,NA
+7,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST","60","80","7","These species may be sensitive to over-use of the OHV trail due to disturbance and reduced food availability but will likely persist in the counterfactual scenario. Project implementation will likely increase the probability of persistence of these species."
+7,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST","100","100",NA,NA
+7,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS","90","100",NA,NA
+7,"Wetland
+Mammals
+Herbivore","LOWEST","80","90","7","Diverse functional group that likely persists with disturbance; however, reduction in OHV traffic in the study area will likely result in a high probability of persistence."
+7,"Wetland
+Mammals
+Herbivore","HIGHEST","100","100",NA,NA
+7,"Wetland
+Mammals
+Herbivore","BEST GUESS","90","100",NA,NA
+7,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"3",NA
+7,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+7,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+7,"Wetland
+Vascular plants
+Woody","LOWEST","70","90","3","OHV use likely increases disturbance to these species reducing their abundance in the creek but not eliminating it . Site reclamation and reduced disturbance from OHVs will minimize disturbance and increase occupancy of these species."
+7,"Wetland
+Vascular plants
+Woody","HIGHEST","100","100",NA,NA
+7,"Wetland
+Vascular plants
+Woody","BEST GUESS","95","100",NA,NA
+7,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","60","70","5","Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","80","100",NA,NA
+7,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","70","100",NA,NA
+7,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST","70","80","5","Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST","90","100",NA,NA
+7,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","85","100",NA,NA
+7,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST","40","60","5","Not many reptiles, amphibians and salamanders occur in coniferous forests but they may disperse through this forest type. However, project implementation will likley have a positive effect on this species including in coniferous forest.."
+7,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","90","100",NA,NA
+7,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","60","70",NA,NA
+7,"Coniferous Forest
+Birds
+Carnivore","LOWEST","80","90","7","Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Coniferous Forest
+Birds
+Carnivore","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS","90","100",NA,NA
+7,"Coniferous Forest
+Birds
+Omnivore","LOWEST","80","90","7","Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Coniferous Forest
+Birds
+Omnivore","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS","90","100",NA,NA
+7,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST","80","90","7","Bird occupancy can be reduced with noise disturbance therefore implementation of the project would increase the probability of persistence of this functional group in the study area."
+7,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS","90","100",NA,NA
+7,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST","80","90","7","Reduced disturbance with the implementation of the project will likely increase the probablity of persistence of this functional group"
+7,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS","90","100",NA,NA
+7,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST","80","90","7","Reduced disturbance with the implementation of the project will likely increase the probablity of persistence of this functional group"
+7,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS","90","100",NA,NA
+7,"Coniferous Forest
+Mammals
+Herbivore","LOWEST","100","100","7","These species are generally resilient to disturbance and will likely persist in the study area with the counterfactual scenario with little increase in persistence with project implementation."
+7,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS","100","100",NA,NA
+7,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST","90","100","5","Disturbance to these species is likely limited to trails in the study area therefore likely have a high likelihood of persistence in the couterfactual but will likely benefit from project implementation."
+7,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS","90","100",NA,NA
+7,"Coniferous Forest
+Vascular plants
+Woody","LOWEST","80","90","5","Reduced disturbance with the implementation of the project will likely increase the probablity of persistence of the"
+7,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST","100","100",NA,NA
+7,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS","95","100",NA,NA
+7,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","80","80","5","Low occurrence of mixed forest in the study area. Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","90","100",NA,NA
+7,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST","80","90","5","Low occurrence of mixed forest in the study area. Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","90","100",NA,NA
+7,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST","60","90","5","Low occurrence of mixed forest in the study area. Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","90","100",NA,NA
+7,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","80","100",NA,NA
+7,"Mixed Forest
+Birds
+Carnivore","LOWEST","80","90","7","Low occurrence of mixed forest in the study area. Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Mixed Forest
+Birds
+Carnivore","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Birds
+Carnivore","BEST GUESS","90","100",NA,NA
+7,"Mixed Forest
+Birds
+Omnivore","LOWEST","80","95","7","Low occurrence of mixed forest in the study area. Reduced disturbance with project implmementation will likely have some positive effect on the persistence of this functional group in the study area."
+7,"Mixed Forest
+Birds
+Omnivore","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Birds
+Omnivore","BEST GUESS","99","100",NA,NA
+7,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST","70","85","7","Bird occupancy can be reduced with noise disturbance therefore implementation of the project would increase the probability of persistence of this functional group in the study area."
+7,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS","90","100",NA,NA
+7,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST","80","90","7","Reduced disturbance with the implementation of the project will likely increase the probablity of persistence of this functional group"
+7,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS","90","100",NA,NA
+7,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST","80","90","7","These species will benefit from educed disturbance with the implementation of the project will likely increase the probablity of persistence of this functional group"
+7,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS","90","100",NA,NA
+7,"Mixed Forest
+Mammals
+Herbivore","LOWEST","100","100","7","These species are generally resilient to disturbance and will likely persist in the study area with the counterfactual scenario with little increase in persistence with project implementation."
+7,"Mixed Forest
+Mammals
+Herbivore","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS","100","100",NA,NA
+7,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST","90","100","3","Disturbance to these species is likely limited to trails in the study area therefore likely have a high likelihood of persistence in the couterfactual but will likely benefit from project implementation."
+7,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS","90","100",NA,NA
+7,"Mixed Forest
+Vascular plants
+Woody","LOWEST","90","90","5","Disturbance to these species is likely limited to trails in the study area therefore likely have a high likelihood of persistence in the couterfactual."
+7,"Mixed Forest
+Vascular plants
+Woody","HIGHEST","100","100",NA,NA
+7,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS","100","100",NA,NA
+8,"Freshwater
+Fish
+Large predators","LOWEST","15","50","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning and rearing habitat for most fish regardless of trophic level."
+8,"Freshwater
+Fish
+Large predators","HIGHEST","50","85",NA,NA
+8,"Freshwater
+Fish
+Large predators","BEST GUESS","25","75",NA,NA
+8,"Freshwater
+Fish
+Small-medium predators","LOWEST","15","50","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning and rearing habitat for most fish regardless of trophic level."
+8,"Freshwater
+Fish
+Small-medium predators","HIGHEST","50","85",NA,NA
+8,"Freshwater
+Fish
+Small-medium predators","BEST GUESS","25","75",NA,NA
+8,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST","15","25","3","I expect noise from offroad vehicles would be a disturbance for snakes, and a risk of mortality from snakes being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","50","75",NA,NA
+8,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","25","50",NA,NA
+8,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST","15","25","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning habitat for amphibians, and a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST","50","75",NA,NA
+8,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS","25","50",NA,NA
+8,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST","15","25","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning habitat for amphibians, and a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST","50","75",NA,NA
+8,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS","25","50",NA,NA
+8,"Freshwater
+Birds
+Carnivore","LOWEST","15","50","5","Mergansers and other aquatic carnivores might benefit from larger fish populations if water conditions are improved, along with elimination of offroad vehicle noise."
+8,"Freshwater
+Birds
+Carnivore","HIGHEST","50","85",NA,NA
+8,"Freshwater
+Birds
+Carnivore","BEST GUESS","25","75",NA,NA
+8,"Freshwater
+Birds
+Omnivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Freshwater
+Birds
+Omnivore","HIGHEST","50","75",NA,NA
+8,"Freshwater
+Birds
+Omnivore","BEST GUESS","25","50",NA,NA
+8,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST","15","50","5","Dippers might benefit from improved invertebrate populations or fish eggs if water is clearer from less siltation, when offroad vehicle activity is relocated away from the creek."
+8,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST","50","85",NA,NA
+8,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS","25","75",NA,NA
+8,"Freshwater
+Birds
+Herbivore/granivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST","50","75",NA,NA
+8,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS","25","50",NA,NA
+8,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST","15","50","3","I expect that carnivores and omnivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST","50","85",NA,NA
+8,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS","25","75",NA,NA
+8,"Freshwater
+Mammals
+Herbivore","LOWEST","15","50","3","I expect that herbivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Freshwater
+Mammals
+Herbivore","HIGHEST","50","85",NA,NA
+8,"Freshwater
+Mammals
+Herbivore","BEST GUESS","25","75",NA,NA
+8,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+8,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+8,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+8,"Freshwater
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+8,"Freshwater
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+8,"Freshwater
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+8,"Wetland
+Fish
+Large predators","LOWEST","15","50","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning and rearing habitat for most fish regardless of trophic level."
+8,"Wetland
+Fish
+Large predators","HIGHEST","50","85",NA,NA
+8,"Wetland
+Fish
+Large predators","BEST GUESS","25","75",NA,NA
+8,"Wetland
+Fish
+Small-medium predators","LOWEST","15","50","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning and rearing habitat for most fish regardless of trophic level."
+8,"Wetland
+Fish
+Small-medium predators","HIGHEST","50","85",NA,NA
+8,"Wetland
+Fish
+Small-medium predators","BEST GUESS","25","75",NA,NA
+8,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST","15","25","3","I expect noise from offroad vehicles would be a disturbance for snakes, and a risk of mortality from snakes being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","50","75",NA,NA
+8,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","25","50",NA,NA
+8,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST","15","25","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning habitat for amphibians, and a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST","50","75",NA,NA
+8,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS","25","50",NA,NA
+8,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST","15","25","3","I expect siltation from runoff associated with offroad vehicle trails to degrade spawning habitat for amphibians, and a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST","50","75",NA,NA
+8,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS","25","50",NA,NA
+8,"Wetland
+Birds
+Carnivore","LOWEST","15","50","5","Herons and other aquatic carnivores might benefit from larger fish populations if water conditions are improved, along with elimination of offroad vehicle noise."
+8,"Wetland
+Birds
+Carnivore","HIGHEST","50","85",NA,NA
+8,"Wetland
+Birds
+Carnivore","BEST GUESS","25","75",NA,NA
+8,"Wetland
+Birds
+Omnivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Wetland
+Birds
+Omnivore","HIGHEST","50","75",NA,NA
+8,"Wetland
+Birds
+Omnivore","BEST GUESS","25","50",NA,NA
+8,"Wetland
+Birds
+Insectivore/invertivore","LOWEST","15","50","5","Invertivores and insectivores might benefit from improved invertebrate populations or fish eggs if water is clearer from less siltation, when offroad vehicle activity is relocated away from the creek."
+8,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST","50","85",NA,NA
+8,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS","25","75",NA,NA
+8,"Wetland
+Birds
+Herbivore/granivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Wetland
+Birds
+Herbivore/granivore","HIGHEST","50","75",NA,NA
+8,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS","25","50",NA,NA
+8,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST","15","50","3","I expect that carnivores and omnivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST","50","85",NA,NA
+8,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS","25","75",NA,NA
+8,"Wetland
+Mammals
+Herbivore","LOWEST","15","50","3","I expect that herbivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Wetland
+Mammals
+Herbivore","HIGHEST","50","85",NA,NA
+8,"Wetland
+Mammals
+Herbivore","BEST GUESS","25","75",NA,NA
+8,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+8,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+8,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+8,"Wetland
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+8,"Wetland
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+8,"Wetland
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+8,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","15","25","3","I expect noise from offroad vehicles would be a disturbance for snakes, and a risk of mortality from snakes being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","50","75",NA,NA
+8,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","25","50",NA,NA
+8,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST","15","25","3","I expect a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST","50","75",NA,NA
+8,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","25","50",NA,NA
+8,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST","15","25","3",NA
+8,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","50","75",NA,"I expect  a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","25","50",NA,NA
+8,"Coniferous Forest
+Birds
+Carnivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Coniferous Forest
+Birds
+Carnivore","HIGHEST","50","75",NA,NA
+8,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS","25","50",NA,NA
+8,"Coniferous Forest
+Birds
+Omnivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Coniferous Forest
+Birds
+Omnivore","HIGHEST","50","75",NA,NA
+8,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS","25","50",NA,NA
+8,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST","50","75",NA,NA
+8,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS","25","50",NA,NA
+8,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST","50","75",NA,NA
+8,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS","25","50",NA,NA
+8,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST","15","50","3","I expect that carnivores and omnivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST","50","85",NA,NA
+8,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS","25","75",NA,NA
+8,"Coniferous Forest
+Mammals
+Herbivore","LOWEST","15","50","3","I expect that herbivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST","50","85",NA,NA
+8,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS","25","75",NA,NA
+8,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+8,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+8,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+8,"Coniferous Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+8,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+8,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+8,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST","15","25","3","I expect noise from offroad vehicles would be a disturbance for snakes, and a risk of mortality from snakes being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST","50","75",NA,NA
+8,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS","25","50",NA,NA
+8,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST","15","25","3","I expect a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST","50","75",NA,NA
+8,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS","25","50",NA,NA
+8,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST","15","25","3",NA
+8,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST","50","75",NA,"I expect a risk of mortality from amphibians being run over by vehicles, but I don't know if significant numbers would be run over by vehicles."
+8,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS","25","50",NA,NA
+8,"Mixed Forest
+Birds
+Carnivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Mixed Forest
+Birds
+Carnivore","HIGHEST","50","75",NA,NA
+8,"Mixed Forest
+Birds
+Carnivore","BEST GUESS","25","50",NA,NA
+8,"Mixed Forest
+Birds
+Omnivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Mixed Forest
+Birds
+Omnivore","HIGHEST","50","75",NA,NA
+8,"Mixed Forest
+Birds
+Omnivore","BEST GUESS","25","50",NA,NA
+8,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST","50","75",NA,NA
+8,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS","25","50",NA,NA
+8,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST","15","25","5","I'm not sure if relocating offroad vehicle trails will improve food resources but reduction in noise will probably be beneficial."
+8,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST","50","75",NA,NA
+8,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS","25","50",NA,NA
+8,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST","15","50","3","I expect that carnivores and omnivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST","50","85",NA,NA
+8,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS","25","75",NA,NA
+8,"Mixed Forest
+Mammals
+Herbivore","LOWEST","15","50","3","I expect that herbivores will be disturbed less after offroad vehicle activity has been relocated."
+8,"Mixed Forest
+Mammals
+Herbivore","HIGHEST","50","85",NA,NA
+8,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS","25","75",NA,NA
+8,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"X",NA
+8,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+8,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+8,"Mixed Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"X",NA
+8,"Mixed Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+8,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Fish
+Large predators","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Fish
+Small-medium predators","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+9,"Freshwater
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+9,"Freshwater
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+9,"Freshwater
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Fish
+Large predators","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Fish
+Small-medium predators","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+9,"Wetland
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+9,"Wetland
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+9,"Wetland
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+9,"Coniferous Forest
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+9,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Carnivore","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Omnivore","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Mammals
+Herbivore","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+9,"Mixed Forest
+Vascular plants
+Woody","LOWEST",NA,NA,NA,NA
+9,"Mixed Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+9,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Fish
+Large predators","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Fish
+Small-medium predators","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Carnivore","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Omnivore","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Mammals
+Herbivore","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+10,"Freshwater
+Vascular plants
+Woody","LOWEST",NA,NA,"5",NA
+10,"Freshwater
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+10,"Freshwater
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Fish
+Large predators","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Fish
+Large predators","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Fish
+Large predators","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Fish
+Small-medium predators","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Fish
+Small-medium predators","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Fish
+Small-medium predators","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Birds
+Carnivore","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Birds
+Omnivore","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Mammals
+Herbivore","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+10,"Wetland
+Vascular plants
+Woody","LOWEST",NA,NA,"5",NA
+10,"Wetland
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+10,"Wetland
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Carnivore","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Omnivore","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Mammals
+Herbivore","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+10,"Coniferous Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"5",NA
+10,"Coniferous Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+10,"Coniferous Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Carnivore","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Birds
+Carnivore","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Carnivore","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Omnivore","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Birds
+Omnivore","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Mammals
+Herbivore","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Mammals
+Herbivore","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Mammals
+Herbivore","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Vascular plants
+Herbaceous","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS",NA,NA,NA,NA
+10,"Mixed Forest
+Vascular plants
+Woody","LOWEST",NA,NA,"5",NA
+10,"Mixed Forest
+Vascular plants
+Woody","HIGHEST",NA,NA,NA,NA
+10,"Mixed Forest
+Vascular plants
+Woody","BEST GUESS",NA,NA,NA,NA

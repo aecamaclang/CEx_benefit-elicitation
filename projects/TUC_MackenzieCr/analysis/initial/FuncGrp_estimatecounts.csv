@@ -1,0 +1,433 @@
+"","Biodiversity","Estimate","Counterfactual","Action"
+"1","Freshwater
+Fish
+Large predators","LOWEST",6,6
+"2","Freshwater
+Fish
+Large predators","HIGHEST",6,6
+"3","Freshwater
+Fish
+Large predators","BEST GUESS",6,6
+"4","Freshwater
+Fish
+Small-medium predators","LOWEST",5,5
+"5","Freshwater
+Fish
+Small-medium predators","HIGHEST",5,5
+"6","Freshwater
+Fish
+Small-medium predators","BEST GUESS",5,5
+"7","Freshwater
+Reptiles and amphibians
+Snakes and lizards","LOWEST",4,4
+"8","Freshwater
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",4,4
+"9","Freshwater
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",4,4
+"10","Freshwater
+Reptiles and amphibians
+Frogs","LOWEST",4,4
+"11","Freshwater
+Reptiles and amphibians
+Frogs","HIGHEST",4,4
+"12","Freshwater
+Reptiles and amphibians
+Frogs","BEST GUESS",4,4
+"13","Freshwater
+Reptiles and amphibians
+Salamanders","LOWEST",5,5
+"14","Freshwater
+Reptiles and amphibians
+Salamanders","HIGHEST",5,5
+"15","Freshwater
+Reptiles and amphibians
+Salamanders","BEST GUESS",5,5
+"16","Freshwater
+Birds
+Carnivore","LOWEST",4,4
+"17","Freshwater
+Birds
+Carnivore","HIGHEST",4,4
+"18","Freshwater
+Birds
+Carnivore","BEST GUESS",4,4
+"19","Freshwater
+Birds
+Omnivore","LOWEST",4,4
+"20","Freshwater
+Birds
+Omnivore","HIGHEST",4,4
+"21","Freshwater
+Birds
+Omnivore","BEST GUESS",4,4
+"22","Freshwater
+Birds
+Insectivore/invertivore","LOWEST",3,3
+"23","Freshwater
+Birds
+Insectivore/invertivore","HIGHEST",3,3
+"24","Freshwater
+Birds
+Insectivore/invertivore","BEST GUESS",3,3
+"25","Freshwater
+Birds
+Herbivore/granivore","LOWEST",4,4
+"26","Freshwater
+Birds
+Herbivore/granivore","HIGHEST",4,4
+"27","Freshwater
+Birds
+Herbivore/granivore","BEST GUESS",4,4
+"28","Freshwater
+Mammals
+Carnivore, omnivore","LOWEST",3,3
+"29","Freshwater
+Mammals
+Carnivore, omnivore","HIGHEST",3,3
+"30","Freshwater
+Mammals
+Carnivore, omnivore","BEST GUESS",3,3
+"31","Freshwater
+Mammals
+Herbivore","LOWEST",4,4
+"32","Freshwater
+Mammals
+Herbivore","HIGHEST",4,4
+"33","Freshwater
+Mammals
+Herbivore","BEST GUESS",4,4
+"34","Freshwater
+Vascular plants
+Herbaceous","LOWEST",2,2
+"35","Freshwater
+Vascular plants
+Herbaceous","HIGHEST",2,2
+"36","Freshwater
+Vascular plants
+Herbaceous","BEST GUESS",2,2
+"37","Freshwater
+Vascular plants
+Woody","LOWEST",4,4
+"38","Freshwater
+Vascular plants
+Woody","HIGHEST",4,4
+"39","Freshwater
+Vascular plants
+Woody","BEST GUESS",4,4
+"40","Wetland
+Fish
+Large predators","LOWEST",3,3
+"41","Wetland
+Fish
+Large predators","HIGHEST",3,3
+"42","Wetland
+Fish
+Large predators","BEST GUESS",3,3
+"43","Wetland
+Fish
+Small-medium predators","LOWEST",3,3
+"44","Wetland
+Fish
+Small-medium predators","HIGHEST",3,3
+"45","Wetland
+Fish
+Small-medium predators","BEST GUESS",3,3
+"46","Wetland
+Reptiles and amphibians
+Snakes and lizards","LOWEST",4,4
+"47","Wetland
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",4,4
+"48","Wetland
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",4,4
+"49","Wetland
+Reptiles and amphibians
+Frogs","LOWEST",5,5
+"50","Wetland
+Reptiles and amphibians
+Frogs","HIGHEST",5,5
+"51","Wetland
+Reptiles and amphibians
+Frogs","BEST GUESS",5,5
+"52","Wetland
+Reptiles and amphibians
+Salamanders","LOWEST",5,5
+"53","Wetland
+Reptiles and amphibians
+Salamanders","HIGHEST",5,5
+"54","Wetland
+Reptiles and amphibians
+Salamanders","BEST GUESS",5,5
+"55","Wetland
+Birds
+Carnivore","LOWEST",4,4
+"56","Wetland
+Birds
+Carnivore","HIGHEST",4,4
+"57","Wetland
+Birds
+Carnivore","BEST GUESS",4,4
+"58","Wetland
+Birds
+Omnivore","LOWEST",3,3
+"59","Wetland
+Birds
+Omnivore","HIGHEST",3,3
+"60","Wetland
+Birds
+Omnivore","BEST GUESS",3,3
+"61","Wetland
+Birds
+Insectivore/invertivore","LOWEST",4,4
+"62","Wetland
+Birds
+Insectivore/invertivore","HIGHEST",4,4
+"63","Wetland
+Birds
+Insectivore/invertivore","BEST GUESS",4,4
+"64","Wetland
+Birds
+Herbivore/granivore","LOWEST",4,4
+"65","Wetland
+Birds
+Herbivore/granivore","HIGHEST",4,4
+"66","Wetland
+Birds
+Herbivore/granivore","BEST GUESS",4,4
+"67","Wetland
+Mammals
+Carnivore, omnivore","LOWEST",3,3
+"68","Wetland
+Mammals
+Carnivore, omnivore","HIGHEST",3,3
+"69","Wetland
+Mammals
+Carnivore, omnivore","BEST GUESS",3,3
+"70","Wetland
+Mammals
+Herbivore","LOWEST",4,4
+"71","Wetland
+Mammals
+Herbivore","HIGHEST",4,4
+"72","Wetland
+Mammals
+Herbivore","BEST GUESS",4,4
+"73","Wetland
+Vascular plants
+Herbaceous","LOWEST",2,2
+"74","Wetland
+Vascular plants
+Herbaceous","HIGHEST",2,2
+"75","Wetland
+Vascular plants
+Herbaceous","BEST GUESS",2,2
+"76","Wetland
+Vascular plants
+Woody","LOWEST",3,3
+"77","Wetland
+Vascular plants
+Woody","HIGHEST",3,3
+"78","Wetland
+Vascular plants
+Woody","BEST GUESS",3,3
+"79","Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",4,4
+"80","Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",4,4
+"81","Coniferous Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",4,4
+"82","Coniferous Forest
+Reptiles and amphibians
+Frogs","LOWEST",5,5
+"83","Coniferous Forest
+Reptiles and amphibians
+Frogs","HIGHEST",5,5
+"84","Coniferous Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",5,5
+"85","Coniferous Forest
+Reptiles and amphibians
+Salamanders","LOWEST",5,5
+"86","Coniferous Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",5,5
+"87","Coniferous Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",5,5
+"88","Coniferous Forest
+Birds
+Carnivore","LOWEST",3,3
+"89","Coniferous Forest
+Birds
+Carnivore","HIGHEST",3,3
+"90","Coniferous Forest
+Birds
+Carnivore","BEST GUESS",3,3
+"91","Coniferous Forest
+Birds
+Omnivore","LOWEST",3,3
+"92","Coniferous Forest
+Birds
+Omnivore","HIGHEST",3,3
+"93","Coniferous Forest
+Birds
+Omnivore","BEST GUESS",3,3
+"94","Coniferous Forest
+Birds
+Insectivore/invertivore","LOWEST",3,3
+"95","Coniferous Forest
+Birds
+Insectivore/invertivore","HIGHEST",3,3
+"96","Coniferous Forest
+Birds
+Insectivore/invertivore","BEST GUESS",3,3
+"97","Coniferous Forest
+Birds
+Herbivore/granivore","LOWEST",3,3
+"98","Coniferous Forest
+Birds
+Herbivore/granivore","HIGHEST",3,3
+"99","Coniferous Forest
+Birds
+Herbivore/granivore","BEST GUESS",3,3
+"100","Coniferous Forest
+Mammals
+Carnivore, omnivore","LOWEST",3,3
+"101","Coniferous Forest
+Mammals
+Carnivore, omnivore","HIGHEST",3,3
+"102","Coniferous Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",3,3
+"103","Coniferous Forest
+Mammals
+Herbivore","LOWEST",4,4
+"104","Coniferous Forest
+Mammals
+Herbivore","HIGHEST",4,4
+"105","Coniferous Forest
+Mammals
+Herbivore","BEST GUESS",4,4
+"106","Coniferous Forest
+Vascular plants
+Herbaceous","LOWEST",4,4
+"107","Coniferous Forest
+Vascular plants
+Herbaceous","HIGHEST",4,4
+"108","Coniferous Forest
+Vascular plants
+Herbaceous","BEST GUESS",4,4
+"109","Coniferous Forest
+Vascular plants
+Woody","LOWEST",4,4
+"110","Coniferous Forest
+Vascular plants
+Woody","HIGHEST",4,4
+"111","Coniferous Forest
+Vascular plants
+Woody","BEST GUESS",4,4
+"112","Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","LOWEST",4,4
+"113","Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","HIGHEST",4,4
+"114","Mixed Forest
+Reptiles and amphibians
+Snakes and lizards","BEST GUESS",4,4
+"115","Mixed Forest
+Reptiles and amphibians
+Frogs","LOWEST",5,5
+"116","Mixed Forest
+Reptiles and amphibians
+Frogs","HIGHEST",5,5
+"117","Mixed Forest
+Reptiles and amphibians
+Frogs","BEST GUESS",5,5
+"118","Mixed Forest
+Reptiles and amphibians
+Salamanders","LOWEST",5,5
+"119","Mixed Forest
+Reptiles and amphibians
+Salamanders","HIGHEST",5,5
+"120","Mixed Forest
+Reptiles and amphibians
+Salamanders","BEST GUESS",5,5
+"121","Mixed Forest
+Birds
+Carnivore","LOWEST",3,3
+"122","Mixed Forest
+Birds
+Carnivore","HIGHEST",3,3
+"123","Mixed Forest
+Birds
+Carnivore","BEST GUESS",3,3
+"124","Mixed Forest
+Birds
+Omnivore","LOWEST",3,3
+"125","Mixed Forest
+Birds
+Omnivore","HIGHEST",3,3
+"126","Mixed Forest
+Birds
+Omnivore","BEST GUESS",3,3
+"127","Mixed Forest
+Birds
+Insectivore/invertivore","LOWEST",3,3
+"128","Mixed Forest
+Birds
+Insectivore/invertivore","HIGHEST",3,3
+"129","Mixed Forest
+Birds
+Insectivore/invertivore","BEST GUESS",3,3
+"130","Mixed Forest
+Birds
+Herbivore/granivore","LOWEST",3,3
+"131","Mixed Forest
+Birds
+Herbivore/granivore","HIGHEST",3,3
+"132","Mixed Forest
+Birds
+Herbivore/granivore","BEST GUESS",3,3
+"133","Mixed Forest
+Mammals
+Carnivore, omnivore","LOWEST",3,3
+"134","Mixed Forest
+Mammals
+Carnivore, omnivore","HIGHEST",3,3
+"135","Mixed Forest
+Mammals
+Carnivore, omnivore","BEST GUESS",3,3
+"136","Mixed Forest
+Mammals
+Herbivore","LOWEST",4,4
+"137","Mixed Forest
+Mammals
+Herbivore","HIGHEST",4,4
+"138","Mixed Forest
+Mammals
+Herbivore","BEST GUESS",4,4
+"139","Mixed Forest
+Vascular plants
+Herbaceous","LOWEST",4,4
+"140","Mixed Forest
+Vascular plants
+Herbaceous","HIGHEST",4,4
+"141","Mixed Forest
+Vascular plants
+Herbaceous","BEST GUESS",4,4
+"142","Mixed Forest
+Vascular plants
+Woody","LOWEST",4,4
+"143","Mixed Forest
+Vascular plants
+Woody","HIGHEST",4,4
+"144","Mixed Forest
+Vascular plants
+Woody","BEST GUESS",4,4
