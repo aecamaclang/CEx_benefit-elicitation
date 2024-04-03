@@ -35,9 +35,9 @@
 1,"Little Brown Myotis","LOWEST",NA,NA,"1","I have so little expertise on anything other than plants, I feel quite uncomfortable saying. The actions taken would seem to be beneficial for this species."
 1,"Little Brown Myotis","HIGHEST",NA,NA,NA,NA
 1,"Little Brown Myotis","BEST GUESS",NA,NA,NA,NA
-1,"Wolverine - Western population","LOWEST",NA,NA,"1","I have so little expertise on anything other than plants, I feel quite uncomfortable saying. The actions taken would seem to be beneficial for this species."
-1,"Wolverine - Western population","HIGHEST",NA,NA,NA,NA
-1,"Wolverine - Western population","BEST GUESS",NA,NA,NA,NA
+1,"Wolverine","LOWEST",NA,NA,"1","I have so little expertise on anything other than plants, I feel quite uncomfortable saying. The actions taken would seem to be beneficial for this species."
+1,"Wolverine","HIGHEST",NA,NA,NA,NA
+1,"Wolverine","BEST GUESS",NA,NA,NA,NA
 1,"Grizzly Bear","LOWEST",NA,NA,"1","I have so little expertise on anything other than plants, I feel quite uncomfortable saying. The actions taken would seem to be beneficial for this species."
 1,"Grizzly Bear","HIGHEST",NA,NA,NA,NA
 1,"Grizzly Bear","BEST GUESS",NA,NA,NA,NA
@@ -98,9 +98,9 @@
 2,"Little Brown Myotis","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this species. External factors outside of this project are likely the dominant threat to persistence."
 2,"Little Brown Myotis","HIGHEST","80","80",NA,NA
 2,"Little Brown Myotis","BEST GUESS","75","75",NA,NA
-2,"Wolverine - Western population","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this species. External factors outside of this project are likely the dominant threat to persistence."
-2,"Wolverine - Western population","HIGHEST","80","80",NA,NA
-2,"Wolverine - Western population","BEST GUESS","75","75",NA,NA
+2,"Wolverine","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this species. External factors outside of this project are likely the dominant threat to persistence."
+2,"Wolverine","HIGHEST","80","80",NA,NA
+2,"Wolverine","BEST GUESS","75","75",NA,NA
 2,"Grizzly Bear","LOWEST","50","50","4","Upgrading crossing infrastructure will likely have litte impact on the amount of available habtiat for this species. External factors outside of this project are likely the dominant threat to persistence."
 2,"Grizzly Bear","HIGHEST","80","80",NA,NA
 2,"Grizzly Bear","BEST GUESS","75","75",NA,NA
@@ -161,9 +161,9 @@
 3,"Little Brown Myotis","LOWEST",NA,NA,"X",NA
 3,"Little Brown Myotis","HIGHEST",NA,NA,NA,NA
 3,"Little Brown Myotis","BEST GUESS",NA,NA,NA,NA
-3,"Wolverine - Western population","LOWEST",NA,NA,"X",NA
-3,"Wolverine - Western population","HIGHEST",NA,NA,NA,NA
-3,"Wolverine - Western population","BEST GUESS",NA,NA,NA,NA
+3,"Wolverine","LOWEST",NA,NA,"X",NA
+3,"Wolverine","HIGHEST",NA,NA,NA,NA
+3,"Wolverine","BEST GUESS",NA,NA,NA,NA
 3,"Grizzly Bear","LOWEST",NA,NA,"X",NA
 3,"Grizzly Bear","HIGHEST",NA,NA,NA,NA
 3,"Grizzly Bear","BEST GUESS",NA,NA,NA,NA
@@ -224,9 +224,9 @@
 4,"Little Brown Myotis","LOWEST",NA,NA,"4",NA
 4,"Little Brown Myotis","HIGHEST",NA,NA,NA,NA
 4,"Little Brown Myotis","BEST GUESS",NA,NA,NA,NA
-4,"Wolverine - Western population","LOWEST",NA,NA,"4",NA
-4,"Wolverine - Western population","HIGHEST",NA,NA,NA,NA
-4,"Wolverine - Western population","BEST GUESS",NA,NA,NA,NA
+4,"Wolverine","LOWEST",NA,NA,"4",NA
+4,"Wolverine","HIGHEST",NA,NA,NA,NA
+4,"Wolverine","BEST GUESS",NA,NA,NA,NA
 4,"Grizzly Bear","LOWEST",NA,NA,"4",NA
 4,"Grizzly Bear","HIGHEST",NA,NA,NA,NA
 4,"Grizzly Bear","BEST GUESS",NA,NA,NA,NA
@@ -287,9 +287,9 @@
 5,"Little Brown Myotis","LOWEST",NA,NA,NA,NA
 5,"Little Brown Myotis","HIGHEST",NA,NA,NA,NA
 5,"Little Brown Myotis","BEST GUESS",NA,NA,NA,NA
-5,"Wolverine - Western population","LOWEST",NA,NA,NA,NA
-5,"Wolverine - Western population","HIGHEST",NA,NA,NA,NA
-5,"Wolverine - Western population","BEST GUESS",NA,NA,NA,NA
+5,"Wolverine","LOWEST",NA,NA,NA,NA
+5,"Wolverine","HIGHEST",NA,NA,NA,NA
+5,"Wolverine","BEST GUESS",NA,NA,NA,NA
 5,"Grizzly Bear","LOWEST",NA,NA,NA,NA
 5,"Grizzly Bear","HIGHEST",NA,NA,NA,NA
 5,"Grizzly Bear","BEST GUESS",NA,NA,NA,NA
@@ -350,9 +350,9 @@
 6,"Little Brown Myotis","LOWEST",NA,NA,"very low","do not know enough about their ecology to do any ratings"
 6,"Little Brown Myotis","HIGHEST",NA,NA,NA,NA
 6,"Little Brown Myotis","BEST GUESS",NA,NA,NA,NA
-6,"Wolverine - Western population","LOWEST",NA,NA,"very low","do not know enough about their ecology to do any ratings"
-6,"Wolverine - Western population","HIGHEST",NA,NA,NA,NA
-6,"Wolverine - Western population","BEST GUESS",NA,NA,NA,NA
+6,"Wolverine","LOWEST",NA,NA,"very low","do not know enough about their ecology to do any ratings"
+6,"Wolverine","HIGHEST",NA,NA,NA,NA
+6,"Wolverine","BEST GUESS",NA,NA,NA,NA
 6,"Grizzly Bear","LOWEST",NA,NA,"very low","do not know enough about their ecology to do any ratings"
 6,"Grizzly Bear","HIGHEST",NA,NA,NA,NA
 6,"Grizzly Bear","BEST GUESS",NA,NA,NA,NA
@@ -413,9 +413,9 @@
 7,"Little Brown Myotis","LOWEST","60","70","5","Little Brown Myotis likely use the creek and adjacent riparian areas for foraging during the breeding season and forests within the project area for breeding and roosting. The species may benefit from riparian area restoration through increased foraging opportunities and reduced disturbance."
 7,"Little Brown Myotis","HIGHEST","90","100",NA,NA
 7,"Little Brown Myotis","BEST GUESS","80","100",NA,NA
-7,"Wolverine - Western population","LOWEST","20","30","5","Species is sensitive to disturbance and the area has a large human footprint. The restoration project is unlikely to impact the wolverine greatly"
-7,"Wolverine - Western population","HIGHEST","40","50",NA,NA
-7,"Wolverine - Western population","BEST GUESS","30","40",NA,NA
+7,"Wolverine","LOWEST","20","30","5","Species is sensitive to disturbance and the area has a large human footprint. The restoration project is unlikely to impact the wolverine greatly"
+7,"Wolverine","HIGHEST","40","50",NA,NA
+7,"Wolverine","BEST GUESS","30","40",NA,NA
 7,"Grizzly Bear","LOWEST","60","70","5","Grizzly bears will likely use the project area regardless of disturbance since their home ranges are very large however project implementation will likely have a positive impact on this species in the project area. Increased disturbance outside of the project area due to the OHV trail being moved and increasing in linear distance may reduce the persistence of the species in the broader area - note that I did not consider this in my assessment for the species."
 7,"Grizzly Bear","HIGHEST","100","100",NA,NA
 7,"Grizzly Bear","BEST GUESS","80","90",NA,NA
@@ -476,9 +476,9 @@
 8,"Little Brown Myotis","LOWEST","15","50","3","Reducing offroad vehicle use and noise near the creek should reduce disturbance year-round for roosting and/or hibernating bats using riparian forests. p. 68 in https://multisar.ca/wp-content/uploads/2015/10/Multisar-Bat-BMP-Report-Final.pdf."
 8,"Little Brown Myotis","HIGHEST","50","85",NA,NA
 8,"Little Brown Myotis","BEST GUESS","25","75",NA,NA
-8,"Wolverine - Western population","LOWEST","15","25","3","Reducing offroad vehicle use and noise near the creek could make it more attractive for wolverines, especially if trails near the creek are revegetated to discourage ATV use. Given the home range size of wolverines, there probably wouldn't be a large change in wolverine numbers, but relocating the trails might increase the probability of wolverines using the creek. https://canadiangeographic.ca/articles/why-wont-wolverines-cross-the-road/."
-8,"Wolverine - Western population","HIGHEST","50","75",NA,NA
-8,"Wolverine - Western population","BEST GUESS","25","50",NA,NA
+8,"Wolverine","LOWEST","15","25","3","Reducing offroad vehicle use and noise near the creek could make it more attractive for wolverines, especially if trails near the creek are revegetated to discourage ATV use. Given the home range size of wolverines, there probably wouldn't be a large change in wolverine numbers, but relocating the trails might increase the probability of wolverines using the creek. https://canadiangeographic.ca/articles/why-wont-wolverines-cross-the-road/."
+8,"Wolverine","HIGHEST","50","75",NA,NA
+8,"Wolverine","BEST GUESS","25","50",NA,NA
 8,"Grizzly Bear","LOWEST","15","25","3","Reducing offroad vehicle use and noise near the creek could make it more attractive for grizzly bears as would larger salmonid populations and better salmonid-spawning habitat after relocating trails away from  the creek. Given the home range size of grizzlies, there probably wouldn't be a large change in grizzly numbers, but relocating the trails might increase the probability of grizzlies using the creek."
 8,"Grizzly Bear","HIGHEST","50","75",NA,NA
 8,"Grizzly Bear","BEST GUESS","25","50",NA,NA
@@ -542,9 +542,9 @@ https://www.canada.ca/en/environment-climate-change/services/species-risk-public
 9,"Little Brown Myotis","LOWEST","B","B","6","Cadomin CH is nearby (hibernaculum), presume potential for use; riparian forested habitats support foraging and roosting but missing detail within forest ecotypes (forest stand age, fragmentation, stand denisty, availablity of snags, tree diameters, heights, decay class, sun exposure...) that would help detail some of the biophysical attributes associated with roosting like larger tree diameters, presence of snags, tree cavities."
 9,"Little Brown Myotis","HIGHEST","B","B",NA,NA
 9,"Little Brown Myotis","BEST GUESS","B","B",NA,NA
-9,"Wolverine - Western population","LOWEST",NA,NA,"6","Possible there may be a reduction to species disturbance  and movement in the project area if road/OHV trail access is closed or limited along the creek and riparian area; however, if vehicle use and activity by people is relocated to other areas upslope of Mackenzie Creek, overall this project may not benefit or may have a negative effect to the species depending on new route alignments and specific movement patterns through the project area. Whether any species benefit is realized depends on specific SAR use in the project area - I don't have this detail available."
-9,"Wolverine - Western population","HIGHEST",NA,NA,NA,NA
-9,"Wolverine - Western population","BEST GUESS",NA,NA,NA,NA
+9,"Wolverine","LOWEST",NA,NA,"6","Possible there may be a reduction to species disturbance  and movement in the project area if road/OHV trail access is closed or limited along the creek and riparian area; however, if vehicle use and activity by people is relocated to other areas upslope of Mackenzie Creek, overall this project may not benefit or may have a negative effect to the species depending on new route alignments and specific movement patterns through the project area. Whether any species benefit is realized depends on specific SAR use in the project area - I don't have this detail available."
+9,"Wolverine","HIGHEST",NA,NA,NA,NA
+9,"Wolverine","BEST GUESS",NA,NA,NA,NA
 9,"Grizzly Bear","LOWEST",NA,NA,"6","Possible there may be a reduction to species disturbance in the project area if road/OHV trail access is closed or limited along the creek and riparian area; however, if vehicle use and activity by people is relocated to other areas upslope of Mackenzie Creek, overall this project may not benefit or may have a negative effect to the species depending on new route alignments, effects on movement and specific movement patterns through the project area. Whether any species benefit is realized depends on specific SAR use in the project area - I don't have this detail available."
 9,"Grizzly Bear","HIGHEST",NA,NA,NA,NA
 9,"Grizzly Bear","BEST GUESS",NA,NA,NA,NA
@@ -606,9 +606,9 @@ Activities likely to result in destruction of critical habitat include alteratio
 10,"Little Brown Myotis","LOWEST",NA,NA,"5",NA
 10,"Little Brown Myotis","HIGHEST",NA,NA,NA,NA
 10,"Little Brown Myotis","BEST GUESS",NA,NA,NA,NA
-10,"Wolverine - Western population","LOWEST",NA,NA,"5",NA
-10,"Wolverine - Western population","HIGHEST",NA,NA,NA,NA
-10,"Wolverine - Western population","BEST GUESS",NA,NA,NA,NA
+10,"Wolverine","LOWEST",NA,NA,"5",NA
+10,"Wolverine","HIGHEST",NA,NA,NA,NA
+10,"Wolverine","BEST GUESS",NA,NA,NA,NA
 10,"Grizzly Bear","LOWEST",NA,NA,"5",NA
 10,"Grizzly Bear","HIGHEST",NA,NA,NA,NA
 10,"Grizzly Bear","BEST GUESS",NA,NA,NA,NA

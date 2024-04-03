@@ -35,9 +35,9 @@
 "1","Little Brown Myotis","LOWEST","Counterfactual",NA
 "1","Little Brown Myotis","HIGHEST","Counterfactual",NA
 "1","Little Brown Myotis","BEST GUESS","Counterfactual",NA
-"1","Wolverine - Western population","LOWEST","Counterfactual",NA
-"1","Wolverine - Western population","HIGHEST","Counterfactual",NA
-"1","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"1","Wolverine","LOWEST","Counterfactual",NA
+"1","Wolverine","HIGHEST","Counterfactual",NA
+"1","Wolverine","BEST GUESS","Counterfactual",NA
 "1","Grizzly Bear","LOWEST","Counterfactual",NA
 "1","Grizzly Bear","HIGHEST","Counterfactual",NA
 "1","Grizzly Bear","BEST GUESS","Counterfactual",NA
@@ -98,9 +98,9 @@
 "2","Little Brown Myotis","LOWEST","Counterfactual","50"
 "2","Little Brown Myotis","HIGHEST","Counterfactual","80"
 "2","Little Brown Myotis","BEST GUESS","Counterfactual","75"
-"2","Wolverine - Western population","LOWEST","Counterfactual","50"
-"2","Wolverine - Western population","HIGHEST","Counterfactual","80"
-"2","Wolverine - Western population","BEST GUESS","Counterfactual","75"
+"2","Wolverine","LOWEST","Counterfactual","50"
+"2","Wolverine","HIGHEST","Counterfactual","80"
+"2","Wolverine","BEST GUESS","Counterfactual","75"
 "2","Grizzly Bear","LOWEST","Counterfactual","50"
 "2","Grizzly Bear","HIGHEST","Counterfactual","80"
 "2","Grizzly Bear","BEST GUESS","Counterfactual","75"
@@ -161,9 +161,9 @@
 "3","Little Brown Myotis","LOWEST","Counterfactual",NA
 "3","Little Brown Myotis","HIGHEST","Counterfactual",NA
 "3","Little Brown Myotis","BEST GUESS","Counterfactual",NA
-"3","Wolverine - Western population","LOWEST","Counterfactual",NA
-"3","Wolverine - Western population","HIGHEST","Counterfactual",NA
-"3","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"3","Wolverine","LOWEST","Counterfactual",NA
+"3","Wolverine","HIGHEST","Counterfactual",NA
+"3","Wolverine","BEST GUESS","Counterfactual",NA
 "3","Grizzly Bear","LOWEST","Counterfactual",NA
 "3","Grizzly Bear","HIGHEST","Counterfactual",NA
 "3","Grizzly Bear","BEST GUESS","Counterfactual",NA
@@ -224,9 +224,9 @@
 "4","Little Brown Myotis","LOWEST","Counterfactual",NA
 "4","Little Brown Myotis","HIGHEST","Counterfactual",NA
 "4","Little Brown Myotis","BEST GUESS","Counterfactual",NA
-"4","Wolverine - Western population","LOWEST","Counterfactual",NA
-"4","Wolverine - Western population","HIGHEST","Counterfactual",NA
-"4","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"4","Wolverine","LOWEST","Counterfactual",NA
+"4","Wolverine","HIGHEST","Counterfactual",NA
+"4","Wolverine","BEST GUESS","Counterfactual",NA
 "4","Grizzly Bear","LOWEST","Counterfactual",NA
 "4","Grizzly Bear","HIGHEST","Counterfactual",NA
 "4","Grizzly Bear","BEST GUESS","Counterfactual",NA
@@ -287,9 +287,9 @@
 "5","Little Brown Myotis","LOWEST","Counterfactual",NA
 "5","Little Brown Myotis","HIGHEST","Counterfactual",NA
 "5","Little Brown Myotis","BEST GUESS","Counterfactual",NA
-"5","Wolverine - Western population","LOWEST","Counterfactual",NA
-"5","Wolverine - Western population","HIGHEST","Counterfactual",NA
-"5","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"5","Wolverine","LOWEST","Counterfactual",NA
+"5","Wolverine","HIGHEST","Counterfactual",NA
+"5","Wolverine","BEST GUESS","Counterfactual",NA
 "5","Grizzly Bear","LOWEST","Counterfactual",NA
 "5","Grizzly Bear","HIGHEST","Counterfactual",NA
 "5","Grizzly Bear","BEST GUESS","Counterfactual",NA
@@ -350,9 +350,9 @@
 "6","Little Brown Myotis","LOWEST","Counterfactual",NA
 "6","Little Brown Myotis","HIGHEST","Counterfactual",NA
 "6","Little Brown Myotis","BEST GUESS","Counterfactual",NA
-"6","Wolverine - Western population","LOWEST","Counterfactual",NA
-"6","Wolverine - Western population","HIGHEST","Counterfactual",NA
-"6","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"6","Wolverine","LOWEST","Counterfactual",NA
+"6","Wolverine","HIGHEST","Counterfactual",NA
+"6","Wolverine","BEST GUESS","Counterfactual",NA
 "6","Grizzly Bear","LOWEST","Counterfactual",NA
 "6","Grizzly Bear","HIGHEST","Counterfactual",NA
 "6","Grizzly Bear","BEST GUESS","Counterfactual",NA
@@ -413,9 +413,9 @@
 "7","Little Brown Myotis","LOWEST","Counterfactual","60"
 "7","Little Brown Myotis","HIGHEST","Counterfactual","90"
 "7","Little Brown Myotis","BEST GUESS","Counterfactual","80"
-"7","Wolverine - Western population","LOWEST","Counterfactual","20"
-"7","Wolverine - Western population","HIGHEST","Counterfactual","40"
-"7","Wolverine - Western population","BEST GUESS","Counterfactual","30"
+"7","Wolverine","LOWEST","Counterfactual","20"
+"7","Wolverine","HIGHEST","Counterfactual","40"
+"7","Wolverine","BEST GUESS","Counterfactual","30"
 "7","Grizzly Bear","LOWEST","Counterfactual","60"
 "7","Grizzly Bear","HIGHEST","Counterfactual","100"
 "7","Grizzly Bear","BEST GUESS","Counterfactual","80"
@@ -476,9 +476,9 @@
 "8","Little Brown Myotis","LOWEST","Counterfactual","15"
 "8","Little Brown Myotis","HIGHEST","Counterfactual","50"
 "8","Little Brown Myotis","BEST GUESS","Counterfactual","25"
-"8","Wolverine - Western population","LOWEST","Counterfactual","15"
-"8","Wolverine - Western population","HIGHEST","Counterfactual","50"
-"8","Wolverine - Western population","BEST GUESS","Counterfactual","25"
+"8","Wolverine","LOWEST","Counterfactual","15"
+"8","Wolverine","HIGHEST","Counterfactual","50"
+"8","Wolverine","BEST GUESS","Counterfactual","25"
 "8","Grizzly Bear","LOWEST","Counterfactual","15"
 "8","Grizzly Bear","HIGHEST","Counterfactual","50"
 "8","Grizzly Bear","BEST GUESS","Counterfactual","25"
@@ -539,9 +539,9 @@
 "9","Little Brown Myotis","LOWEST","Counterfactual","B"
 "9","Little Brown Myotis","HIGHEST","Counterfactual","B"
 "9","Little Brown Myotis","BEST GUESS","Counterfactual","B"
-"9","Wolverine - Western population","LOWEST","Counterfactual",NA
-"9","Wolverine - Western population","HIGHEST","Counterfactual",NA
-"9","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"9","Wolverine","LOWEST","Counterfactual",NA
+"9","Wolverine","HIGHEST","Counterfactual",NA
+"9","Wolverine","BEST GUESS","Counterfactual",NA
 "9","Grizzly Bear","LOWEST","Counterfactual",NA
 "9","Grizzly Bear","HIGHEST","Counterfactual",NA
 "9","Grizzly Bear","BEST GUESS","Counterfactual",NA
@@ -602,9 +602,9 @@
 "10","Little Brown Myotis","LOWEST","Counterfactual",NA
 "10","Little Brown Myotis","HIGHEST","Counterfactual",NA
 "10","Little Brown Myotis","BEST GUESS","Counterfactual",NA
-"10","Wolverine - Western population","LOWEST","Counterfactual",NA
-"10","Wolverine - Western population","HIGHEST","Counterfactual",NA
-"10","Wolverine - Western population","BEST GUESS","Counterfactual",NA
+"10","Wolverine","LOWEST","Counterfactual",NA
+"10","Wolverine","HIGHEST","Counterfactual",NA
+"10","Wolverine","BEST GUESS","Counterfactual",NA
 "10","Grizzly Bear","LOWEST","Counterfactual",NA
 "10","Grizzly Bear","HIGHEST","Counterfactual",NA
 "10","Grizzly Bear","BEST GUESS","Counterfactual",NA
@@ -665,9 +665,9 @@
 "1","Little Brown Myotis","LOWEST","Action",NA
 "1","Little Brown Myotis","HIGHEST","Action",NA
 "1","Little Brown Myotis","BEST GUESS","Action",NA
-"1","Wolverine - Western population","LOWEST","Action",NA
-"1","Wolverine - Western population","HIGHEST","Action",NA
-"1","Wolverine - Western population","BEST GUESS","Action",NA
+"1","Wolverine","LOWEST","Action",NA
+"1","Wolverine","HIGHEST","Action",NA
+"1","Wolverine","BEST GUESS","Action",NA
 "1","Grizzly Bear","LOWEST","Action",NA
 "1","Grizzly Bear","HIGHEST","Action",NA
 "1","Grizzly Bear","BEST GUESS","Action",NA
@@ -728,9 +728,9 @@
 "2","Little Brown Myotis","LOWEST","Action","50"
 "2","Little Brown Myotis","HIGHEST","Action","80"
 "2","Little Brown Myotis","BEST GUESS","Action","75"
-"2","Wolverine - Western population","LOWEST","Action","50"
-"2","Wolverine - Western population","HIGHEST","Action","80"
-"2","Wolverine - Western population","BEST GUESS","Action","75"
+"2","Wolverine","LOWEST","Action","50"
+"2","Wolverine","HIGHEST","Action","80"
+"2","Wolverine","BEST GUESS","Action","75"
 "2","Grizzly Bear","LOWEST","Action","50"
 "2","Grizzly Bear","HIGHEST","Action","80"
 "2","Grizzly Bear","BEST GUESS","Action","75"
@@ -791,9 +791,9 @@
 "3","Little Brown Myotis","LOWEST","Action",NA
 "3","Little Brown Myotis","HIGHEST","Action",NA
 "3","Little Brown Myotis","BEST GUESS","Action",NA
-"3","Wolverine - Western population","LOWEST","Action",NA
-"3","Wolverine - Western population","HIGHEST","Action",NA
-"3","Wolverine - Western population","BEST GUESS","Action",NA
+"3","Wolverine","LOWEST","Action",NA
+"3","Wolverine","HIGHEST","Action",NA
+"3","Wolverine","BEST GUESS","Action",NA
 "3","Grizzly Bear","LOWEST","Action",NA
 "3","Grizzly Bear","HIGHEST","Action",NA
 "3","Grizzly Bear","BEST GUESS","Action",NA
@@ -854,9 +854,9 @@
 "4","Little Brown Myotis","LOWEST","Action",NA
 "4","Little Brown Myotis","HIGHEST","Action",NA
 "4","Little Brown Myotis","BEST GUESS","Action",NA
-"4","Wolverine - Western population","LOWEST","Action",NA
-"4","Wolverine - Western population","HIGHEST","Action",NA
-"4","Wolverine - Western population","BEST GUESS","Action",NA
+"4","Wolverine","LOWEST","Action",NA
+"4","Wolverine","HIGHEST","Action",NA
+"4","Wolverine","BEST GUESS","Action",NA
 "4","Grizzly Bear","LOWEST","Action",NA
 "4","Grizzly Bear","HIGHEST","Action",NA
 "4","Grizzly Bear","BEST GUESS","Action",NA
@@ -917,9 +917,9 @@
 "5","Little Brown Myotis","LOWEST","Action",NA
 "5","Little Brown Myotis","HIGHEST","Action",NA
 "5","Little Brown Myotis","BEST GUESS","Action",NA
-"5","Wolverine - Western population","LOWEST","Action",NA
-"5","Wolverine - Western population","HIGHEST","Action",NA
-"5","Wolverine - Western population","BEST GUESS","Action",NA
+"5","Wolverine","LOWEST","Action",NA
+"5","Wolverine","HIGHEST","Action",NA
+"5","Wolverine","BEST GUESS","Action",NA
 "5","Grizzly Bear","LOWEST","Action",NA
 "5","Grizzly Bear","HIGHEST","Action",NA
 "5","Grizzly Bear","BEST GUESS","Action",NA
@@ -980,9 +980,9 @@
 "6","Little Brown Myotis","LOWEST","Action",NA
 "6","Little Brown Myotis","HIGHEST","Action",NA
 "6","Little Brown Myotis","BEST GUESS","Action",NA
-"6","Wolverine - Western population","LOWEST","Action",NA
-"6","Wolverine - Western population","HIGHEST","Action",NA
-"6","Wolverine - Western population","BEST GUESS","Action",NA
+"6","Wolverine","LOWEST","Action",NA
+"6","Wolverine","HIGHEST","Action",NA
+"6","Wolverine","BEST GUESS","Action",NA
 "6","Grizzly Bear","LOWEST","Action",NA
 "6","Grizzly Bear","HIGHEST","Action",NA
 "6","Grizzly Bear","BEST GUESS","Action",NA
@@ -1043,9 +1043,9 @@
 "7","Little Brown Myotis","LOWEST","Action","70"
 "7","Little Brown Myotis","HIGHEST","Action","100"
 "7","Little Brown Myotis","BEST GUESS","Action","100"
-"7","Wolverine - Western population","LOWEST","Action","30"
-"7","Wolverine - Western population","HIGHEST","Action","50"
-"7","Wolverine - Western population","BEST GUESS","Action","40"
+"7","Wolverine","LOWEST","Action","30"
+"7","Wolverine","HIGHEST","Action","50"
+"7","Wolverine","BEST GUESS","Action","40"
 "7","Grizzly Bear","LOWEST","Action","70"
 "7","Grizzly Bear","HIGHEST","Action","100"
 "7","Grizzly Bear","BEST GUESS","Action","90"
@@ -1106,9 +1106,9 @@
 "8","Little Brown Myotis","LOWEST","Action","50"
 "8","Little Brown Myotis","HIGHEST","Action","85"
 "8","Little Brown Myotis","BEST GUESS","Action","75"
-"8","Wolverine - Western population","LOWEST","Action","25"
-"8","Wolverine - Western population","HIGHEST","Action","75"
-"8","Wolverine - Western population","BEST GUESS","Action","50"
+"8","Wolverine","LOWEST","Action","25"
+"8","Wolverine","HIGHEST","Action","75"
+"8","Wolverine","BEST GUESS","Action","50"
 "8","Grizzly Bear","LOWEST","Action","25"
 "8","Grizzly Bear","HIGHEST","Action","75"
 "8","Grizzly Bear","BEST GUESS","Action","50"
@@ -1169,9 +1169,9 @@
 "9","Little Brown Myotis","LOWEST","Action","B"
 "9","Little Brown Myotis","HIGHEST","Action","B"
 "9","Little Brown Myotis","BEST GUESS","Action","B"
-"9","Wolverine - Western population","LOWEST","Action",NA
-"9","Wolverine - Western population","HIGHEST","Action",NA
-"9","Wolverine - Western population","BEST GUESS","Action",NA
+"9","Wolverine","LOWEST","Action",NA
+"9","Wolverine","HIGHEST","Action",NA
+"9","Wolverine","BEST GUESS","Action",NA
 "9","Grizzly Bear","LOWEST","Action",NA
 "9","Grizzly Bear","HIGHEST","Action",NA
 "9","Grizzly Bear","BEST GUESS","Action",NA
@@ -1232,9 +1232,9 @@
 "10","Little Brown Myotis","LOWEST","Action",NA
 "10","Little Brown Myotis","HIGHEST","Action",NA
 "10","Little Brown Myotis","BEST GUESS","Action",NA
-"10","Wolverine - Western population","LOWEST","Action",NA
-"10","Wolverine - Western population","HIGHEST","Action",NA
-"10","Wolverine - Western population","BEST GUESS","Action",NA
+"10","Wolverine","LOWEST","Action",NA
+"10","Wolverine","HIGHEST","Action",NA
+"10","Wolverine","BEST GUESS","Action",NA
 "10","Grizzly Bear","LOWEST","Action",NA
 "10","Grizzly Bear","HIGHEST","Action",NA
 "10","Grizzly Bear","BEST GUESS","Action",NA
