@@ -1,0 +1,661 @@
+---
+title: "Mackenzie Creek restoration project"
+author: "Canadian Conservation Exchange Pilot"
+date: "`r Sys.Date()`"
+output: 
+  word_document:
+    reference_docx: report_style.docx
+    fig_caption: yes
+params:
+  project: Mackenzie Creek restoration
+  expert: 2
+  contact: Kristen.Lalla@ec.gc.ca
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+  )
+library(tidyverse)
+library(cowplot)
+library(here)
+library(flextable)
+```
+
+## Instructions
+
+An important part of the structured elicitation process is to give each expert the opportunity to review all the expert estimates and then revise their own estimates if desired.  
+  
+**Please review the following plots summarizing the expert estimates**. Expert names have been converted to codes to maintain confidentiality. Your individual code is: `r paste(params$expert)`.   
+  
+After reviewing the plots, if you would like to revise your own estimates, you can do so in the accompanying Excel spreadsheet. Please note that revising your estimates is OPTIONAL – you do not have to change your estimates. **If you do not wish to make any changes, please email `r paste(params$contact)` to confirm.**  
+  
+### Plot descriptions
+The box and whisker plots summarize the distribution of the lowest (L), best guess (B), and highest (H) expert estimates of the probability of persistence of species-at-risk under the Counterfactual scenario (grey bars) and with the Action (yellow bars). The thick horizontal lines indicate the median estimate, while the surrounding box shows the interquartile range. Any outliers are shown as black dots beyond the plot whiskers. Your individual estimates are shown as blue triangles.  
+  
+The point and range plots show each expert's estimate of the probability of persistence of species-at-risk under the Counterfactual scenario and with the Action. Each point represents the estimates from one expert (points = Best Guess, vertical lines = range from Lowest to Highest estimate). Your individual estimates are plotted in blue. The horizontal lines indicate the mean of the probability of persistence estimates (solid line = Best Guess, dashed lines = Lowest and Highest estimate).  
+  
+### Expert comments
+We have also included additional information or explanation provided by experts about their own estimates in a table following each set of plots. 
+
+```{r import}
+derived <- here::here("projects", "TUC_MackenzieCr", "data", "initial", "derived") # where compiled data tables are saved
+results <- here::here("projects", "TUC_MackenzieCr", "analysis", "initial")
+code <- here::here("R") # where some custom functions are saved
+
+source(paste0(code, "/plotfunctions.R"))
+source(paste0(code, "/comments.R"))
+
+feas.long <- read.csv(paste0(derived, "/Feas_estimates_tidy.csv"))
+feas.long$Estimate <- factor(feas.long$Estimate, levels = c("LOWEST", "BEST GUESS", "HIGHEST"))
+feas.wide <- feas.long %>%
+  pivot_wider(names_from = Estimate, values_from = Value)
+feasibility <- read.csv(paste(results, "/Feasibility_avg.csv", sep = ""))
+
+long <- readRDS(paste0(derived, "/long.rds"))
+wide <- readRDS(paste0(derived, "/wide.rds"))
+average <- readRDS(paste0(derived, "/average.rds"))
+
+box.levels <- c("species-at-risk", "freshwater functional groups", "wetland functional groups",
+                   "coniferous forest functional groups", "mixed forest functional groups", "ecotypes")
+
+pointrange.levels <- c("species-at-risk", "species-at-risk", 
+                       "freshwater functional groups", "freshwater functional groups", "freshwater functional groups",
+                       "wetland functional groups", "wetland functional groups", "wetland functional groups",
+                       "coniferous forest functional groups", "coniferous forest functional groups", "coniferous forest functional groups",
+                       "mixed forest functional groups", "mixed forest functional groups", "mixed forest functional groups", "ecotype")
+
+col <- c(6, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4) # number of 'columns' of plots per page for pointrange plots. Order should correspond with list order of tables in wide.rds
+
+# Get compiled data with comments
+expvec <- c(1:10) # vector of expert codes. 
+sarclean <- read.csv(paste0(derived, "/SAR_Estimates.csv"))
+grpclean <- read.csv(paste0(derived, "/FuncGrp_Estimates.csv"))
+grpclean <- grpclean %>%
+  separate(Biodiversity,
+           into = c("Ecotype", "FunctionalGroup"),
+           sep = "\\n", extra = "merge")
+ecoclean <- read.csv(paste0(derived, "/Ecotype_Estimates.csv"))
+feasdata <- read.csv(paste0(derived, "/Feas_estimates.csv"))
+
+```
+
+\newpage
+
+## Probability of success
+
+The following plots show the initial expert estimates of the probability that the `r params$project` project will be successful (*i.e.*, that the project will successfully achieve its goals).
+
+```{r feasibility, fig.cap = "Figure 1 (a) Boxplot summarizing the distribution of the lowest (Low), best guess (Best), and highest (High) expert estimates of the probability of success of the project. (b) Individual expert estimates of the probability of success of the project. Each point and range represents the estimates from one expert. Horizontal lines indicate the mean estimate (solid line = Best Guess, dashed lines = Lowest and Highest estimate). Your individual estimates are plotted in blue.", fig.show = "hold", fig.width = 10, fig.height = 4}
+feas.data <- na.omit(feas.long)
+feas.data$Value <- as.numeric(feas.data$Value)
+
+feas.boxplot <- ggplot(feas.data, aes(x = Estimate, y = Value)) +
+  # geom_violin() +  # option to add a violin plot around the boxplot - if doing so, reduce boxplot width in next line
+  geom_boxplot() +
+  geom_point(data = subset(feas.data, Expert == params$expert), # plot expert [j]'s estimates as blue points
+             aes(x = Estimate, y = Value)
+             , size = 2
+             , shape = 17
+             , color = 'royalblue2'
+  ) + # include the geom_point option only if you want to highlight individual expert responses
+  theme_cowplot() + 
+  theme(plot.margin = unit(c(0.5, 0.5, 0.5, 0.5), "cm"), # margins on the outside of the plot (T, R, B, L)
+        panel.spacing = unit(1, "lines"), # adjust margins and between panels of the plot (spacing of 1)
+        axis.title = element_text(size = 12),
+        axis.title.y = element_text(margin = margin(t = 0,
+                                                    r = 10,
+                                                    b = 0,
+                                                    l = 0)
+        ),
+        axis.text = element_text(size = 10),
+        plot.caption = element_text(size = 10, hjust = 0)
+  ) +
+  scale_x_discrete(name = "Estimates",
+                   breaks = c("LOWEST", "BEST GUESS", "HIGHEST"),
+                   labels = c("Low", "Best", "High")
+  ) +
+  labs(x = "Estimate",
+       y = "Probability of success (%)"
+       , title = "a)"
+       ) +
+  ylim(0, 100) # set the y-axis limits from 0-100
+
+# Pointrange plots
+feas.avg <- feasibility %>%
+  select(-Mean) %>%
+  pivot_wider(names_from = Estimate, values_from = Value)
+
+feas.expdata <- na.omit(feas.wide) %>%
+  mutate(expi = ifelse(Expert == params$expert, T, F)) # for plotting individual expert responses
+feas.expdata$Expert <- as.numeric(as.character(feas.expdata$Expert))
+feas.expdata$LOWEST <- as.numeric(feas.expdata$LOWEST)
+feas.expdata$HIGHEST <- as.numeric(feas.expdata$HIGHEST)
+feas.expdata$`BEST GUESS` <- as.numeric(feas.expdata$`BEST GUESS`)
+
+feas.pointrange <-
+  ggplot(feas.expdata, aes(x = Expert, 
+                           y = `BEST GUESS` 
+                           , color = expi # use this only if highlighting individual expert responses
+  )
+  ) +
+  geom_pointrange(aes(ymin = LOWEST, ymax = HIGHEST)) +
+  scale_color_manual(values = c("gray10", "blue"), guide = "none") + # only needed if highlighting individual expert responses
+  geom_hline(aes(yintercept = `BEST GUESS`), feas.avg, colour = "gray40") +
+  geom_hline(aes(yintercept = LOWEST), feas.avg, colour = "gray40", lty = "dashed") +
+  geom_hline(aes(yintercept = HIGHEST), feas.avg, colour = "gray40", lty = "dashed") +
+
+  theme_cowplot() +
+  theme(plot.margin = unit(c(0.5, 0.5, 0.5, 0.5), "cm"), # margins around the outside of the plot
+        panel.spacing = unit(1, "lines"), # adjust margins and between panels of the plot (spacing of 1)
+        axis.title = element_text(size = 12),
+        axis.title.y = element_text(margin = margin(t = 0,
+                                                    r = 10,
+                                                    b = 0,
+                                                    l = 0)),
+        axis.text = element_text(size=10),
+        plot.caption = element_text(size = 10, hjust = 0)
+  ) +
+  scale_x_continuous(breaks = seq(1,length(expvec),1), limits = c(1,(length(expvec)))) +
+  labs(x = "Expert",
+       y = "Probability of success (%)"
+       , title = "b)"
+       ) +
+  ylim(0, 100) # set the y-axis limits from 0-100
+
+plot_grid(feas.boxplot, feas.pointrange)
+```
+
+\newpage
+
+```{r Feascomments}
+# First extract the comments
+est.type <- c("LOWEST", "HIGHEST", "BEST GUESS")
+feas.comments <- feasdata %>%
+  filter(!Estimate %in% est.type) %>%
+  filter(!Estimate == "") %>%
+  filter(!grepl("What information, assumptions, or rationale", .$Estimate)) %>%
+  select(-Value) %>%
+  rename(Comments = Estimate) %>%
+  filter(!grepl("Add notes/comments", .$Comments)) %>%
+  filter(!Expert == 7) # removing comment as it is about the estimates of prob of persistence, not prob of success
+
+
+
+feast <- flextable(feas.comments)
+feast <- set_table_properties(feast,width = 1, layout = "autofit")
+feast <- theme_vanilla(feast)
+feast
+```
+  
+  
+***
+    
+## Probability of persistence
+
+The following pages show plots of the initial expert estimates of the probability of persistence over 20 years under the Counterfactual scenario (*i.e.*, if the project did not take place) and with the Action (*i.e.*, if the project is successfully implemented).  
+  
+### Species-at-risk
+
+```{r SARbox, fig.cap = "Figure 2. Boxplots summarizing the distribution of the lowest (Low), best guess (Best), and highest (High) expert estimates of the probability of persistence of species-at-risk under the Counterfactual scenario and with the Action. Your individual estimates are shown as blue triangles.", fig.width = 10.2, fig.height= 6.5}
+tab.long <- 1
+
+sar.data <- long[[tab.long]]
+sar.data <- na.omit(sar.data)
+
+sar.boxplot <- box(sar.data, page = tab.long, expert = params$expert)
+sar.boxplot
+```
+
+```{r SARptrange1, fig.width = 10, fig.height= 6.5}
+tab.wide <- 1
+
+sar.expdata1 <- wide[[tab.wide]]
+sar.expdata1 <- na.omit(sar.expdata1)
+sar.expdata1 <- mutate(sar.expdata1, expi = ifelse(Expert == params$expert, T, F)) 
+sar.expdata1$Expert <- as.numeric(as.character(sar.expdata1$Expert))
+
+sar.avgdata1 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+sar.pointrange1 <- range(df = sar.expdata1, avg = sar.avgdata1, page = pg, nexp = length(expvec))
+sar.pointrange1
+```
+
+```{r SARptrange2, fig.cap = "Figure 3. Individual expert estimates of the probability of persistence of species-at-risk under the Counterfactual scenario and with the Action. Each point and range represents the estimates from one expert. Your individual estimates are plotted in blue. Horizontal lines indicate the mean estimate (solid line = Best Guess, dashed lines = Lowest and Highest estimate).", fig.width = 10, fig.height= 6.5}
+tab.wide <- 2
+
+sar.expdata2 <- wide[[tab.wide]]
+sar.expdata2 <- na.omit(sar.expdata2)
+sar.expdata2 <- mutate(sar.expdata2, expi = ifelse(Expert == params$expert, T, F)) 
+sar.expdata2$Expert <- as.numeric(as.character(sar.expdata2$Expert))
+
+sar.avgdata2 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+sar.pointrange2 <- range(df = sar.expdata2, avg = sar.avgdata2, page = pg, nexp = length(expvec))
+sar.pointrange2
+```
+
+\newpage
+
+```{r SARcomments}
+comments.temp <- sarclean %>%
+  select(-Estimate, -Counterfactual, -Action, -Rating) %>%
+  mutate(Biodiversity = as_factor(Biodiversity)) %>%
+  arrange(Biodiversity)
+comments.temp <- na.omit(comments.temp)
+
+sar.comments <- compile(comments.temp, expvec)
+
+sar.comments[sar.comments == ""] <- NA
+sar.comments <- na.omit(sar.comments) %>%
+  relocate(Biodiversity, .before = Expert) %>%
+  rename(`Species-at-risk` = Biodiversity)
+
+sart <- flextable(sar.comments)
+sart <- set_table_properties(sart,width = 1, layout = "autofit")
+sart <- merge_v(sart, j = ~ `Species-at-risk`)
+sart <- theme_vanilla(sart)
+sart
+# knitr::kable(sar.comments, row.names=F, format = "simple")
+#can include a caption= argument to kable for a table caption
+
+```
+
+### Freshwater representative biodiversity (functional groups)
+
+```{r Freshbox, fig.cap = "Figure 4. Boxplots summarizing the distribution of the lowest (Low), best guess (Best), and highest (High) expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the freshwater ecotype, under the Counterfactual scenario and with the Action. Your individual estimates are shown as blue triangles.", fig.width = 10.2, fig.height= 6.5}
+tab.long <- 2
+
+fresh.data <- long[[tab.long]]
+fresh.data <- na.omit(fresh.data)
+
+fresh.boxplot <- box(fresh.data, page = tab.long, expert = params$expert)
+fresh.boxplot
+```
+
+```{r Freshptrange1, fig.width = 10, fig.height = 6.5}
+tab.wide <- 3
+
+fresh.expdata1 <- wide[[tab.wide]]
+fresh.expdata1 <- na.omit(fresh.expdata1)
+fresh.expdata1 <- mutate(fresh.expdata1, expi = ifelse(Expert == params$expert, T, F)) 
+fresh.expdata1$Expert <- as.numeric(as.character(fresh.expdata1$Expert))
+
+fresh.avgdata1 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+fresh.pointrange1 <- range(df = fresh.expdata1, avg = fresh.avgdata1, page = pg, nexp = length(expvec))
+fresh.pointrange1
+```
+
+```{r Freshptrange2, fig.width = 10, fig.height = 6.5}
+tab.wide <- 4
+
+fresh.expdata2 <- wide[[tab.wide]]
+fresh.expdata2 <- na.omit(fresh.expdata2)
+fresh.expdata2 <- mutate(fresh.expdata2, expi = ifelse(Expert == params$expert, T, F)) 
+fresh.expdata2$Expert <- as.numeric(as.character(fresh.expdata2$Expert))
+
+fresh.avgdata2 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+fresh.pointrange2 <- range(df = fresh.expdata2, avg = fresh.avgdata2, page = pg, nexp = length(expvec))
+fresh.pointrange2
+```
+
+```{r Freshptrange3, fig.cap = "Figure 5. Individual expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the freshwater ecotype, under the Counterfactual scenario and with the Action. Each point and range represents the estimates from one expert. Your individual estimates are plotted in blue. Horizontal lines indicate the mean estimate (solid line = Best Guess, dashed lines = Lowest and Highest estimate).", fig.width = 10, fig.height= 6.5}
+tab.wide <- 5
+
+fresh.expdata3 <- wide[[tab.wide]]
+fresh.expdata3 <- na.omit(fresh.expdata3)
+fresh.expdata3 <- mutate(fresh.expdata3, expi = ifelse(Expert == params$expert, T, F)) 
+fresh.expdata3$Expert <- as.numeric(as.character(fresh.expdata3$Expert))
+
+fresh.avgdata3 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+fresh.pointrange3 <- range(df = fresh.expdata3, avg = fresh.avgdata3, page = pg, nexp = length(expvec))
+fresh.pointrange3
+```
+
+\newpage
+
+```{r Freshcomments}
+fresh <- grpclean %>%
+  filter(Ecotype == "Freshwater")
+
+comments.temp <- fresh %>%
+  select(-Ecotype, -Estimate, -Counterfactual, -Action, -Rating) %>%
+  rename(Biodiversity = FunctionalGroup) %>% 
+  mutate(Biodiversity = as_factor(Biodiversity)) %>%
+  arrange(Biodiversity)
+
+comments.temp <- na.omit(comments.temp)
+
+fresh.comments <- compile(comments.temp, expvec)
+
+fresh.comments[fresh.comments == ""] <- NA
+fresh.comments <- na.omit(fresh.comments) %>%
+  relocate(Biodiversity, .before = Expert) %>%
+  rename(`Freshwater Biodiversity` = Biodiversity)
+
+# knitr::kable(fresh.comments, row.names=F, format = "simple")
+ft <- flextable(fresh.comments)
+ft <- set_table_properties(ft, width = 1, layout = "autofit")
+ft <- merge_v(ft, j = ~ `Freshwater Biodiversity`)
+ft <- theme_vanilla(ft)
+ft
+
+```
+
+### Wetland representative biodiversity (functional groups)
+
+```{r Wetlandbox, fig.cap = "Figure 6. Boxplots summarizing the distribution of the lowest (Low), best guess (Best), and highest (High) expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the wetland ecotype, under the Counterfactual scenario and with the Action. Your individual estimates are shown as blue triangles.", fig.width = 10.2, fig.height= 6.5}
+tab.long <- 3
+
+wetland.data <- long[[tab.long]]
+wetland.data <- na.omit(wetland.data)
+
+wetland.boxplot <- box(wetland.data, page = tab.long, expert = params$expert)
+wetland.boxplot
+```
+
+```{r Wetlandptrange1, fig.width = 10, fig.height = 6.5}
+tab.wide <- 6
+
+wetland.expdata1 <- wide[[tab.wide]]
+wetland.expdata1 <- na.omit(wetland.expdata1)
+wetland.expdata1 <- mutate(wetland.expdata1, expi = ifelse(Expert == params$expert, T, F))
+wetland.expdata1$Expert <- as.numeric(as.character(wetland.expdata1$Expert))
+
+wetland.avgdata1 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+wetland.pointrange1 <- range(df = wetland.expdata1, avg = wetland.avgdata1, page = pg, nexp = length(expvec))
+wetland.pointrange1
+```
+
+```{r Wetlandptrange2, fig.width = 10, fig.height = 6.5}
+tab.wide <- 7
+
+wetland.expdata2 <- wide[[tab.wide]]
+wetland.expdata2 <- na.omit(wetland.expdata2)
+wetland.expdata2 <- mutate(wetland.expdata2, expi = ifelse(Expert == params$expert, T, F))
+wetland.expdata2$Expert <- as.numeric(as.character(wetland.expdata2$Expert))
+
+wetland.avgdata2 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+wetland.pointrange2 <- range(df = wetland.expdata2, avg = wetland.avgdata2, page = pg, nexp = length(expvec))
+wetland.pointrange2
+```
+
+```{r Wetlandptrange3, fig.cap = "Figure 7. Individual expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the wetland ecotype, under the Counterfactual scenario and with the Action. Each point and range represents the estimates from one expert. Your individual estimates are plotted in blue. Horizontal lines indicate the mean estimate (solid line = Best Guess, dashed lines = Lowest and Highest estimate).", fig.width = 10, fig.height= 6.5}
+tab.wide <- 8
+
+wetland.expdata3 <- wide[[tab.wide]]
+wetland.expdata3 <- na.omit(wetland.expdata3)
+wetland.expdata3 <- mutate(wetland.expdata3, expi = ifelse(Expert == params$expert, T, F)) 
+wetland.expdata3$Expert <- as.numeric(as.character(wetland.expdata3$Expert))
+
+wetland.avgdata3 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+wetland.pointrange3 <- range(df = wetland.expdata3, avg = wetland.avgdata3, page = pg, nexp = length(expvec))
+wetland.pointrange3
+```
+
+\newpage
+
+```{r Wetlandcomments}
+wetland <- grpclean %>%
+  filter(Ecotype == "Wetland")
+
+comments.temp <- wetland %>%
+  select(-Ecotype, -Estimate, -Counterfactual, -Action, -Rating) %>%
+  rename(Biodiversity = FunctionalGroup) %>% 
+  mutate(Biodiversity = as_factor(Biodiversity)) %>%
+  arrange(Biodiversity)
+
+comments.temp <- na.omit(comments.temp)
+
+wetland.comments <- compile(comments.temp, expvec)
+
+wetland.comments[wetland.comments == ""] <- NA
+wetland.comments <- na.omit(wetland.comments) %>%
+  relocate(Biodiversity, .before = Expert) %>%
+  rename(`Wetland Biodiversity` = Biodiversity)
+
+# knitr::kable(wetland.comments, row.names=F, format = "simple")
+wt <- flextable(wetland.comments)
+wt <- set_table_properties(wt, width = 1, layout = "autofit")
+wt <- merge_v(wt, j = ~ `Wetland Biodiversity`)
+wt <- theme_vanilla(wt)
+wt
+```
+
+### Coniferous forest representative biodiversity (functional groups)
+
+```{r Coniferbox, fig.cap = "Figure 8. Boxplots summarizing the distribution of the lowest (Low), best guess (Best), and highest (High) expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the coniferous forest ecotype, under the Counterfactual scenario and with the Action. Your individual estimates are shown as blue triangles.", fig.width = 10.2, fig.height= 6.5}
+tab.long <- 4
+
+conifer.data <- long[[tab.long]]
+conifer.data <- na.omit(conifer.data)
+
+conifer.boxplot <- box(conifer.data, page = tab.long, expert = params$expert)
+conifer.boxplot
+```
+
+```{r Coniferptrange1, fig.width = 10, fig.height = 6.5}
+tab.wide <- 9
+
+conifer.expdata1 <- wide[[tab.wide]]
+conifer.expdata1 <- na.omit(conifer.expdata1)
+conifer.expdata1 <- mutate(conifer.expdata1, expi = ifelse(Expert == params$expert, T, F))
+conifer.expdata1$Expert <- as.numeric(as.character(conifer.expdata1$Expert))
+
+conifer.avgdata1 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+conifer.pointrange1 <- range(df = conifer.expdata1, avg = conifer.avgdata1, page = pg, nexp = length(expvec))
+conifer.pointrange1
+```
+
+```{r Coniferptrange2, fig.width = 10, fig.height = 6.5}
+tab.wide <- 10
+
+conifer.expdata2 <- wide[[tab.wide]]
+conifer.expdata2 <- na.omit(conifer.expdata2)
+conifer.expdata2 <- mutate(conifer.expdata2, expi = ifelse(Expert == params$expert, T, F))
+conifer.expdata2$Expert <- as.numeric(as.character(conifer.expdata2$Expert))
+
+conifer.avgdata2 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+conifer.pointrange2 <- range(df = conifer.expdata2, avg = conifer.avgdata2, page = pg, nexp = length(expvec))
+conifer.pointrange2
+```
+
+```{r Coniferptrange3, fig.cap = "Figure 9. Individual expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the coniferous forest ecotype, under the Counterfactual scenario and with the Action. Each point and range represents the estimates from one expert. Your individual estimates are plotted in blue. Horizontal lines indicate the mean estimate (solid line = Best Guess, dashed lines = Lowest and Highest estimate).", fig.width = 10, fig.height= 6.5}
+tab.wide <- 11
+
+conifer.expdata3 <- wide[[tab.wide]]
+conifer.expdata3 <- na.omit(conifer.expdata3)
+conifer.expdata3 <- mutate(conifer.expdata3, expi = ifelse(Expert == params$expert, T, F)) 
+conifer.expdata3$Expert <- as.numeric(as.character(conifer.expdata3$Expert))
+
+conifer.avgdata3 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+conifer.pointrange3 <- range(df = conifer.expdata3, avg = conifer.avgdata3, page = pg, nexp = length(expvec))
+conifer.pointrange3
+```
+
+\newpage
+
+```{r Coniferouscomments}
+coniferous <- grpclean %>%
+  filter(Ecotype == "Coniferous Forest")
+
+comments.temp <- coniferous %>%
+  select(-Ecotype, -Estimate, -Counterfactual, -Action, -Rating) %>%
+  rename(Biodiversity = FunctionalGroup) %>% 
+  mutate(Biodiversity = as_factor(Biodiversity)) %>%
+  arrange(Biodiversity)
+
+comments.temp <- na.omit(comments.temp)
+
+coniferous.comments <- compile(comments.temp, expvec)
+
+coniferous.comments[coniferous.comments == ""] <- NA
+coniferous.comments <- na.omit(coniferous.comments) %>%
+  relocate(Biodiversity, .before = Expert) %>%
+  rename(`Coniferous Forest Biodiversity` = Biodiversity)
+
+# knitr::kable(freshwater.comments, row.names=F, format = "simple")
+ct <- flextable(coniferous.comments)
+ct <- set_table_properties(ct, width = 1, layout = "autofit")
+ct <- merge_v(ct, j = ~ `Coniferous Forest Biodiversity`)
+ct <- theme_vanilla(ct)
+ct
+```
+
+### Mixed Forest representative biodiversity (functional groups)
+
+```{r Mixedbox, fig.cap = "Figure 10. Boxplots summarizing the distribution of the lowest (Low), best guess (Best), and highest (High) expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the mixed forest ecotype, under the Counterfactual scenario and with the Action. Your individual estimates are shown as blue triangles.", fig.width = 10.2, fig.height= 6.5}
+tab.long <- 5
+
+mixed.data <- long[[tab.long]]
+mixed.data <- na.omit(mixed.data)
+
+mixed.boxplot <- box(mixed.data, page = tab.long, expert = params$expert)
+mixed.boxplot
+```
+
+```{r Mixedptrange1, fig.width = 10, fig.height = 6.5}
+tab.wide <- 12
+
+mixed.expdata1 <- wide[[tab.wide]]
+mixed.expdata1 <- na.omit(mixed.expdata1)
+mixed.expdata1 <- mutate(mixed.expdata1, expi = ifelse(Expert == params$expert, T, F))
+mixed.expdata1$Expert <- as.numeric(as.character(mixed.expdata1$Expert))
+
+mixed.avgdata1 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+mixed.pointrange1 <- range(df = mixed.expdata1, avg = mixed.avgdata1, page = pg, nexp = length(expvec))
+mixed.pointrange1
+```
+
+```{r Mixedptrange2, fig.width = 10, fig.height = 6.5}
+tab.wide <- 13
+
+mixed.expdata2 <- wide[[tab.wide]]
+mixed.expdata2 <- na.omit(mixed.expdata2)
+mixed.expdata2 <- mutate(mixed.expdata2, expi = ifelse(Expert == params$expert, T, F))
+mixed.expdata2$Expert <- as.numeric(as.character(mixed.expdata2$Expert))
+
+mixed.avgdata2 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+mixed.pointrange2 <- range(df = mixed.expdata2, avg = mixed.avgdata2, page = pg, nexp = length(expvec))
+mixed.pointrange2
+```
+
+```{r Mixedptrange3, fig.cap = "Figure 11. Individual expert estimates of the probability of persistence of representative biodiversity (*i.e.*, functional groups) in the mixed forest ecotype, under the Counterfactual scenario and with the Action. Each point and range represents the estimates from one expert. Your individual estimates are plotted in blue. Horizontal lines indicate the mean estimate (solid line = Best Guess, dashed lines = Lowest and Highest estimate).", fig.width = 10, fig.height= 6.5}
+tab.wide <- 14
+
+mixed.expdata3 <- wide[[tab.wide]]
+mixed.expdata3 <- na.omit(mixed.expdata3)
+mixed.expdata3 <- mutate(mixed.expdata3, expi = ifelse(Expert == params$expert, T, F)) 
+mixed.expdata3$Expert <- as.numeric(as.character(mixed.expdata3$Expert))
+
+mixed.avgdata3 <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+mixed.pointrange3 <- range(df = mixed.expdata3, avg = mixed.avgdata3, page = pg, nexp = length(expvec))
+mixed.pointrange3
+```
+
+\newpage
+
+```{r Mixedcomments}
+mixed <- grpclean %>%
+  filter(Ecotype == "Mixed Forest")
+
+comments.temp <- mixed %>%
+  select(-Ecotype, -Estimate, -Counterfactual, -Action, -Rating) %>%
+  rename(Biodiversity = FunctionalGroup) %>% 
+  mutate(Biodiversity = as_factor(Biodiversity)) %>%
+  arrange(Biodiversity)
+
+comments.temp <- na.omit(comments.temp)
+
+mixed.comments <- compile(comments.temp, expvec)
+
+mixed.comments[mixed.comments == ""] <- NA
+mixed.comments <- na.omit(mixed.comments) %>%
+  relocate(Biodiversity, .before = Expert) %>%
+  rename(`Mixed Forest Biodiversity` = Biodiversity)
+
+# knitr::kable(mixed.comments, row.names=F, format = "simple")
+mt <- flextable(mixed.comments)
+mt <- set_table_properties(mt, width = 1, layout = "autofit")
+mt <- merge_v(mt, j = ~ `Mixed Forest Biodiversity`)
+mt <- theme_vanilla(mt)
+mt
+```
+### Ecotypes
+
+```{r Ecotypebox, fig.cap = "Figure 12. Boxplots summarizing the distribution of the lowest (Low), best guess (Best), and highest (High) expert estimates of the probability of persistence of the different ecotypes under the Counterfactual scenario and with the Action. Your individual estimates are shown as blue triangles.", fig.width = 6, fig.height = 6.5}
+tab.long <- 6
+
+ecotype.data <- long[[tab.long]]
+ecotype.data <- na.omit(ecotype.data)
+
+ecotype.boxplot <- box(ecotype.data, page = tab.long, expert = params$expert)
+ecotype.boxplot
+```
+
+```{r Ecotypeptrange, fig.cap = "Figure 13. Individual expert estimates of the probability of persistence of the different ecotypes under the Counterfactual scenario and with the Action. Each point and range represents the estimates from one expert. Your individual estimates are plotted in blue. Horizontal lines indicate the mean estimate (solid line = Best Guess, dashed lines = Lowest and Highest estimate).", fig.width = 10, fig.height = 6.5}
+tab.wide <- 15
+
+ecotype.expdata <- wide[[tab.wide]]
+ecotype.expdata <- na.omit(ecotype.expdata)
+ecotype.expdata <- mutate(ecotype.expdata, expi = ifelse(Expert == params$expert, T, F))
+ecotype.expdata$Expert <- as.numeric(as.character(ecotype.expdata$Expert))
+
+ecotype.avgdata <- average[[tab.wide]]
+
+pg <- col[tab.wide]
+ecotype.pointrange <- range(df = ecotype.expdata, avg = ecotype.avgdata, page = pg, nexp = length(expvec))
+ecotype.pointrange
+```
+
+\newpage
+
+```{r Ecotypecomments}
+comments.temp <- ecoclean %>%
+  select(-Estimate, -Counterfactual, -Action, -Rating) %>%
+  mutate(Biodiversity = as_factor(Biodiversity)) %>%
+  arrange(Biodiversity)
+comments.temp <- na.omit(comments.temp)
+
+ecotype.comments <- compile(comments.temp, expvec)
+
+ecotype.comments[ecotype.comments == ""] <- NA
+ecotype.comments <- na.omit(ecotype.comments) %>%
+  relocate(Biodiversity, .before = Expert) %>%
+  rename(Ecotype = Biodiversity)
+
+# knitr::kable(ecotype.comments, row.names=F, format = "simple")
+ecot <- flextable(ecotype.comments)
+ecot <- set_table_properties(ecot, width = 1, layout = "autofit")
+ecot <- merge_v(ecot, j = ~ Ecotype)
+ecot <- theme_vanilla(ecot)
+ecot
+```
