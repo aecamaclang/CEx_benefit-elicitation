@@ -6,10 +6,8 @@
 #' ---
 #'   
 #' This script:  
-#' 1) Converts .xlsx to .csv files. Requires that all expert data files are 
-#' saved in the same subfolder with no other Excel files in the folder.  
-#' 2) Compiles expert estimates from multiple .csv files into single table.   
-#' 3) Performs data cleaning as needed (e.g., removing example rows or 
+#' 1) Compiles expert estimates from multiple .csv files into single table.   
+#' 2) Performs data cleaning as needed (e.g., removing example rows or 
 #' empty rows, standardizing variable names, converting B's into Counterfactual 
 #' values and X's into NAs).  
 #'   
@@ -18,10 +16,8 @@
 library(here)
 library(tidyverse)
 library(naniar)
-library(readxl)
 
 # Specify input and output filepaths
-raw <- here("projects", "TUC_MackenzieCr", "data", "initial", "raw")
 success <- here("projects", "TUC_MackenzieCr", "data", "initial", "input", "success")
 sar <- here("projects", "TUC_MackenzieCr", "data", "initial", "input", "sar")
 group <- here("projects", "TUC_MackenzieCr", "data", "initial", "input", "group")
@@ -40,32 +36,15 @@ nsar <- 21 # number of SAR in the spreadsheets
 ngrp <- 13 + 13 + 11 + 11 # number of ecological groups
 neco <- 4 # number of ecotypes
 
-# Create a vector of Excel files to read
-files.to.read = list.files(raw, pattern="xlsx")
-
-# Convert each worksheet into separate .csv for each data type
-ws <- data.frame(matrix(c(2:5, success, sar, group, ecotype), ncol = 2))
-names(ws)<-c("sheet", "path")
-ws$sheet <- as.numeric(ws$sheet)
-
-for (s in 1:nrow(ws)) {
-  fp <- ws$path[s]
-  lapply(files.to.read, function(f) {
-    df = read_excel(paste(raw, "/", f, sep = ""), sheet = ws$sheet[s])
-    write.csv(df, paste(fp, "/", gsub("xlsx", "csv", f), sep = ""), row.names=FALSE)
-  })
-}
-
 # Specify number of data rows to import from .csv files (after skiplines)
 # sarrows <- (nsar*4) # (4 rows [Best Guess, Lowest, Highest, Confidence] per species)
 sarrows <- ((nsar+3)*4) # NOTE for TUC_MackenzieCr, 2 sets of blank rows (= 8 rows) (rows were hidden), and the example row need to be removed.
 grprows <- (ngrp*4)
 ecorows <- (neco*4)
 
-
 #' Probability of project success
-# Use custom functions to convert .xlsx to .csv, then combine multiple .csv files into single data frame
 
+# Combine multiple .csv files into single data frame
 feasdata <- import(paste0("*.csv"), filepath = paste(success, "/", sep=""), skiplines = 9,
                    numrows = 6, numexp = nexp) # includes the Notes/Comments box
 # skiplines can be a bit finicky - needs some trial & error)
@@ -82,7 +61,7 @@ feasdata <- add_row(feasdata, Estimate = NA, Value = NA)
 tempvec <- c()
 
 for (i in 1:nexp) {
-  tempvec <- c(tempvec, rep(i, times = 6)) # 'times' should equal the number of rows imported
+  tempvec <- c(tempvec, rep(i, times = 6)) # 'times' should equal the number of data rows to import
 }
 
 feasdata <- feasdata %>%
@@ -116,6 +95,7 @@ sarclean <- cleandata(sardata, numrows = sarrows, numexp = nexp)
 sarclean$Biodiversity[which(str_detect(sarclean$Biodiversity, "Bull Trout") == 1)] <- "Bull Trout"
 sarclean$Biodiversity[which(str_detect(sarclean$Biodiversity, "Rainbow Trout") == 1)] <- "Rainbow Trout"
 sarclean$Biodiversity[which(str_detect(sarclean$Biodiversity, "Western Toad") == 1)] <- "Western Toad"
+sarclean$Biodiversity[which(str_detect(sarclean$Biodiversity, "Wolverine") == 1)] <- "Wolverine"
 sarclean$Biodiversity[which(str_detect(sarclean$Biodiversity, "Western Bumble Bee") == 1)] <- "Western Bumble Bee"
 
 # NOTE: for the TUC_MackenzieCr project, the example rows must be removed, 
