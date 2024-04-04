@@ -46,7 +46,7 @@ ecorows <- (neco*4)
 
 # Combine multiple .csv files into single data frame
 feasdata <- import(paste0("*.csv"), filepath = paste(success, "/", sep=""), skiplines = 9,
-                   numrows = 6, numexp = nexp) # includes the Notes/Comments box
+                   numrows = 6) # includes the Notes/Comments box
 # skiplines can be a bit finicky - needs some trial & error)
 
 names(feasdata) <- c("Estimate", "Value")
@@ -80,7 +80,7 @@ write.csv(feasdata, paste(derived, "/Feas_estimates.csv", sep = ""), row.names =
 
 # Use custom function to combine multiple .csv files into single data frame
 sardata <- import(paste0("*.csv"), filepath = paste(sar, "/", sep=""),
-                  skiplines = 15, numrows = sarrows, numexp = nexp) 
+                  skiplines = 15, numrows = sarrows) 
 
 # Check that all rows have been read
 if (nrow(sardata) != sarrows*nexp) {
@@ -123,7 +123,7 @@ write.csv(sarclean, paste(derived, "/SAR_Estimates.csv", sep = ""), row.names = 
 
 # Use custom function to combine multiple .csv files into single data frame
 grpdata <- import(paste0("*.csv"), filepath = paste(group, "/", sep=""),
-                  skiplines = 15, numrows = grprows-2, numexp = nexp) 
+                  skiplines = 15, numrows = grprows-2) 
 # NOTE two of the 'CONFIDENCE' rows (after row 127 and 170 of Excel file) is missing from spreadsheet
 
 grpdata <- grpdata[,1:6] # remove 'Example species' column
@@ -206,7 +206,7 @@ write.csv(grpclean, paste(derived, "/FuncGrp_Estimates.csv", sep = ""), row.name
 
 # Use custom function to combine multiple .csv files into single data frame
 ecodata <- import(paste0("*.csv"), filepath = paste(ecotype, "/", sep=""),
-                  skiplines = 15, numrows = ecorows, numexp = nexp) # one of the CONFIDENCE rows is missing from spreadsheet
+                  skiplines = 15, numrows = ecorows) # one of the CONFIDENCE rows is missing from spreadsheet
 
 # Check that all rows have been read
 if (nrow(ecodata) != ecorows*nexp) {

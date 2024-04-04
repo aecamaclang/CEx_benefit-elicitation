@@ -1,15 +1,25 @@
-#' Custom functions to manage and aggregate expert estimates for the Conservation Exchange
+#' Functions to manage and aggregate expert estimates for the Conservation Exchange
 #' 
 #' @description
 #' `import` reads in multiple csv files and returns a single table that combines data from all imported files.
 #' `clean` adds in a column for expert code, fills in species/functional group/ecotype names, removes 'example' and 'CONFIDENCE' rows, converts B's to Baseline/counterfactual values and X's or blanks to NAs
-#' `count` returns a table without the Rating and Comments columns, a 'tidy' version of the table, and a table that counts the number of expert estimates for each Biodiversity element, Scenario and Estimate type
-#' `calculate` calculates the mean values, then determines the mean probability of persistence WITH Action (mean persistence under Counterfactual + mean Benefit), the expected benefit (mean Benefit * mean probability of Success), and mean probability of persistence WITH Action (mean persistence under Counterfactual + mean Expected Benefit)
+#' `count` returns a table without the Rating and Comments columns, a 'tidy' version of the table, and a table of the number of expert estimates for each Biodiversity element, Scenario and Estimate type
+#' `calculate` calculates the mean values, then determines the mean probability of persistence WITH Action (mean persistence under Counterfactual + mean Benefit), the expected benefit (mean Benefit * mean probability of Success), and expected probability of persistence WITH Action (mean persistence under Counterfactual + mean Expected Benefit)
 #'
+#' @param string pattern to look for
+#' @param filepath location of .csv files to import
+#' @param skiplines number of header rows to ignore when importing the .csv files
+#' @param numrows number of datarows to import
+#' @param x dataframe object to format
+#' @param numexp number of expert datasets
+#' @param xtable dataframe of combined dataset to count and tidy
+#' @param benefit dataframe of estimates of probability of persistence in 'wide' format (Counterfactual and Action estimates in separate columns)
+#' @param counts dataframe of the number of estimates for each Biodiversity feature and Estimate type
+#' @param feas value for mean probability of success of the project
 
-import <- function(x, filepath, skiplines, numrows, numexp) {
+import <- function(string, filepath, skiplines, numrows) {
   files <- list.files(path = filepath,
-                      pattern = x,
+                      pattern = string,
                       full.names = T)
   listcsv <- lapply(files,
                     function(x) read.csv(x,
